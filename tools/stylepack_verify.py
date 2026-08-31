@@ -80,6 +80,33 @@ def verify_repo(root: Path) -> int:
                 errors.append("unified pack has too few broad DESIGN.md entries")
             if len(pdata.get("styles", [])) < 10:
                 errors.append("unified pack must expose deep style entries")
+            declared_broad = pdata.get("source_baseline", {}).get("design_md_count", 0)
+            actual_broad = len(list((root / "pack/design-md").glob("*/DESIGN.md")))
+            if actual_broad != declared_broad:
+                errors.append(
+                    f"unified pack broad catalog is incomplete: declared {declared_broad}, found {actual_broad}"
+                )
+
+            registry_style_ids = {entry.get("id") for entry in pdata.get("styles", [])}
+            source_style_ids = {
+                path.name
+                for path in (root / "styles").iterdir()
+                if path.is_dir() and not path.name.startswith("_")
+            }
+            if registry_style_ids != source_style_ids:
+                missing = sorted(source_style_ids - registry_style_ids)
+                extra = sorted(registry_style_ids - source_style_ids)
+                errors.append(
+                    f"unified deep-style registry mismatch: missing={missing}, extra={extra}"
+                )
+
+            for entry in pdata.get("styles", []):
+                for field in ("entry", "extension", "components"):
+                    rel = entry.get(field)
+                    if not rel or not (root / rel).exists():
+                        errors.append(
+                            f"unified style {entry.get('id')} has missing {field}: {rel}"
+                        )
         except Exception as exc:  # noqa: BLE001
             errors.append(f"invalid pack/registry.json: {exc}")
 

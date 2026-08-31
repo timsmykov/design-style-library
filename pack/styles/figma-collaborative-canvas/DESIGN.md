@@ -491,4 +491,3 @@ A result is acceptable only if it passes the local eval layer and can name which
 ## Safety
 
 Adapt style grammar. Do not impersonate the brand, reuse logos, reproduce exact screens, copy private data, or import proprietary source code.
-

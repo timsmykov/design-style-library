@@ -9,6 +9,15 @@ It consolidates:
 - generated component slices: `pack/components/<style-id>`
 - unified per-style entrypoints: `pack/styles/<style-id>/DESIGN.md`
 
+## Catalog size
+
+- Broad `DESIGN.md` styles: 74
+- Deep evidence-backed style packs: 12
+- Total runtime style entrypoints: 86
+
+Both layers are part of the complete runtime catalog. Broad styles remain valid
+entrypoints even when no deep extension exists.
+
 Agents should treat `pack/` as the design system package. The older `baselines/` and `styles/` roots remain source/provenance/build layers, not the runtime mental model.
 
 ## Default decision rule

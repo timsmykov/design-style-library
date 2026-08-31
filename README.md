@@ -23,6 +23,20 @@ This repo now exposes one runtime-facing package: `pack/`.
 
 VoltAgent is the foundation inside the pack; Hermes deep packs are the build-out/override layer inside the same pack. Historical `baselines/` and `styles/` paths remain source/provenance/build locations, not the runtime mental model.
 
+## Complete catalog
+
+The repository intentionally ships styles at two levels of depth:
+
+- **74 broad styles** under `pack/design-md/`: compact `DESIGN.md` references
+  covering brands and visual systems such as Apple, Airbnb, BMW, Figma,
+  Notion, Nike, Spotify, Stripe, Tesla, Vercel, and many others;
+- **12 deep style packs** under `pack/styles/`: evidence-backed systems with
+  tokens, patterns, component capsules, examples, and evaluation gates.
+
+That gives agents **86 runtime style entrypoints**. Broad styles are first-class
+catalog entries even when they are less deeply researched than the 12 extended
+packs. Repository verification fails if either catalog layer is incomplete.
+
 ## What a style pack contains
 
 - local visual corpus exported from Mobbin or other legitimate references;

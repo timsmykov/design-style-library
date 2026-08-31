@@ -135,7 +135,7 @@ Component semantic slices: `pack/components/{sid}`
 
 {contract}
 """
-        (out / 'DESIGN.md').write_text(design_text, encoding='utf-8')
+        (out / 'DESIGN.md').write_text(design_text.rstrip() + '\n', encoding='utf-8')
         (out / 'README.md').write_text(f"""# {STYLE_NAMES.get(sid, sid)}
 
 Single-pack entry for `{sid}`.
@@ -194,6 +194,15 @@ It consolidates:
 - Hermes deep style extensions: `pack/extensions/<style-id>`
 - generated component slices: `pack/components/<style-id>`
 - unified per-style entrypoints: `pack/styles/<style-id>/DESIGN.md`
+
+## Catalog size
+
+- Broad `DESIGN.md` styles: {baseline_index.get('design_md_count')}
+- Deep evidence-backed style packs: {len(unified_entries)}
+- Total runtime style entrypoints: {baseline_index.get('design_md_count', 0) + len(unified_entries)}
+
+Both layers are part of the complete runtime catalog. Broad styles remain valid
+entrypoints even when no deep extension exists.
 
 Agents should treat `pack/` as the design system package. The older `baselines/` and `styles/` roots remain source/provenance/build layers, not the runtime mental model.
 
