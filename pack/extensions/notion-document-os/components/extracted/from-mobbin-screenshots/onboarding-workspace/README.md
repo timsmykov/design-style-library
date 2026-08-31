@@ -57,18 +57,6 @@ Evidence count: **27** local Mobbin refs.
 
 ## Source URL samples
 
-- https://mobbin.com/screens/c05fdc8a-929a-4671-a457-90388898d76b
-- https://mobbin.com/screens/f45a639a-28e6-4a02-82a4-ccbe15e5bc13
-- https://mobbin.com/screens/f57eac1e-10c4-4343-adfb-b66283af3171
-- https://mobbin.com/screens/694c9fac-97d6-4007-8880-18cac3e67d7e
-- https://mobbin.com/flows/757b6888-6eaa-498d-9b18-c013c9a2ef4a
-- https://mobbin.com/flows/757b6888-6eaa-498d-9b18-c013c9a2ef4a
-- https://mobbin.com/flows/757b6888-6eaa-498d-9b18-c013c9a2ef4a
-- https://mobbin.com/flows/47b2a5db-b581-4aef-9d03-83d2c13947c0
-- https://mobbin.com/flows/47b2a5db-b581-4aef-9d03-83d2c13947c0
-- https://mobbin.com/flows/47b2a5db-b581-4aef-9d03-83d2c13947c0
-- https://mobbin.com/flows/6a0c0bb0-ec58-437a-be74-66a9f683b860
-- https://mobbin.com/flows/6a0c0bb0-ec58-437a-be74-66a9f683b860
 
 ## Normalized implementation recipe
 

@@ -6,7 +6,7 @@ Offline, self-contained repository of distilled design style packs for agents.
 
 Runtime agents use this repository only. Mobbin, Firecrawl, Browser Use, Playwright, CDP, CSS parsers, and vision analysis are **build-time extraction tools**, not runtime dependencies.
 
-A style pack is ready only when a fresh agent can produce a useful interface, presentation, visual note, or data visualization from the local pack without calling Mobbin, web search, Firecrawl, or a browser.
+A style pack is ready only when a fresh agent can produce a useful interface, presentation, visual note, or data visualization from the local pack without calling Mobbin, web search, Firecrawl, or a browser. Historical Mobbin-derived screenshots remain local evidence; live Mobbin URLs have been removed because the library no longer depends on an active subscription.
 
 
 ## Unified runtime pack
@@ -62,8 +62,8 @@ Prompts, if needed, are derived at runtime from `STYLE.md`, `tokens/`, `patterns
 
 The GitHub distribution is built as a clean snapshot rather than by pushing the
 server repository history. Private G-Brain exports and raw captures containing
-embedded client API configuration are excluded. See `SHARING.md` before making
-the repository public or redistributing captured reference assets.
+embedded client API configuration are excluded. See `SHARING.md` and
+`PUBLICATION_AUDIT.md` for the public-sharing boundary.
 
 ## Repository layout
 

@@ -55,26 +55,6 @@ Evidence count: **34** local Mobbin refs.
 
 ## Source URL samples
 
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/26759735-1e9f-4c2c-87b2-62521d8928fc
-- https://mobbin.com/flows/3f6157df-cdeb-4295-840a-fe56494d5adc
-- https://mobbin.com/flows/3f6157df-cdeb-4295-840a-fe56494d5adc
-- https://mobbin.com/flows/3f6157df-cdeb-4295-840a-fe56494d5adc
-- https://mobbin.com/flows/3f6157df-cdeb-4295-840a-fe56494d5adc
 
 ## Normalized implementation recipe
 

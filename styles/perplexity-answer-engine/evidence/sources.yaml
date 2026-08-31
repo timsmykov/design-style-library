@@ -2,744 +2,744 @@ sources:
   - id: mobbin-001
     source_type: screen
     local_path: evidence/mobbin/screens/screen-001-perplexity-11a16581.webp
-    mobbin_url: https://mobbin.com/screens/11a16581-2809-47c8-b58e-5e5af46c2120
-    image_url: https://mobbin.com/api/mcp/short/cYzHVgA6
+    mobbin_url:
+    image_url:
     component_match: search-composer
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-002
     source_type: screen
     local_path: evidence/mobbin/screens/screen-002-perplexity-df2dadc7.webp
-    mobbin_url: https://mobbin.com/screens/df2dadc7-8744-4483-b404-bef12639e550
-    image_url: https://mobbin.com/api/mcp/short/bATfQVtW
+    mobbin_url:
+    image_url:
     component_match: search-composer
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-003
     source_type: screen
     local_path: evidence/mobbin/screens/screen-003-perplexity-9c22b5e4.webp
-    mobbin_url: https://mobbin.com/screens/9c22b5e4-e120-4809-89c4-2ecbeca7ee25
-    image_url: https://mobbin.com/api/mcp/short/U0XrXbE4
+    mobbin_url:
+    image_url:
     component_match: search-composer
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-004
     source_type: screen
     local_path: evidence/mobbin/screens/screen-004-perplexity-6049b341.webp
-    mobbin_url: https://mobbin.com/screens/6049b341-0a7f-4701-b1bc-266fad103745
-    image_url: https://mobbin.com/api/mcp/short/uQ7kXguP
+    mobbin_url:
+    image_url:
     component_match: search-composer
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-005
     source_type: screen
     local_path: evidence/mobbin/screens/screen-005-perplexity-33039fcc.webp
-    mobbin_url: https://mobbin.com/screens/33039fcc-81a7-4ae0-9d2b-356dc8125225
-    image_url: https://mobbin.com/api/mcp/short/3t2S6GbT
+    mobbin_url:
+    image_url:
     component_match: search-composer
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-006
     source_type: screen
     local_path: evidence/mobbin/screens/screen-006-perplexity-4c549161.webp
-    mobbin_url: https://mobbin.com/screens/4c549161-e1f9-456a-8267-5cad3039e4b1
-    image_url: https://mobbin.com/api/mcp/short/584xiqQ6
+    mobbin_url:
+    image_url:
     component_match: search-composer
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-007
     source_type: screen
     local_path: evidence/mobbin/screens/screen-007-perplexity-01fad6f5.webp
-    mobbin_url: https://mobbin.com/screens/01fad6f5-8f99-4af2-98fb-35410b49df76
-    image_url: https://mobbin.com/api/mcp/short/hZFyVXYW
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-008
     source_type: screen
     local_path: evidence/mobbin/screens/screen-008-perplexity-8481f908.webp
-    mobbin_url: https://mobbin.com/screens/8481f908-ebca-48ac-aca3-3127b12da133
-    image_url: https://mobbin.com/api/mcp/short/OQp7koFu
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-009
     source_type: screen
     local_path: evidence/mobbin/screens/screen-009-perplexity-c1715c69.webp
-    mobbin_url: https://mobbin.com/screens/c1715c69-e8c9-4721-9177-4ac706f14583
-    image_url: https://mobbin.com/api/mcp/short/AF6d8kmE
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-010
     source_type: screen
     local_path: evidence/mobbin/screens/screen-010-perplexity-acd7a75a.webp
-    mobbin_url: https://mobbin.com/screens/acd7a75a-e915-4d83-868c-650ca9756ecd
-    image_url: https://mobbin.com/api/mcp/short/yOj3aVRB
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-011
     source_type: screen
     local_path: evidence/mobbin/screens/screen-011-perplexity-e38f5034.webp
-    mobbin_url: https://mobbin.com/screens/e38f5034-9d4d-4353-9456-6e45a9c543d8
-    image_url: https://mobbin.com/api/mcp/short/Ii3jn7Qe
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-012
     source_type: screen
     local_path: evidence/mobbin/screens/screen-012-perplexity-21812368.webp
-    mobbin_url: https://mobbin.com/screens/21812368-c033-42e7-a92e-5eecb968b1ec
-    image_url: https://mobbin.com/api/mcp/short/e1zZqqju
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-013
     source_type: screen
     local_path: evidence/mobbin/screens/screen-013-perplexity-2a4fd1dc.webp
-    mobbin_url: https://mobbin.com/screens/2a4fd1dc-ba01-4bef-8f64-93c10a79c078
-    image_url: https://mobbin.com/api/mcp/short/bQC55dIK
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-014
     source_type: screen
     local_path: evidence/mobbin/screens/screen-014-perplexity-6b6dec76.webp
-    mobbin_url: https://mobbin.com/screens/6b6dec76-8dc3-41ee-a168-4ac5cd12ad2f
-    image_url: https://mobbin.com/api/mcp/short/FhAdWtZr
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-015
     source_type: screen
     local_path: evidence/mobbin/screens/screen-015-perplexity-0a6cb95d.webp
-    mobbin_url: https://mobbin.com/screens/0a6cb95d-d6f5-4b64-badf-81af7fe201c1
-    image_url: https://mobbin.com/api/mcp/short/8qG971WT
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-016
     source_type: screen
     local_path: evidence/mobbin/screens/screen-016-perplexity-1f539b75.webp
-    mobbin_url: https://mobbin.com/screens/1f539b75-8453-4020-8e0f-788d54cd20cd
-    image_url: https://mobbin.com/api/mcp/short/qFCUtMi5
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-017
     source_type: screen
     local_path: evidence/mobbin/screens/screen-017-perplexity-e33e456e.webp
-    mobbin_url: https://mobbin.com/screens/e33e456e-3e53-4159-82c0-d5a5914c060f
-    image_url: https://mobbin.com/api/mcp/short/WWDJh6TV
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-018
     source_type: screen
     local_path: evidence/mobbin/screens/screen-018-perplexity-dfe025c8.webp
-    mobbin_url: https://mobbin.com/screens/dfe025c8-4c38-4d62-9ae0-706ea8be8498
-    image_url: https://mobbin.com/api/mcp/short/r8cZ6tBw
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-019
     source_type: screen
     local_path: evidence/mobbin/screens/screen-019-perplexity-1d2c8bad.webp
-    mobbin_url: https://mobbin.com/screens/1d2c8bad-101a-4608-adbb-3e7f0373e1ad
-    image_url: https://mobbin.com/api/mcp/short/OZM9zDRK
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-020
     source_type: screen
     local_path: evidence/mobbin/screens/screen-020-perplexity-767a796e.webp
-    mobbin_url: https://mobbin.com/screens/767a796e-08ce-4edc-b52c-4178fedb2062
-    image_url: https://mobbin.com/api/mcp/short/3GQtpG7F
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-021
     source_type: screen
     local_path: evidence/mobbin/screens/screen-021-perplexity-2906ea85.webp
-    mobbin_url: https://mobbin.com/screens/2906ea85-6745-48d7-8865-587cf44cee4a
-    image_url: https://mobbin.com/api/mcp/short/sOckZBnu
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-022
     source_type: screen
     local_path: evidence/mobbin/screens/screen-022-perplexity-a0fc846e.webp
-    mobbin_url: https://mobbin.com/screens/a0fc846e-4f0f-4cf9-96ef-d04c62c22e65
-    image_url: https://mobbin.com/api/mcp/short/ftPAiNfh
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-023
     source_type: screen
     local_path: evidence/mobbin/screens/screen-023-perplexity-91a39379.webp
-    mobbin_url: https://mobbin.com/screens/91a39379-02eb-4d60-b3ed-4510209617d5
-    image_url: https://mobbin.com/api/mcp/short/m50wVWdW
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-024
     source_type: screen
     local_path: evidence/mobbin/screens/screen-024-perplexity-7c12340d.webp
-    mobbin_url: https://mobbin.com/screens/7c12340d-b3de-439f-8325-715210fe6ecb
-    image_url: https://mobbin.com/api/mcp/short/nHJk39Jt
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-025
     source_type: screen
     local_path: evidence/mobbin/screens/screen-025-perplexity-ddd67eb2.webp
-    mobbin_url: https://mobbin.com/screens/ddd67eb2-9865-40c3-9505-257dc14a81e9
-    image_url: https://mobbin.com/api/mcp/short/wFdpTOEy
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-026
     source_type: screen
     local_path: evidence/mobbin/screens/screen-026-perplexity-9b5e6b72.webp
-    mobbin_url: https://mobbin.com/screens/9b5e6b72-b3ad-447f-9162-818e067c19ea
-    image_url: https://mobbin.com/api/mcp/short/v95xB4O9
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-027
     source_type: screen
     local_path: evidence/mobbin/screens/screen-027-perplexity-5dfc93ed.webp
-    mobbin_url: https://mobbin.com/screens/5dfc93ed-56d1-452d-bee9-fa0ec1dc7289
-    image_url: https://mobbin.com/api/mcp/short/K2VOUUNz
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-028
     source_type: screen
     local_path: evidence/mobbin/screens/screen-028-perplexity-a13b68c3.webp
-    mobbin_url: https://mobbin.com/screens/a13b68c3-1733-45bf-89d0-78a02045a564
-    image_url: https://mobbin.com/api/mcp/short/33z2IBgO
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-029
     source_type: screen
     local_path: evidence/mobbin/screens/screen-029-perplexity-e6203f17.webp
-    mobbin_url: https://mobbin.com/screens/e6203f17-2d13-4b42-9ea0-0222102d982d
-    image_url: https://mobbin.com/api/mcp/short/hCwGjsmj
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-030
     source_type: screen
     local_path: evidence/mobbin/screens/screen-030-perplexity-d131a965.webp
-    mobbin_url: https://mobbin.com/screens/d131a965-a4dc-4b85-93de-c270715b96d1
-    image_url: https://mobbin.com/api/mcp/short/y5i2e7qz
+    mobbin_url:
+    image_url:
     component_match: app-shell-sidebar
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-031
     source_type: screen
     local_path: evidence/mobbin/screens/screen-031-perplexity-e1fc546d.webp
-    mobbin_url: https://mobbin.com/screens/e1fc546d-7c76-4b32-808f-824900af9ff7
-    image_url: https://mobbin.com/api/mcp/short/twLmZ9Ch
+    mobbin_url:
+    image_url:
     component_match: pro-upgrade-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-032
     source_type: screen
     local_path: evidence/mobbin/screens/screen-037-perplexity-b1605d9d.webp
-    mobbin_url: https://mobbin.com/screens/b1605d9d-07d7-4cfb-a506-1c4ef67fcbef
-    image_url: https://mobbin.com/api/mcp/short/PuntBUwo
+    mobbin_url:
+    image_url:
     component_match: pro-upgrade-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-033
     source_type: screen
     local_path: evidence/mobbin/screens/screen-039-perplexity-55b17e2c.webp
-    mobbin_url: https://mobbin.com/screens/55b17e2c-ebc7-4da5-ad1d-8bc8d16d90a3
-    image_url: https://mobbin.com/api/mcp/short/J0fugnmn
+    mobbin_url:
+    image_url:
     component_match: pro-upgrade-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-034
     source_type: screen
     local_path: evidence/mobbin/screens/screen-043-perplexity-f642b62f.webp
-    mobbin_url: https://mobbin.com/screens/f642b62f-7fc3-478c-9542-bf1d68353bda
-    image_url: https://mobbin.com/api/mcp/short/iyMwEgAs
+    mobbin_url:
+    image_url:
     component_match: pro-upgrade-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-035
     source_type: screen
     local_path: evidence/mobbin/screens/screen-045-perplexity-3f9362a9.webp
-    mobbin_url: https://mobbin.com/screens/3f9362a9-246e-4741-b799-e1f9a23e9a1c
-    image_url: https://mobbin.com/api/mcp/short/h4FtoILO
+    mobbin_url:
+    image_url:
     component_match: pro-upgrade-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-036
     source_type: screen
     local_path: evidence/mobbin/screens/screen-046-perplexity-64238b1d.webp
-    mobbin_url: https://mobbin.com/screens/64238b1d-01c7-4f6c-b4f7-2b10f01c7579
-    image_url: https://mobbin.com/api/mcp/short/PopT0Nd5
+    mobbin_url:
+    image_url:
     component_match: pro-upgrade-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-037
     source_type: screen
     local_path: evidence/mobbin/screens/screen-051-perplexity-8b919957.webp
-    mobbin_url: https://mobbin.com/screens/8b919957-a051-4428-aeb6-5dd69f325959
-    image_url: https://mobbin.com/api/mcp/short/cfKjw4YE
+    mobbin_url:
+    image_url:
     component_match: pro-upgrade-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-038
     source_type: screen
     local_path: evidence/mobbin/screens/screen-053-perplexity-46a9f2c6.webp
-    mobbin_url: https://mobbin.com/screens/46a9f2c6-29bc-4b5d-9261-e967b3513e8e
-    image_url: https://mobbin.com/api/mcp/short/GtKrU8bl
+    mobbin_url:
+    image_url:
     component_match: collections-library
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-039
     source_type: screen
     local_path: evidence/mobbin/screens/screen-054-perplexity-ca9d37bb.webp
-    mobbin_url: https://mobbin.com/screens/ca9d37bb-2eca-4bd7-8d42-fadab383370a
-    image_url: https://mobbin.com/api/mcp/short/rMukOPAK
+    mobbin_url:
+    image_url:
     component_match: collections-library
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-040
     source_type: screen
     local_path: evidence/mobbin/screens/screen-057-perplexity-b2f72064.webp
-    mobbin_url: https://mobbin.com/screens/b2f72064-0161-45d2-b8be-7766c0ba1add
-    image_url: https://mobbin.com/api/mcp/short/jPuJr0nm
+    mobbin_url:
+    image_url:
     component_match: collections-library
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-041
     source_type: screen
     local_path: evidence/mobbin/screens/screen-061-perplexity-8843ca9d.webp
-    mobbin_url: https://mobbin.com/screens/8843ca9d-f44d-41f1-a712-c18d75c05bab
-    image_url: https://mobbin.com/api/mcp/short/cTlfCNU4
+    mobbin_url:
+    image_url:
     component_match: collections-library
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-042
     source_type: screen
     local_path: evidence/mobbin/screens/screen-063-perplexity-66504dae.webp
-    mobbin_url: https://mobbin.com/screens/66504dae-3d4c-4592-9866-bb2eeb5b993b
-    image_url: https://mobbin.com/api/mcp/short/EAfEB863
+    mobbin_url:
+    image_url:
     component_match: collections-library
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-043
     source_type: screen
     local_path: evidence/mobbin/screens/screen-071-perplexity-f4173713.webp
-    mobbin_url: https://mobbin.com/screens/f4173713-e5b9-4999-bee7-6cddffd4b5b4
-    image_url: https://mobbin.com/api/mcp/short/NETnAtt1
+    mobbin_url:
+    image_url:
     component_match: settings-account
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-044
     source_type: screen
     local_path: evidence/mobbin/screens/screen-073-perplexity-da659c01.webp
-    mobbin_url: https://mobbin.com/screens/da659c01-471c-438a-aeb9-f9270da00ecc
-    image_url: https://mobbin.com/api/mcp/short/2MFv7fec
+    mobbin_url:
+    image_url:
     component_match: settings-account
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-045
     source_type: screen
     local_path: evidence/mobbin/screens/screen-081-perplexity-7c226493.webp
-    mobbin_url: https://mobbin.com/screens/7c226493-907a-45bb-8550-3b0e48c0c14e
-    image_url: https://mobbin.com/api/mcp/short/cKNrB0jX
+    mobbin_url:
+    image_url:
     component_match: settings-account
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-046
     source_type: section
     local_path: evidence/mobbin/sections/section-001-perplexity-pc-4389591f.webp
-    mobbin_url: https://mobbin.com/sites/sections/4389591f-8844-4978-9946-2aa4fe1f517f
-    image_url: https://mobbin.com/api/mcp/short/Ni6AEy4y
+    mobbin_url:
+    image_url:
     component_match: public-landing-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-047
     source_type: section
     local_path: evidence/mobbin/sections/section-002-perplexity-pc-0c2e224c.webp
-    mobbin_url: https://mobbin.com/sites/sections/0c2e224c-cea1-4d6a-ba70-d9ecbb1a9288
-    image_url: https://mobbin.com/api/mcp/short/UICxJwWY
+    mobbin_url:
+    image_url:
     component_match: public-landing-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-048
     source_type: section
     local_path: evidence/mobbin/sections/section-003-perplexity-pc-827da229.webp
-    mobbin_url: https://mobbin.com/sites/sections/827da229-a516-4e10-86f8-44684d074eb5
-    image_url: https://mobbin.com/api/mcp/short/WAqP8t2K
+    mobbin_url:
+    image_url:
     component_match: public-landing-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-049
     source_type: section
     local_path: evidence/mobbin/sections/section-004-perplexity-pc-5fbb4019.webp
-    mobbin_url: https://mobbin.com/sites/sections/5fbb4019-adc0-4d45-a92f-25513f0ccc38
-    image_url: https://mobbin.com/api/mcp/short/4QF9PDnp
+    mobbin_url:
+    image_url:
     component_match: public-landing-pricing
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-050
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-291675b5-searching-a-related-question/pos-001-fbc58a7d.webp
-    mobbin_url: https://mobbin.com/flows/291675b5-d0d3-4610-bbd7-29e316e55de6
-    image_url: https://mobbin.com/api/mcp/short/vYjCoVzg
+    mobbin_url:
+    image_url:
     component_match: follow-up-related-questions
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-051
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-291675b5-searching-a-related-question/pos-002-acd7a75a.webp
-    mobbin_url: https://mobbin.com/flows/291675b5-d0d3-4610-bbd7-29e316e55de6
-    image_url: https://mobbin.com/api/mcp/short/sBx7ArLC
+    mobbin_url:
+    image_url:
     component_match: follow-up-related-questions
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-052
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-291675b5-searching-a-related-question/pos-003-311a679f.webp
-    mobbin_url: https://mobbin.com/flows/291675b5-d0d3-4610-bbd7-29e316e55de6
-    image_url: https://mobbin.com/api/mcp/short/ArMDe8Pe
+    mobbin_url:
+    image_url:
     component_match: follow-up-related-questions
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-053
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-001-2c32c53c.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/zKAp9XlN
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-054
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-002-d40c7e8c.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/ydSfMm5n
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-055
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-003-5437ea10.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/PMK5mR9T
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-056
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-004-f751dfb5.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/Su5qbTlq
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-057
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-005-0120164e.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/srljwadd
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-058
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-006-770cc7d3.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/X9LZKyYL
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-059
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-007-cacb2566.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/1jKKmEWr
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-060
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-008-a44b93a9.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/y1y7mRBv
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-061
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-009-2d7a4b26.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/EAaiqKk6
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-062
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-1a92c940-onboarding/pos-010-6d8e94f2.webp
-    mobbin_url: https://mobbin.com/flows/1a92c940-c857-4422-be55-2532b9c2022e
-    image_url: https://mobbin.com/api/mcp/short/0KoaISea
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-063
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-8684b407-checking-sources/pos-001-b9da0940.webp
-    mobbin_url: https://mobbin.com/flows/8684b407-d701-4f86-be4a-2c6194217572
-    image_url: https://mobbin.com/api/mcp/short/hxG9U4Cu
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-064
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-8684b407-checking-sources/pos-002-0be80ec9.webp
-    mobbin_url: https://mobbin.com/flows/8684b407-d701-4f86-be4a-2c6194217572
-    image_url: https://mobbin.com/api/mcp/short/PTJgCzzQ
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-065
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-8684b407-checking-sources/pos-003-df2dadc7.webp
-    mobbin_url: https://mobbin.com/flows/8684b407-d701-4f86-be4a-2c6194217572
-    image_url: https://mobbin.com/api/mcp/short/EaVvtBep
+    mobbin_url:
+    image_url:
     component_match: sources-citation-strip
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-066
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-001-2c32c53c.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/aQiXYNI1
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-067
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-002-75b52b97.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/QU19Y0mv
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-068
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-003-f05b5158.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/VKGj2c3F
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-069
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-004-370ae28e.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/wR0twEaN
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-070
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-005-0b89b664.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/wBoOQyZh
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-071
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-006-47d2336b.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/4cxEYhAi
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-072
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-007-2e06ccc0.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/MbLl21KD
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-073
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-008-5fdad726.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/bu00bQ6b
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-074
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c760eeff-get-started/pos-009-7ce2e88a.webp
-    mobbin_url: https://mobbin.com/flows/c760eeff-68f3-4259-afc2-06130432f989
-    image_url: https://mobbin.com/api/mcp/short/rQUL0LJv
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-075
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-a461b379-onboarding/pos-001-7c61054e.webp
-    mobbin_url: https://mobbin.com/flows/a461b379-bead-4ecb-8ea9-df84aef3ccb9
-    image_url: https://mobbin.com/api/mcp/short/cFEsdEFg
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-076
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-a461b379-onboarding/pos-002-dbfa4e78.webp
-    mobbin_url: https://mobbin.com/flows/a461b379-bead-4ecb-8ea9-df84aef3ccb9
-    image_url: https://mobbin.com/api/mcp/short/vnlc92AP
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-077
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-a461b379-onboarding/pos-003-538dcc35.webp
-    mobbin_url: https://mobbin.com/flows/a461b379-bead-4ecb-8ea9-df84aef3ccb9
-    image_url: https://mobbin.com/api/mcp/short/sRfFqMdv
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-078
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-a461b379-onboarding/pos-004-922d4ba4.webp
-    mobbin_url: https://mobbin.com/flows/a461b379-bead-4ecb-8ea9-df84aef3ccb9
-    image_url: https://mobbin.com/api/mcp/short/C7vlXg1h
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-079
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-a461b379-onboarding/pos-005-23a9e995.webp
-    mobbin_url: https://mobbin.com/flows/a461b379-bead-4ecb-8ea9-df84aef3ccb9
-    image_url: https://mobbin.com/api/mcp/short/Ho90wAJ5
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-080
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-a461b379-onboarding/pos-007-d5f28608.webp
-    mobbin_url: https://mobbin.com/flows/a461b379-bead-4ecb-8ea9-df84aef3ccb9
-    image_url: https://mobbin.com/api/mcp/short/qwAyLQCo
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-081
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-e35f35b9-asking-a-question-pro-search/pos-001-6d8e94f2.webp
-    mobbin_url: https://mobbin.com/flows/e35f35b9-42df-4c42-955a-a263bda68d5e
-    image_url: https://mobbin.com/api/mcp/short/GLsylXgB
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-082
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-e35f35b9-asking-a-question-pro-search/pos-005-e8ccef9f.webp
-    mobbin_url: https://mobbin.com/flows/e35f35b9-42df-4c42-955a-a263bda68d5e
-    image_url: https://mobbin.com/api/mcp/short/hySUOGa1
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-083
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-e35f35b9-asking-a-question-pro-search/pos-008-6c34eaca.webp
-    mobbin_url: https://mobbin.com/flows/e35f35b9-42df-4c42-955a-a263bda68d5e
-    image_url: https://mobbin.com/api/mcp/short/YMt3BKYu
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-084
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-e35f35b9-asking-a-question-pro-search/pos-009-70b208f5.webp
-    mobbin_url: https://mobbin.com/flows/e35f35b9-42df-4c42-955a-a263bda68d5e
-    image_url: https://mobbin.com/api/mcp/short/kR7owkHu
+    mobbin_url:
+    image_url:
     component_match: answer-results-thread
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-085
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-4f0420a7-onboarding/pos-006-a8218f85.webp
-    mobbin_url: https://mobbin.com/flows/4f0420a7-42f1-4e16-b3a9-fd3f4d5da072
-    image_url: https://mobbin.com/api/mcp/short/fid5MgVk
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-086
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-4f0420a7-onboarding/pos-010-41e49d0d.webp
-    mobbin_url: https://mobbin.com/flows/4f0420a7-42f1-4e16-b3a9-fd3f4d5da072
-    image_url: https://mobbin.com/api/mcp/short/8YuOOZRF
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-087
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-e33dce41-faq-article-detail/pos-001-2b41fca5.webp
-    mobbin_url: https://mobbin.com/flows/e33dce41-8649-4526-aead-d2446ca86ed1
-    image_url: https://mobbin.com/api/mcp/short/ReLQReIX
+    mobbin_url:
+    image_url:
     component_match: help-article-layout
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-088
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-e33dce41-faq-article-detail/pos-002-a27e0595.webp
-    mobbin_url: https://mobbin.com/flows/e33dce41-8649-4526-aead-d2446ca86ed1
-    image_url: https://mobbin.com/api/mcp/short/jkzuwllE
+    mobbin_url:
+    image_url:
     component_match: help-article-layout
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-089
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-e33dce41-faq-article-detail/pos-004-9d13264e.webp
-    mobbin_url: https://mobbin.com/flows/e33dce41-8649-4526-aead-d2446ca86ed1
-    image_url: https://mobbin.com/api/mcp/short/MpcVKSen
+    mobbin_url:
+    image_url:
     component_match: help-article-layout
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-090
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c10e208a-accepting-a-referral/pos-001-597b0a01.webp
-    mobbin_url: https://mobbin.com/flows/c10e208a-9624-4381-81d2-812cee5e5e74
-    image_url: https://mobbin.com/api/mcp/short/2hXVOCrO
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-091
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c10e208a-accepting-a-referral/pos-002-55aee9ea.webp
-    mobbin_url: https://mobbin.com/flows/c10e208a-9624-4381-81d2-812cee5e5e74
-    image_url: https://mobbin.com/api/mcp/short/cCV3CSV3
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-092
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-c10e208a-accepting-a-referral/pos-004-92aff7ce.webp
-    mobbin_url: https://mobbin.com/flows/c10e208a-9624-4381-81d2-812cee5e5e74
-    image_url: https://mobbin.com/api/mcp/short/bnrYeLaz
+    mobbin_url:
+    image_url:
     component_match: onboarding-auth
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.
   - id: mobbin-093
     source_type: flow_screen
     local_path: evidence/mobbin/flows/flow-bc887b05-adding-a-new-thread/pos-003-52e97341.webp
-    mobbin_url: https://mobbin.com/flows/bc887b05-44bf-4b47-b96f-110ba60f3edf
-    image_url: https://mobbin.com/api/mcp/short/yslgko8K
+    mobbin_url:
+    image_url:
     component_match: follow-up-related-questions
     capture_date: 2026-06-30
     provenance_note: Mobbin MCP visual reference; evidence only, not a runtime dependency.

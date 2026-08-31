@@ -65,17 +65,17 @@ def download_mobbin():
     for i,(sid,short) in enumerate(SCREENS + EXTRA_SCREENS,1):
         p=MOBBIN/'screens'/f'screen-{i:03d}-perplexity-{sid[:8]}.webp'
         q = 'Perplexity answer search citations sources follow-up threads collections settings web app' if i <= len(SCREENS) else ('Perplexity Pro pricing plan upgrade subscription checkout web app' if i <= len(SCREENS)+21 else 'Perplexity collections library spaces settings profile account web app')
-        rec={'source_type':'screen','id':sid,'image_url':f'https://mobbin.com/api/mcp/short/{short}','mobbin_url':f'https://mobbin.com/screens/{sid}','local_path':str(p.relative_to(STYLE)),'query':q,'platform':'web','app_name':'Perplexity'}
+        rec={'source_type':'screen','id':sid,'local_path':str(p.relative_to(STYLE)),'query':q,'platform':'web','app_name':'Perplexity'}
         manifest.append(rec)
     for i,(sid,short) in enumerate(SECTIONS,1):
         p=MOBBIN/'sections'/f'section-{i:03d}-perplexity-pc-{sid[:8]}.webp'
-        rec={'source_type':'section','id':sid,'image_url':f'https://mobbin.com/api/mcp/short/{short}','mobbin_url':f'https://mobbin.com/sites/sections/{sid}','local_path':str(p.relative_to(STYLE)),'query':'Perplexity Personal Computer website hero sections product cards search answer engine','site_name':'Perplexity Personal Computer'}
+        rec={'source_type':'section','id':sid,'local_path':str(p.relative_to(STYLE)),'query':'Perplexity Personal Computer website hero sections product cards search answer engine','site_name':'Perplexity Personal Computer'}
         manifest.append(rec)
     for flow_id,name,screens in FLOWS:
         slug=re.sub('[^a-z0-9]+','-',name.lower()).strip('-')[:36]
         for pos,(sid,short) in enumerate(screens,1):
             p=MOBBIN/'flows'/f'flow-{flow_id[:8]}-{slug}'/f'pos-{pos:03d}-{sid[:8]}.webp'
-            rec={'source_type':'flow_screen','id':sid,'screen_id':sid,'flow_id':flow_id,'flow_name':name,'flow_position':pos,'flow_screen_count':len(screens),'image_url':f'https://mobbin.com/api/mcp/short/{short}','mobbin_url':f'https://mobbin.com/flows/{flow_id}','local_path':str(p.relative_to(STYLE)),'query':'Perplexity onboarding signup upgrade pro search answer citation follow-up','platform':'web','app_name':'Perplexity'}
+            rec={'source_type':'flow_screen','id':sid,'screen_id':sid,'flow_id':flow_id,'flow_name':name,'flow_position':pos,'flow_screen_count':len(screens),'local_path':str(p.relative_to(STYLE)),'query':'Perplexity onboarding signup upgrade pro search answer citation follow-up','platform':'web','app_name':'Perplexity'}
             manifest.append(rec)
     copied=[]; errors=[]
     for rec in manifest:

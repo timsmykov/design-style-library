@@ -37,7 +37,6 @@ Evidence count: **1** local Mobbin refs.
 
 ## Source URL samples
 
-- https://mobbin.com/sites/sections/e3dc86d1-cea3-4f7b-9864-46230a89e735
 
 ## Normalized implementation recipe
 

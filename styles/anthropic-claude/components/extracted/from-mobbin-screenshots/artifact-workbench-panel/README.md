@@ -56,26 +56,6 @@ Evidence count: **41** local Mobbin refs.
 
 ## Source URL samples
 
-- https://mobbin.com/flows/0b72f658-84df-4d18-88e3-4255d758194f
-- https://mobbin.com/flows/a6a06df8-acc0-46b4-82d0-4a50e59b78a0
-- https://mobbin.com/screens/fbcf89c6-8121-4ce5-bdce-abc82fd522e0
-- https://mobbin.com/screens/ab3dd469-8d71-4fed-bfe0-c582a11ea3ac
-- https://mobbin.com/screens/9b02e75f-c56f-4f5c-aca5-7cbc0452d618
-- https://mobbin.com/screens/8f665125-6780-4a3e-a0ec-a397c297b28d
-- https://mobbin.com/screens/802e4c45-7b11-45b2-ab4d-75684b61ff28
-- https://mobbin.com/screens/5fc68b49-6bd0-42d2-8bf5-4dbe63574300
-- https://mobbin.com/screens/45ee1f43-1304-47aa-bed3-6b8409c96a86
-- https://mobbin.com/screens/4423778a-af9c-41c8-92d8-25898a6bda01
-- https://mobbin.com/screens/30655d44-82e5-41e2-a1cb-7fe8eaaab3cc
-- https://mobbin.com/screens/1fbc4d96-cf70-4c7a-a630-681901893ed3
-- https://mobbin.com/screens/ff8a92f0-a050-4735-ad02-57cfe48145db
-- https://mobbin.com/screens/f7482f00-0c8f-4465-ac82-97fef9fbfb4e
-- https://mobbin.com/screens/f667ec3e-1ce2-4a67-92c6-d7c3cb639c36
-- https://mobbin.com/screens/ddc82d9e-3978-495f-b614-e0078c1609dd
-- https://mobbin.com/screens/d5f0e986-c164-47d9-bf4e-7c2ecda0ce60
-- https://mobbin.com/screens/c89df5c9-ca51-48d9-8757-381db1350a72
-- https://mobbin.com/screens/c23131eb-5b07-49cb-9fe4-af5a0125d1c2
-- https://mobbin.com/screens/b5932114-40e9-4a3b-bbf7-385e96b3a580
 
 ## Normalized implementation recipe
 

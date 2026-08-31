@@ -55,10 +55,6 @@ Evidence count: **8** local Mobbin refs.
 
 ## Source URL samples
 
-- https://mobbin.com/flows/5a978c28-535c-4f01-9f7c-9de174312082
-- https://mobbin.com/sites/sections/eba2bca7-a8ee-417b-8955-3eebd9bb6370
-- https://mobbin.com/sites/sections/d0ea8855-f290-486c-a4ba-7a1f9515d308
-- https://mobbin.com/sites/sections/3867c9bb-1aff-424e-afc9-5cfada1842c3
 
 ## Normalized implementation recipe
 

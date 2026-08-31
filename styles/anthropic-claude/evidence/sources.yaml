@@ -1,7 +1,7 @@
 sources:
   - id: mobbin-screen-001-chat-sidebar
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/f5b26318-4345-4c49-a0bd-a031edacb3a8
+    original_url:
     local_path: evidence/mobbin/screens/screen-001-claude-chat-sidebar-f5b26318.webp
     captured_at: 2026-06-30
     platform: web
@@ -12,7 +12,7 @@ sources:
     rights_note: Local internal reference archive; not a deployable product asset.
   - id: mobbin-screen-002-chat
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/e8c0af18-6e3a-4273-93c1-935e958ff8b3
+    original_url:
     local_path: evidence/mobbin/screens/screen-002-claude-chat-e8c0af18.webp
     captured_at: 2026-06-30
     platform: web
@@ -23,7 +23,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-003-chat
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/da3d700f-0862-4c7d-94b0-88526bdcbda6
+    original_url:
     local_path: evidence/mobbin/screens/screen-003-claude-chat-da3d700f.webp
     captured_at: 2026-06-30
     platform: web
@@ -34,7 +34,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-004-chat
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/d72b17b4-df91-4813-8e5d-a04d20041570
+    original_url:
     local_path: evidence/mobbin/screens/screen-004-claude-chat-d72b17b4.webp
     captured_at: 2026-06-30
     platform: web
@@ -45,7 +45,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-005-chat
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/d37660a4-093d-4305-b6e2-981ca41ddabc
+    original_url:
     local_path: evidence/mobbin/screens/screen-005-claude-chat-d37660a4.webp
     captured_at: 2026-06-30
     platform: web
@@ -56,7 +56,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-006-artifact
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/c66b5013-2e69-4210-995a-77c6dadbea95
+    original_url:
     local_path: evidence/mobbin/screens/screen-006-claude-artifact-c66b5013.webp
     captured_at: 2026-06-30
     platform: web
@@ -67,7 +67,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-007-artifact
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/b74052b8-bc0e-476c-80cc-416744bb655f
+    original_url:
     local_path: evidence/mobbin/screens/screen-007-claude-artifact-b74052b8.webp
     captured_at: 2026-06-30
     platform: web
@@ -78,7 +78,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-008-artifact
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/b1cedcfe-c6b6-481e-b382-efd3d9fa44ba
+    original_url:
     local_path: evidence/mobbin/screens/screen-008-claude-artifact-b1cedcfe.webp
     captured_at: 2026-06-30
     platform: web
@@ -89,7 +89,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-009-artifact
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/ae4ac3c3-864d-4eb8-874e-f5080ef7969a
+    original_url:
     local_path: evidence/mobbin/screens/screen-009-claude-artifact-ae4ac3c3.webp
     captured_at: 2026-06-30
     platform: web
@@ -100,7 +100,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-screen-010-artifact
     source_type: mobbin_screen
-    original_url: https://mobbin.com/screens/ad1153f5-3ad6-47fe-9ebb-e4856e072bb0
+    original_url:
     local_path: evidence/mobbin/screens/screen-010-claude-artifact-ad1153f5.webp
     captured_at: 2026-06-30
     platform: web
@@ -111,7 +111,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-section-001-hero
     source_type: mobbin_section
-    original_url: https://mobbin.com/sites/sections/5456030e-9762-4284-a0de-76b4907fc9de
+    original_url:
     local_path: evidence/mobbin/sections/section-001-claude-hero-5456030e.webp
     captured_at: 2026-06-30
     platform: web
@@ -122,7 +122,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-section-002-marketing
     source_type: mobbin_section
-    original_url: https://mobbin.com/sites/sections/30c9e1be-797c-4eeb-ad86-fba20866e103
+    original_url:
     local_path: evidence/mobbin/sections/section-002-claude-30c9e1be.webp
     captured_at: 2026-06-30
     platform: web
@@ -133,7 +133,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-section-003-marketing
     source_type: mobbin_section
-    original_url: https://mobbin.com/sites/sections/d5fd94ce-2570-4a45-b7b9-73073d7b5b5f
+    original_url:
     local_path: evidence/mobbin/sections/section-003-claude-d5fd94ce.webp
     captured_at: 2026-06-30
     platform: web
@@ -144,7 +144,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-section-004-product-cards
     source_type: mobbin_section
-    original_url: https://mobbin.com/sites/sections/6b3858df-ac1a-489c-b3bf-295a4e0f9fc1
+    original_url:
     local_path: evidence/mobbin/sections/section-004-claude-products-6b3858df.webp
     captured_at: 2026-06-30
     platform: web
@@ -155,7 +155,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-section-005-marketing
     source_type: mobbin_section
-    original_url: https://mobbin.com/sites/sections/4f7ea41a-06c5-4e55-9100-774fc0fc6d18
+    original_url:
     local_path: evidence/mobbin/sections/section-005-claude-4f7ea41a.webp
     captured_at: 2026-06-30
     platform: web
@@ -166,7 +166,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-flow-001-onboarding
     source_type: mobbin_flow
-    original_url: https://mobbin.com/flows/5a978c28-535c-4f01-9f7c-9de174312082
+    original_url:
     local_path: evidence/mobbin/flows/flow-001-onboarding-5a978c28/
     captured_at: 2026-06-30
     platform: web
@@ -177,7 +177,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-flow-002-onboarding
     source_type: mobbin_flow
-    original_url: https://mobbin.com/flows/0b72f658-84df-4d18-88e3-4255d758194f
+    original_url:
     local_path: evidence/mobbin/flows/flow-002-onboarding-0b72f658/
     captured_at: 2026-06-30
     platform: web
@@ -188,7 +188,7 @@ sources:
     rights_note: Local internal reference archive.
   - id: mobbin-flow-003-login-onboarding
     source_type: mobbin_flow
-    original_url: https://mobbin.com/flows/6bb1fc63-8371-4607-9177-27c671d26c9a
+    original_url:
     local_path: evidence/mobbin/flows/flow-003-login-onboarding-6bb1fc63/
     captured_at: 2026-06-30
     platform: web
