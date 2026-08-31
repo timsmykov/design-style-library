@@ -1,0 +1,646 @@
+{
+  "component_id": "auth-onboarding",
+  "evidence_count": 30,
+  "sources": [
+    "claude-login"
+  ],
+  "captured_urls": [
+    "https://claude.ai/login?from=logout"
+  ],
+  "computed_token_candidates": {
+    "display": [
+      [
+        "flex",
+        26
+      ],
+      [
+        "inline-block",
+        2
+      ],
+      [
+        "block",
+        1
+      ],
+      [
+        "inline-flex",
+        1
+      ]
+    ],
+    "position": [
+      [
+        "static",
+        19
+      ],
+      [
+        "relative",
+        11
+      ]
+    ],
+    "boxSizing": [
+      [
+        "border-box",
+        30
+      ]
+    ],
+    "width": [
+      [
+        "330.094px",
+        5
+      ],
+      [
+        "100%",
+        5
+      ],
+      [
+        "704px",
+        3
+      ],
+      [
+        "392.656px",
+        2
+      ],
+      [
+        "106.828px",
+        1
+      ],
+      [
+        "76.2344px",
+        1
+      ],
+      [
+        "81.6719px",
+        1
+      ],
+      [
+        "64.5625px",
+        1
+      ],
+      [
+        "90.6406px",
+        1
+      ],
+      [
+        "111.172px",
+        1
+      ],
+      [
+        "50%",
+        1
+      ],
+      [
+        "252.891px",
+        1
+      ],
+      [
+        "113.516px",
+        1
+      ],
+      [
+        "185.312px",
+        1
+      ],
+      [
+        "392.672px",
+        1
+      ],
+      [
+        "87.4219px",
+        1
+      ],
+      [
+        "384px",
+        1
+      ],
+      [
+        "188px",
+        1
+      ]
+    ],
+    "height": [
+      [
+        "44px",
+        11
+      ],
+      [
+        "22.5px",
+        5
+      ],
+      [
+        "36px",
+        3
+      ],
+      [
+        "32px",
+        3
+      ],
+      [
+        "104px",
+        1
+      ],
+      [
+        "16px",
+        1
+      ]
+    ],
+    "minWidth": [
+      [
+        "0px",
+        15
+      ],
+      [
+        "96px",
+        10
+      ],
+      [
+        "28px",
+        2
+      ],
+      [
+        "320px",
+        1
+      ],
+      [
+        "80px",
+        1
+      ]
+    ],
+    "marginTop": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "16px",
+        3
+      ]
+    ],
+    "marginRight": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "marginBottom": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "24px",
+        3
+      ]
+    ],
+    "marginLeft": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "paddingTop": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "8px",
+        6
+      ]
+    ],
+    "paddingRight": [
+      [
+        "0px",
+        16
+      ],
+      [
+        "20px",
+        11
+      ],
+      [
+        "24px",
+        2
+      ],
+      [
+        "12px",
+        1
+      ]
+    ],
+    "paddingBottom": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "8px",
+        6
+      ]
+    ],
+    "paddingLeft": [
+      [
+        "0px",
+        16
+      ],
+      [
+        "20px",
+        11
+      ],
+      [
+        "24px",
+        2
+      ],
+      [
+        "12px",
+        1
+      ]
+    ],
+    "fontFamily": [
+      [
+        "\"Anthropic Sans\", system-ui, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+        17
+      ],
+      [
+        "\"Anthropic Sans\", system-ui, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+        13
+      ]
+    ],
+    "fontSize": [
+      [
+        "14px",
+        12
+      ],
+      [
+        "16px",
+        11
+      ],
+      [
+        "15px",
+        5
+      ],
+      [
+        "12px",
+        2
+      ]
+    ],
+    "fontWeight": [
+      [
+        "400",
+        16
+      ],
+      [
+        "500",
+        11
+      ],
+      [
+        "550",
+        2
+      ],
+      [
+        "430",
+        1
+      ]
+    ],
+    "lineHeight": [
+      [
+        "24px",
+        10
+      ],
+      [
+        "21px",
+        9
+      ],
+      [
+        "22.5px",
+        5
+      ],
+      [
+        "20px",
+        2
+      ],
+      [
+        "16px",
+        2
+      ],
+      [
+        "22.4px",
+        1
+      ],
+      [
+        "19.6px",
+        1
+      ]
+    ],
+    "color": [
+      [
+        "rgb(20, 20, 19)",
+        14
+      ],
+      [
+        "rgb(255, 255, 255)",
+        6
+      ],
+      [
+        "rgb(61, 61, 58)",
+        5
+      ],
+      [
+        "rgb(250, 249, 245)",
+        4
+      ],
+      [
+        "rgb(115, 114, 108)",
+        1
+      ]
+    ],
+    "borderTopColor": [
+      [
+        "color(srgb 0.0431373 0.0431373 0.0431373 / 0.1)",
+        18
+      ],
+      [
+        "rgba(31, 30, 29, 0.3)",
+        3
+      ],
+      [
+        "rgba(222, 220, 209, 0.3)",
+        2
+      ],
+      [
+        "rgba(31, 30, 29, 0.15)",
+        1
+      ]
+    ],
+    "borderRightColor": [
+      [
+        "color(srgb 0.0431373 0.0431373 0.0431373 / 0.1)",
+        18
+      ],
+      [
+        "rgba(31, 30, 29, 0.3)",
+        3
+      ],
+      [
+        "rgba(222, 220, 209, 0.3)",
+        2
+      ],
+      [
+        "rgba(31, 30, 29, 0.15)",
+        1
+      ]
+    ],
+    "borderBottomColor": [
+      [
+        "color(srgb 0.0431373 0.0431373 0.0431373 / 0.1)",
+        18
+      ],
+      [
+        "rgba(31, 30, 29, 0.3)",
+        3
+      ],
+      [
+        "rgba(222, 220, 209, 0.3)",
+        2
+      ],
+      [
+        "rgba(31, 30, 29, 0.15)",
+        1
+      ]
+    ],
+    "borderLeftColor": [
+      [
+        "color(srgb 0.0431373 0.0431373 0.0431373 / 0.1)",
+        18
+      ],
+      [
+        "rgba(31, 30, 29, 0.3)",
+        3
+      ],
+      [
+        "rgba(222, 220, 209, 0.3)",
+        2
+      ],
+      [
+        "rgba(31, 30, 29, 0.15)",
+        1
+      ]
+    ],
+    "borderTopWidth": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "1px",
+        6
+      ]
+    ],
+    "borderRightWidth": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "1px",
+        6
+      ]
+    ],
+    "borderBottomWidth": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "1px",
+        6
+      ]
+    ],
+    "borderLeftWidth": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "1px",
+        6
+      ]
+    ],
+    "borderStyle": [
+      [
+        "solid",
+        30
+      ]
+    ],
+    "borderRadius": [
+      [
+        "0px",
+        16
+      ],
+      [
+        "9.6px",
+        11
+      ],
+      [
+        "8px",
+        3
+      ]
+    ],
+    "opacity": [
+      [
+        "1",
+        29
+      ],
+      [
+        "0.5",
+        1
+      ]
+    ],
+    "overflow": [
+      [
+        "visible",
+        18
+      ],
+      [
+        "hidden",
+        11
+      ],
+      [
+        "clip",
+        1
+      ]
+    ],
+    "gap": [
+      [
+        "4px",
+        5
+      ],
+      [
+        "8px",
+        2
+      ],
+      [
+        "6px",
+        2
+      ],
+      [
+        "16px",
+        1
+      ]
+    ],
+    "rowGap": [
+      [
+        "4px",
+        5
+      ],
+      [
+        "8px",
+        2
+      ],
+      [
+        "6px",
+        2
+      ],
+      [
+        "16px",
+        1
+      ]
+    ],
+    "columnGap": [
+      [
+        "4px",
+        5
+      ],
+      [
+        "8px",
+        2
+      ],
+      [
+        "6px",
+        2
+      ],
+      [
+        "16px",
+        1
+      ]
+    ],
+    "flexDirection": [
+      [
+        "row",
+        29
+      ],
+      [
+        "column",
+        1
+      ]
+    ],
+    "flexWrap": [
+      [
+        "nowrap",
+        30
+      ]
+    ],
+    "backgroundColor": [
+      [
+        "rgb(255, 255, 255)",
+        1
+      ]
+    ],
+    "minHeight": [
+      [
+        "0px",
+        17
+      ]
+    ],
+    "alignItems": [
+      [
+        "center",
+        26
+      ]
+    ],
+    "justifyContent": [
+      [
+        "center",
+        13
+      ],
+      [
+        "space-between",
+        5
+      ]
+    ],
+    "boxShadow": [
+      [
+        "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+        1
+      ]
+    ]
+  },
+  "text_samples": [
+    "Continue with email Continue with SSO",
+    "Meet Claude",
+    "Platform",
+    "Solutions",
+    "Pricing",
+    "Resources",
+    "Try Claude",
+    "Meet Claude",
+    "Platform",
+    "Solutions",
+    "Pricing",
+    "Resources",
+    "Try Claude",
+    "Continue with Google",
+    "Continue with email",
+    "Continue with SSO",
+    "Download desktop app",
+    "Individual",
+    "Team and Enterprise",
+    "Try Claude",
+    "Try Claude",
+    "Try Claude",
+    "What is Claude and how does it work?",
+    "What should I use Claude for?",
+    "How much does it cost to use?",
+    "Privacy choices",
+    "Privacy choices",
+    "Customize Cookie Settings",
+    "Reject All Cookies"
+  ],
+  "policy": "Evidence only; runtime output must be original/adapted."
+}

@@ -1,0 +1,187 @@
+sources:
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-001-img_042658d01ccb.webp
+    component: editor-shell
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-002-img_0ae1db8675b2.webp
+    component: file-explorer
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-003-img_25c8b4c98bea.webp
+    component: ai-chat-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-004-img_2f6e92260f93.webp
+    component: composer-command-card
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-005-img_38947b0a7c59.webp
+    component: diff-review-pane
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-006-img_389a15d9764a.webp
+    component: terminal-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-007-img_406f53bec6e5.webp
+    component: model-selector
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-008-img_459a35f58747.webp
+    component: settings-preferences
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-009-img_5a1baf79732d.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-010-img_75bffbc1f79d.webp
+    component: onboarding-import-project
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-011-img_79760405267d.webp
+    component: editor-shell
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-012-img_99348ad1aedf.webp
+    component: file-explorer
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-013-img_9d57732bc8c8.webp
+    component: ai-chat-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-014-img_a58fdc10468c.webp
+    component: composer-command-card
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-015-img_a5a656267a4a.webp
+    component: diff-review-pane
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-016-img_aba550a7168d.webp
+    component: terminal-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-017-img_b8367d38fdd1.webp
+    component: model-selector
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-018-img_dab186de09b6.webp
+    component: settings-preferences
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-019-img_f225a06cd89b.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/screens/screen-020-img_fdd56fb3993a.webp
+    component: onboarding-import-project
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-001-img_112101d3da23.webp
+    component: editor-shell
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-002-img_2d1864db7afc.webp
+    component: file-explorer
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-003-img_2d3f14b527b5.webp
+    component: ai-chat-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-004-img_5524c0eb3c88.webp
+    component: composer-command-card
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-005-img_56c9f8e4a1cf.webp
+    component: diff-review-pane
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-006-img_6320628cf5d1.webp
+    component: terminal-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-007-img_6a3d58bab4a6.webp
+    component: model-selector
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-008-img_6c9c7839a1d9.webp
+    component: settings-preferences
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-009-img_7b90790bbd48.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-010-img_7e783224d237.webp
+    component: onboarding-import-project
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-011-img_8ba519e8bf18.webp
+    component: editor-shell
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-012-img_a70e1c83e6dc.webp
+    component: file-explorer
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-013-img_aaf5fe6b3610.webp
+    component: ai-chat-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-014-img_c0fac4201706.webp
+    component: composer-command-card
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-015-img_d1708c8668eb.webp
+    component: diff-review-pane
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-016-img_d62803d7dad4.webp
+    component: terminal-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-017-img_db8e1f089ed9.webp
+    component: model-selector
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-018-img_f26edec942e5.webp
+    component: settings-preferences
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-019-img_f879d0167578.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/sections/section-020-img_fcee59be473c.webp
+    component: onboarding-import-project
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-001-img_0c1663ea5c18.webp
+    component: editor-shell
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-002-img_1258c46414e3.webp
+    component: file-explorer
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-003-img_192b08fc4bff.webp
+    component: ai-chat-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-004-img_21bd972f69ff.webp
+    component: composer-command-card
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-005-img_284fbcbebe0c.webp
+    component: diff-review-pane
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-006-img_3350f2a35f7f.webp
+    component: terminal-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-007-img_3ea6f8c06c99.webp
+    component: model-selector
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-008-img_4b789d42148c.webp
+    component: settings-preferences
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-009-img_4e47f4aece3f.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-010-img_4e54a6fbd3c0.webp
+    component: onboarding-import-project
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-011-img_652b6385f95f.webp
+    component: editor-shell
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-012-img_73953f627289.webp
+    component: file-explorer
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-013-img_ac141d39a8a3.webp
+    component: ai-chat-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-014-img_d76ce4687f88.webp
+    component: composer-command-card
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-015-img_da4d2a687879.webp
+    component: diff-review-pane
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-016-img_e39441a37988.webp
+    component: terminal-panel
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-017-img_e927598ec569.webp
+    component: model-selector
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-018-img_eb746b3d30b0.webp
+    component: settings-preferences
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-019-img_eefe7af0733e.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/cursor-ai-ide/evidence/mobbin/flows/flow-preview-020-img_f23fd6f72f75.webp
+    component: onboarding-import-project
+  - type: public_web
+    url: https://cursor.com/
+    local_path: evidence/web/pages/cursor-com.html
+  - type: public_web
+    url: https://cursor.com/pricing
+    local_path: evidence/web/pages/cursor-com-pricing.html

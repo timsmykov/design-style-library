@@ -1,0 +1,12 @@
+id: stripe-trust-commerce
+name: Stripe Trust Commerce
+version: 0.5.0
+status: draft
+offline_ready: false
+category: payments_trust
+local_mobbin_refs: 90
+source_map_rows: 90
+component_capsules: 10
+public_urls:
+  - https://stripe.com/
+  - https://stripe.com/pricing

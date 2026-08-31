@@ -1,0 +1,25 @@
+{
+  "slug": "perplexity-home",
+  "url": "https://www.perplexity.ai/",
+  "capture_date": "2026-06-30",
+  "capture_method": "chromium-dump-dom",
+  "title": "Just a moment...",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "www.perplexity.ai"
+    },
+    {
+      "tag": "h2",
+      "text": "Performing security verification"
+    },
+    {
+      "tag": "h2",
+      "text": "Verification successful. Waiting for www.perplexity.ai to respond"
+    }
+  ],
+  "css_links": [],
+  "html_bytes": 27380,
+  "body_text_sample": "Just a moment... *{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width @keyframes spin{100%{transform:rotate(360deg)}}@keyframes scale{0%, 100%{transform:none}50%{transform:scale3d(1, 1, 1)}}@keyframes stroke{100%{stroke-dashoffset:0}}@keyframes scale-up-center{0%{transform:scale(.01)}100%{transform:scale(1)}}@keyframes fade-in{0%{opacity:0}100%{opacity:1}}@keyframes fireworks{0%{transform:scale(0);opacity:0}50%{transform:scale(1.5);opacity:1}100%{transform:scale(2);opacity:0}}@keyframes firework{0%{opacity:0;stroke-dashoffset:8;}30%{opacity:1}100%{stroke-dashoffset:-8;}}@keyframes unspin{40%{stroke-width:1px;stroke-linecap:square;stroke-dashoffset:192}100%{stroke-width:0}}#BJMX4{width:30px;height:30px;display:flex;border-radius:50%;box-shadow:inset 0 0 0 #228b49;stroke-width:1px;fill:#fff;stroke:#fff;stroke-miterlimit:10;animation:scale-up-center .3s cubic-bezier(.55, .085, .68, .53) both;stroke-width:6px}#BJMX4 .FgTXt7{animation:stroke .4s cubic-bezier(.65, 0, .45, 1) forwards;animation-delay:.3s;box-shadow:inset 0 0 0 #228b49;stroke-dasharray:242;stroke-dashoffset:242}.xvOsA1{stroke-dashoffset:0;stroke-width:2;stroke-miterlimit:10;stroke:#228b49;fill:#228b49}#VMYOH2{width:30px;height:30px}#VMYOH2 line{stroke:#228b49;animation:firework .3s 1 ease-out;stroke-width:1;stroke-dasharray:32 32;stroke-dashoffset:-8;}.kbva0{stroke-width:3px;stroke-linecap:round;stroke:#228b49;stroke-dasharray:0,100,0;stroke-dashoffset:200;stroke-miterlimit:1;stroke-linejoin:round}#RNzCT9,#VJhML9{width:30px;height:30px;display:flex;border-radius:50%;box-shadow:inset 0 0 0 #b20f03;stroke-width:1px;fill:#fff;stroke:#fff;stroke-miterlimit:10;animation:scale-up-center .6s cubic-bezier(.55, .085, .68, .53) both}.fZDTy2{stroke-dasharray:166;stroke-dashoffset:166;stroke-width:2;stroke-miterlimit:10;stroke:#b20f03;fill:#b20f03;animation:stroke .6s cubic-bezier(.65, 0, .45, 1) forwards}.jVGJ1{animation:fade-in-animation .1s .4s cubic-bezier(1, 1, 0, 1) backwards;fill:#f2f2f2;transform-origin:bottom center}@keyframes fade-in-animation{0%{fill:#b20f03;stroke:#b20f03}100%{fill:#f2f2f2;stroke:#f2f2f2}}#VJhML9{width:12px;height:12px}#EBnds4,#hhCz8{display:flex;animation:spin 5s linear infinite;width:30px;height:30px}.ZCns0,.tFgFK8{stroke-dasharray:166;stroke-dashoffset:166;stroke-width:2;stroke-miterlimit:10;stroke:#595959;fill:#595959}#hHaYj1,#EnAO6{width:30px;height:30px;display:flex;border-radius:50%;box-shadow:inset 0 0 0 #595959;stroke-width:1px;fill:#fff;stroke:#fff;stroke-miterlimit:10;animation:scale .3s ease-in-out .9s both}#YSTw3{display:inline-flex;flex-direction:column;text-align:",
+  "policy": "Evidence only; runtime recipes must be original/adapted."
+}

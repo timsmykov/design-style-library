@@ -1,0 +1,21 @@
+:root {
+  --rudn-canvas: #ffffff;
+  --rudn-surface: #ffffff;
+  --rudn-text-heading: #000000;
+  --rudn-text-body: #272525;
+  --rudn-text-muted: #697080;
+  --rudn-accent-instruction: #2e6bfe;
+  --rudn-accent-action: #4950bc;
+  --rudn-accent-soft: #dadbf0;
+  --rudn-accent-soft-blue: #e8eeff;
+  --rudn-border: #b7b7b7;
+  --rudn-gridline: #e8e8e8;
+  --rudn-success: #218739;
+  --rudn-warning: #a96000;
+  --rudn-error: #c7352c;
+  --rudn-font-sans: Inter, Arial, Helvetica, sans-serif;
+  --rudn-font-mono: "IBM Plex Mono", Consolas, monospace;
+  --rudn-radius-card: 6px;
+  --rudn-radius-control: 8px;
+  --rudn-rule: 1px solid #b7b7b7;
+}

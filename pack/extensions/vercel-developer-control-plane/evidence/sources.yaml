@@ -1,0 +1,190 @@
+sources:
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-001-img_16ad9a37764d.webp
+    component: deployment-list
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-002-img_1839ceb3890b.webp
+    component: project-card
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-003-img_355c66e67b16.webp
+    component: logs-console
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-004-img_3da3558662df.webp
+    component: environment-variable-table
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-005-img_4d37fd2d53ba.webp
+    component: domain-settings
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-006-img_57af73048453.webp
+    component: analytics-chart
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-007-img_6c04073096dd.webp
+    component: template-gallery
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-008-img_76c62e71e894.webp
+    component: docs-code-block
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-009-img_7d59d4f4defe.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-010-img_85176b7d5314.webp
+    component: import-project-flow
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-011-img_86d4aa789731.webp
+    component: deployment-list
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-012-img_8fbc67208857.webp
+    component: project-card
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-013-img_931a0c6c1571.webp
+    component: logs-console
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-014-img_96cb21fc805f.webp
+    component: environment-variable-table
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-015-img_b423e1a15442.webp
+    component: domain-settings
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-016-img_b5747cffe17f.webp
+    component: analytics-chart
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-017-img_bb2d9584f5ad.webp
+    component: template-gallery
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-018-img_c7ea047e9620.webp
+    component: docs-code-block
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-019-img_d280c865c721.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/screens/screen-020-img_f31dd60fdd68.webp
+    component: import-project-flow
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-001-img_083c385928b9.webp
+    component: deployment-list
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-002-img_0cc41121cc4e.webp
+    component: project-card
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-003-img_2815939c2e57.webp
+    component: logs-console
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-004-img_2bf842636a40.webp
+    component: environment-variable-table
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-005-img_2c90b6960d14.webp
+    component: domain-settings
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-006-img_3ed24a1dd7ed.webp
+    component: analytics-chart
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-007-img_4089727de722.webp
+    component: template-gallery
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-008-img_5cdaec7075b7.webp
+    component: docs-code-block
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-009-img_650c340ecf64.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-010-img_74b40032bec5.webp
+    component: import-project-flow
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-011-img_77070dd70210.webp
+    component: deployment-list
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-012-img_7aa2510fedd4.webp
+    component: project-card
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-013-img_90291fb8994e.webp
+    component: logs-console
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-014-img_9cbf18e04be8.webp
+    component: environment-variable-table
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-015-img_a757dc7ecae6.webp
+    component: domain-settings
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-016-img_c2b1edaaf002.webp
+    component: analytics-chart
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-017-img_dbc0e26ec8d7.webp
+    component: template-gallery
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-018-img_e61f283a0799.webp
+    component: docs-code-block
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-019-img_ea3a71012517.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/sections/section-020-img_fef97a188bf8.webp
+    component: import-project-flow
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-001-img_006d45729056.webp
+    component: deployment-list
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-002-img_04bb5eb487e8.webp
+    component: project-card
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-003-img_0861c4d18d14.webp
+    component: logs-console
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-004-img_10fb18d30be3.webp
+    component: environment-variable-table
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-005-img_1df1fea639ea.webp
+    component: domain-settings
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-006-img_20c92b23f081.webp
+    component: analytics-chart
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-007-img_25a846ca5f66.webp
+    component: template-gallery
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-008-img_2eef075e05b2.webp
+    component: docs-code-block
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-009-img_73ad7d321a93.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-010-img_766e183912d6.webp
+    component: import-project-flow
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-011-img_85372a12369a.webp
+    component: deployment-list
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-012-img_8d79fa4e6df2.webp
+    component: project-card
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-013-img_9322c7cf6a01.webp
+    component: logs-console
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-014-img_9e59b634d5d2.webp
+    component: environment-variable-table
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-015-img_a14753e6b3c7.webp
+    component: domain-settings
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-016-img_a5a989bdae1f.webp
+    component: analytics-chart
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-017-img_b85b54b982e3.webp
+    component: template-gallery
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-018-img_ccdf50eff174.webp
+    component: docs-code-block
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-019-img_dd38799df39c.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/vercel-developer-control-plane/evidence/mobbin/flows/flow-preview-020-img_fed9b3e8ccea.webp
+    component: import-project-flow
+  - type: public_web
+    url: https://vercel.com/
+    local_path: evidence/web/pages/vercel-com.html
+  - type: public_web
+    url: https://vercel.com/pricing
+    local_path: evidence/web/pages/vercel-com-pricing.html
+  - type: public_web
+    url: https://vercel.com/docs
+    local_path: evidence/web/pages/vercel-com-docs.html

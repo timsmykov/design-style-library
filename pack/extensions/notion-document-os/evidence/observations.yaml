@@ -1,0 +1,35 @@
+style_id: notion-document-os
+observations:
+  - id: document-first-hierarchy
+    confidence: inferred
+    evidence:
+      - evidence/source-map/mobbin-source-map.jsonl
+    notes:
+      - Pages, databases, templates, onboarding, and marketing all preserve a document-first hierarchy: content blocks carry the visual weight; chrome remains quiet.
+  - id: muted-workspace-chrome
+    confidence: observed
+    evidence:
+      - evidence/mobbin/screens/
+      - evidence/mobbin/flows/
+    notes:
+      - Sidebar and modal controls use light gray fills, hairline borders, compact text, and subdued selected states.
+  - id: database-as-page
+    confidence: inferred
+    evidence:
+      - components/extracted/from-mobbin-screenshots/database-view-table-board/
+    notes:
+      - Database/table/board surfaces are treated as page blocks rather than full dashboard modules.
+  - id: template-led-activation
+    confidence: observed
+    evidence:
+      - evidence/mobbin/flows/
+      - components/extracted/from-mobbin-screenshots/template-gallery/
+    notes:
+      - Onboarding and setup emphasize use case, template choice, invite/team context, then handoff into editable workspace.
+  - id: restrained-public-marketing
+    confidence: extracted
+    evidence:
+      - evidence/web/original-code/notion-home
+      - evidence/web/original-code/notion-pricing
+    notes:
+      - Public pages use product proof, modular cards, black/neutral CTAs, and white/gray surfaces rather than saturated visual theatre.

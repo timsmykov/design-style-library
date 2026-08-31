@@ -1,0 +1,32 @@
+style_id: vercel-developer-control-plane
+version: 1
+runtime_quality_gate:
+  load_order:
+    - check: loaded_unified_design_entry
+      pass_if: "pack/styles/vercel-developer-control-plane/DESIGN.md was used before generation"
+    - check: loaded_tokens
+      pass_if: "tokens/tokens.json or css-vars.css shaped concrete color/type/spacing choices"
+    - check: loaded_component_capsule
+      pass_if: "at least one local component capsule was selected by semantic job"
+  composition:
+    - check: hierarchy_preserved
+      pass_if: "primary object, metadata, controls, and ambient decoration are visually separable"
+    - check: density_matches_pack
+      pass_if: "spacing, radii, and surface density match the local style formula"
+    - check: states_present
+      pass_if: "interactive surfaces include selected/hover/focus/error/loading/empty states when relevant"
+    - check: responsive_structure
+      pass_if: "layout can compress without losing primary action or status clarity"
+  evidence_use:
+    - check: local_only
+      pass_if: "no runtime web, GitHub, Mobbin, browser/CDP, or authenticated service dependency was used"
+    - check: provenance_available
+      pass_if: "chosen components can point to capsule/source-map/evidence paths inside the pack"
+  safety:
+    - check: non_cloning
+      pass_if: "output adapts style grammar without copying exact screens, logos, private data, or proprietary code"
+    - check: brand_distance
+      pass_if: "artifact fits the requested product, not an impersonation of the reference brand"
+  final_answer:
+    - check: cite_pack_paths
+      pass_if: "agent can name the style entry, tokens, capsules, and eval paths it used"

@@ -1,0 +1,21 @@
+observations:
+  - id: style-formula
+    claim: "command palette native utility; dark polished macOS surface; compact rows, icons, shortcuts, extensions and AI actions; speed and keyboard memory as the identity"
+    confidence: medium
+    evidence: STYLE.md plus local visual corpus
+  - id: local-corpus
+    claim: "Local visual corpus contains 20 screens, 20 sections, 20 flow previews, 2 public web captures, and 1 authenticated screenshots."
+    confidence: high
+    evidence: evidence/ directories and source-map files
+  - id: token-system
+    claim: "Token system exposes color, typography, spacing, and radius roles for implementation. Color anchors: `canvas`=#0b0b10; `surface`=#15151c; `panel`=#1d1d27; `text`=#f8fafc; `muted`=#a1a1aa; `border`=#2b2b36; `accent`=#ff6363; `accent2`=#8b5cf6. Type anchors: `ui`=Inter/system sans-serif; `mono`=ui-monospace/SFMono-Regular. Structural anchors: spacing scale present, radius scale present."
+    confidence: high
+    evidence: tokens/tokens.json and tokens/css-vars.css
+  - id: component-grammar
+    claim: "Component grammar is normalized into 10 capsules: ai-action-panel, command-palette, empty-state-command, extension-card-grid, onboarding-install, preferences-modal, pricing-card, search-results-list, shortcut-row, team-admin-table."
+    confidence: high
+    evidence: components/component-index.jsonl and components/capsules/
+  - id: runtime-boundary
+    claim: "Runtime agents can use this style offline from pack files only; external tools are build-time enrichment lanes."
+    confidence: high
+    evidence: agent-contract.md and unified pack DESIGN.md

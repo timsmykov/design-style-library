@@ -1,0 +1,13 @@
+# Local and private G-Brain exports. Only generated style-component slices are shareable.
+gbrain_export/*
+!gbrain_export/components/
+!gbrain_export/components/**
+
+# Local secrets and runtime noise.
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log

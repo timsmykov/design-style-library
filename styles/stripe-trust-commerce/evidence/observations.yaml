@@ -1,0 +1,21 @@
+observations:
+  - id: style-formula
+    claim: "financial trust with developer clarity; white/pale canvas; confident indigo accents; dense docs/product hybrid; precise tables, payment forms, risk/compliance copy, enterprise polish"
+    confidence: medium
+    evidence: STYLE.md plus local visual corpus
+  - id: local-corpus
+    claim: "Local visual corpus contains 30 screens, 30 sections, 30 flow previews, 2 public web captures, and 0 authenticated screenshots."
+    confidence: high
+    evidence: evidence/ directories and source-map files
+  - id: token-system
+    claim: "Token system exposes color, typography, spacing, and radius roles for implementation. Color anchors: `canvas`=#f6f9fc; `surface`=#ffffff; `panel`=#f0f4f8; `text`=#0a2540; `muted`=#425466; `border`=#d9e2ec; `accent`=#635bff; `accent2`=#00d4ff. Type anchors: `ui`=Inter/system sans-serif; `mono`=ui-monospace/SFMono-Regular. Structural anchors: spacing scale present, radius scale present."
+    confidence: high
+    evidence: tokens/tokens.json and tokens/css-vars.css
+  - id: component-grammar
+    claim: "Component grammar is normalized into 10 capsules: balance-payouts, checkout-form, developer-code-card, enterprise-hero, invoice-list, payments-dashboard, pricing-table, settings-risk-panel, trust-compliance-band, verification-flow."
+    confidence: high
+    evidence: components/component-index.jsonl and components/capsules/
+  - id: runtime-boundary
+    claim: "Runtime agents can use this style offline from pack files only; external tools are build-time enrichment lanes."
+    confidence: high
+    evidence: agent-contract.md and unified pack DESIGN.md

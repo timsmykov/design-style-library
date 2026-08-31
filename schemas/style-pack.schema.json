@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Design Style Library style-pack manifest",
+  "type": "object",
+  "required": ["id", "name", "version", "status", "summary", "category", "runtime_contract", "evidence", "offline_readiness"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+    "name": {"type": "string"},
+    "version": {"type": "string"},
+    "status": {"enum": ["planned", "seed", "draft", "validated", "offline_ready", "archived"]},
+    "summary": {"type": "string"},
+    "category": {"type": "string"},
+    "best_for": {"type": "array", "items": {"type": "string"}},
+    "avoid_for": {"type": "array", "items": {"type": "string"}},
+    "runtime_contract": {
+      "type": "object",
+      "required": ["external_tools_allowed", "canonical_prompts", "agent_uses_repo_only"],
+      "properties": {
+        "external_tools_allowed": {"type": "boolean", "const": false},
+        "canonical_prompts": {"type": "boolean", "const": false},
+        "agent_uses_repo_only": {"type": "boolean", "const": true}
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "properties": {
+        "mobbin_local_assets": {"type": "integer", "minimum": 0},
+        "web_extraction_assets": {"type": "integer", "minimum": 0},
+        "computed_style_assets": {"type": "integer", "minimum": 0},
+        "evidence_level": {"enum": ["none", "seed", "partial", "high", "validated"]}
+      }
+    },
+    "offline_readiness": {
+      "type": "object",
+      "required": ["offline_ready", "fresh_agent_eval_passed"],
+      "properties": {
+        "offline_ready": {"type": "boolean"},
+        "fresh_agent_eval_passed": {"type": "boolean"},
+        "known_gaps": {"type": "array", "items": {"type": "string"}}
+      }
+    }
+  }
+}

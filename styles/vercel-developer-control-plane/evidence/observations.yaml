@@ -1,0 +1,21 @@
+observations:
+  - id: style-formula
+    claim: "black/white developer command surface; sharp grids; deployment status as primary object; mono technical detail; premium gradients used sparingly behind product proof"
+    confidence: medium
+    evidence: STYLE.md plus local visual corpus
+  - id: local-corpus
+    claim: "Local visual corpus contains 20 screens, 20 sections, 20 flow previews, 3 public web captures, and 1 authenticated screenshots."
+    confidence: high
+    evidence: evidence/ directories and source-map files
+  - id: token-system
+    claim: "Token system exposes color, typography, spacing, and radius roles for implementation. Color anchors: `canvas`=#000000; `surface`=#0a0a0a; `panel`=#111111; `text`=#fafafa; `muted`=#a1a1aa; `border`=#27272a; `accent`=#ffffff; `accent2`=#0070f3. Type anchors: `ui`=Inter/system sans-serif; `mono`=ui-monospace/SFMono-Regular. Structural anchors: spacing scale present, radius scale present."
+    confidence: high
+    evidence: tokens/tokens.json and tokens/css-vars.css
+  - id: component-grammar
+    claim: "Component grammar is normalized into 10 capsules: analytics-chart, deployment-list, docs-code-block, domain-settings, environment-variable-table, import-project-flow, logs-console, pricing-plan-grid, project-card, template-gallery."
+    confidence: high
+    evidence: components/component-index.jsonl and components/capsules/
+  - id: runtime-boundary
+    claim: "Runtime agents can use this style offline from pack files only; external tools are build-time enrichment lanes."
+    confidence: high
+    evidence: agent-contract.md and unified pack DESIGN.md

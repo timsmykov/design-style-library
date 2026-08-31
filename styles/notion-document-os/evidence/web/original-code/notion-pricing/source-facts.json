@@ -1,0 +1,1992 @@
+{
+  "slug": "notion-pricing",
+  "url": "https://www.notion.com/pricing",
+  "title": "Notion Pricing Plans: Free, Plus, Business, & Enterprise.",
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Capture",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "card_cardTitle__zo4Kt",
+        "productFeaturesDropdown_featureTitle__Xr2pN"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Find",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "card_cardTitle__zo4Kt",
+        "productFeaturesDropdown_featureTitle__Xr2pN"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Automate",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "card_cardTitle__zo4Kt",
+        "productFeaturesDropdown_featureTitle__Xr2pN"
+      ]
+    },
+    {
+      "tag": "h1",
+      "text": "One tool to run your company.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalTitle__D1p6b"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Essentials for staying organized.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitleFeature__B250k",
+        "PricingCardGroup_headingText__S7lZz"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Free",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "PricingPlanCard_heading__hbyXI"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Plus*",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "PricingPlanCard_heading__hbyXI"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "The AI workspace for work that matters.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitleFeature__B250k",
+        "PricingCardGroup_headingText__S7lZz"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Business Recommended",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "PricingPlanCard_heading__hbyXI"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Enterprise*",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "PricingPlanCard_heading__hbyXI"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Custom Agents",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalCaption__fFXUL",
+        "PricingCalloutBox_heading__Mcjxh"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Workers Beta",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalCaption__fFXUL",
+        "PricingCalloutBox_heading__Mcjxh"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Plans and features",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalHeading__4Io9i"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Questions & answers",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalHeading__4Io9i"
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "tag": "button",
+      "text": "Product",
+      "href": null,
+      "classes": [
+        "globalNavigation_link__ofzIw",
+        "globalNavigation_dropdownTrigger__Vd0Te"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "See all features →",
+      "href": "/product/features",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantPrimary__h6Nef",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "See what’s new →",
+      "href": "/releases",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantPrimary__h6Nef",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Notion App →",
+      "href": "/download",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantPrimary__h6Nef",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Solutions",
+      "href": null,
+      "classes": [
+        "globalNavigation_link__ofzIw",
+        "globalNavigation_dropdownTrigger__Vd0Te"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Eng & Product",
+      "href": "/product/notion-for-product-development",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Design",
+      "href": "/product/notion-for-design",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Marketing",
+      "href": "/templates/category/marketing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "IT",
+      "href": "/templates/category/ticketing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Startups",
+      "href": "/startups",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Small businesses",
+      "href": "/teams",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/enterprise",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Education",
+      "href": "/product/notion-for-education",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Personal",
+      "href": "/personal",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Professional",
+      "href": "/use-case",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "AI use cases",
+      "href": "/product/ai/use-cases",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Resources",
+      "href": null,
+      "classes": [
+        "globalNavigation_link__ofzIw",
+        "globalNavigation_dropdownTrigger__Vd0Te"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Templates",
+      "href": "/templates",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Consultants",
+      "href": "/explore-consultants",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Connections",
+      "href": "/connections",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "What's New",
+      "href": "/releases",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Customer stories",
+      "href": "/customers",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Blog",
+      "href": "/blog",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Webinars",
+      "href": "/webinars",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Developers",
+      "href": "https://developers.notion.com",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Academy",
+      "href": "https://academy.notion.com",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Product tours",
+      "href": "/product/demos",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Help",
+      "href": "/help",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Developers",
+      "href": "https://notion.dev",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/enterprise",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "href": "/pricing",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Request a demo",
+      "href": "/contact-sales",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Open Notion",
+      "href": null,
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantPrimary__mUFQZ",
+        "button_buttonSizeM__NexGD",
+        "globalNavigation_tryFreeCta__mNYk6"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Log out",
+      "href": "/logout",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "EUR",
+      "href": null,
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantSimple__hzQDj",
+        "button_buttonSizeS__IYg0e"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "USD United States",
+      "href": null,
+      "classes": [
+        "DropdownMenuFilter_menuItemButton__UFHY2"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "EUR European Union",
+      "href": null,
+      "classes": [
+        "DropdownMenuFilter_menuItemButton__UFHY2"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn about FX rates",
+      "href": "https://notion.notion.site/Local-Currency-FAQs-bb75546f474a440dbb3447382b9db19b",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG",
+        "InlineTextLink_underlineDisabled__bYdIb",
+        "_country__dropdownMenuFooter__v9v_K"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Sign up",
+      "href": "/signup",
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantTertiary__lrfOH",
+        "button_buttonSizeM__NexGD",
+        "PricingPlanCard_cta__PJ9IV",
+        "_country__ctaFrontUiSecondary__k260d"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get started",
+      "href": "/signup?target=plans",
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantTertiary__lrfOH",
+        "button_buttonSizeM__NexGD",
+        "PricingPlanCard_cta__PJ9IV",
+        "_country__ctaFrontUiSecondary__k260d"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get started",
+      "href": "/signup?target=plans",
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantPrimary__mUFQZ",
+        "button_buttonSizeM__NexGD",
+        "PricingPlanCard_cta__PJ9IV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact Sales",
+      "href": "/contact-sales",
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantTertiary__lrfOH",
+        "button_buttonSizeM__NexGD",
+        "PricingPlanCard_cta__PJ9IV",
+        "_country__ctaFrontUiSecondaryOnAccentMuted__czCsd"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn more →",
+      "href": "https://www.notion.com/help/understand-pricing-for-workers",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorTheme__waxe8",
+        "InlineTextLink_underlineOnHover__J78xW"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Watch video →",
+      "href": "https://www.notion.com/customers/openai",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantSecondary__oKQMp",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Sign up",
+      "href": "/signup",
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantPrimary__mUFQZ",
+        "button_buttonSizeS__IYg0e",
+        "PricingGrid_buttonCta__wWD0f"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get started",
+      "href": "/signup?target=plans",
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantPrimary__mUFQZ",
+        "button_buttonSizeS__IYg0e",
+        "PricingGrid_buttonCta__wWD0f"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get started",
+      "href": "/signup?target=plans",
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantPrimary__mUFQZ",
+        "button_buttonSizeS__IYg0e",
+        "PricingGrid_buttonCta__wWD0f"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact us →",
+      "href": "/contact-sales",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG",
+        "InlineTextLink_underlineOnHover__J78xW",
+        "PricingGrid_inlineCta__qLgaF"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "data protection practices",
+      "href": "https://notion.so/security",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn more about Notion AI security and privacy practices here",
+      "href": "https://www.notion.so/help/notion-ai-security-practices",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "here →",
+      "href": "https://www.notion.com/help/what-is-a-block",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "visit the Notion for Education page",
+      "href": "https://www.notion.so/help/notion-for-education",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "here →",
+      "href": "https://notion.com/help/plan-downgrade",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "this article",
+      "href": "https://www.notion.com/help/billing",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "team@makenotion.com",
+      "href": "mailto:team@makenotion.com",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "team@makenotion.com",
+      "href": "mailto:team@makenotion.com",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "team@makenotion.com",
+      "href": "mailto:team@makenotion.com",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "help center",
+      "href": "/help/guides",
+      "classes": [
+        "InlineTextLink_inlineLink__oN8YM",
+        "InlineTextLink_colorInherit__oGlTG"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "English (US)",
+      "href": null,
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantInteractionMenuButton__ZWXnH",
+        "menuButton_menuButton__Siywy",
+        "menuButton_variantPrimary__emkX3",
+        "languagePicker_menuButton___I2KV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "English (US)",
+      "href": "/en-US/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz",
+        "menuList_highlighted__71Ako"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Bahasa Indonesia",
+      "href": "/id/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Dansk",
+      "href": "/da/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Deutsch",
+      "href": "/de/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "English (UK)",
+      "href": "/en-GB/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Español (España)",
+      "href": "/es-ES/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Español (Latinoamérica)",
+      "href": "/es/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Français (France)",
+      "href": "/fr/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Italiano",
+      "href": "/it/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Nederlands",
+      "href": "/nl/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Norsk",
+      "href": "/nb/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Português (Brasil)",
+      "href": "/pt/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Suomi",
+      "href": "/fi/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Svenska",
+      "href": "/sv/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Tiếng Việt",
+      "href": "/vi/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "עברית",
+      "href": "/he/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "العربية",
+      "href": "/ar/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "ภาษาไทย",
+      "href": "/th/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "한국어",
+      "href": "/ko/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "日本語",
+      "href": "/ja/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "简体中文",
+      "href": "/zh-CN/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "繁體中文",
+      "href": "/zh-TW/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Cookie settings",
+      "href": null,
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About us",
+      "href": "/about",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Careers",
+      "href": "/careers",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Security",
+      "href": "/security",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Status",
+      "href": "https://www.notion-status.com",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Terms & privacy",
+      "href": "https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Your privacy rights",
+      "href": "https://www.notion.com/trust/privacy-policy#california",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "iOS & Android",
+      "href": "/mobile",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Mac & Windows",
+      "href": "/desktop",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Calendar",
+      "href": "/product/calendar/download",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Web Clipper",
+      "href": "/web-clipper",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Help center",
+      "href": "/help",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "href": "/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Blog",
+      "href": "/blog",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Community",
+      "href": "/community",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Connections",
+      "href": "/connections",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Templates",
+      "href": "/templates",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Partner programs",
+      "href": "/partners",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/enterprise",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Small business",
+      "href": "/teams",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Personal",
+      "href": "/personal",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Explore more →",
+      "href": "/explore",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    }
+  ],
+  "class_frequency": [
+    [
+      "typography_typography__Exx2D",
+      262
+    ],
+    [
+      "semanticTypography_semanticTypography__mWJkv",
+      160
+    ],
+    [
+      "NotionIconSvgWrapper_icon__8quiY",
+      121
+    ],
+    [
+      "text_text__cG3pf",
+      107
+    ],
+    [
+      "text_textColorWhite__H70dC",
+      89
+    ],
+    [
+      "text_textWeightMedium__qgxjp",
+      88
+    ],
+    [
+      "text_textSizeFootnote__gdfM_",
+      88
+    ],
+    [
+      "text_textWithMargin__xS5ac",
+      88
+    ],
+    [
+      "oldTooltip_tooltipTarget__aovlU",
+      86
+    ],
+    [
+      "oldTooltip_tooltip__Thq7W",
+      86
+    ],
+    [
+      "oldTooltip_tooltipText__k59No",
+      86
+    ],
+    [
+      "inline-full",
+      83
+    ],
+    [
+      "menuList_menuListItem___Rmlj",
+      65
+    ],
+    [
+      "menuList_menuListItemAnchor__dEwSU",
+      65
+    ],
+    [
+      "menuList_label__SGqyS",
+      65
+    ],
+    [
+      "semanticTypography_variantInteractionMenuListItemLabel___7StL",
+      58
+    ],
+    [
+      "PricingGrid_row__bHvcz",
+      57
+    ],
+    [
+      "oldTooltip_fillSpace__glY_P",
+      57
+    ],
+    [
+      "PricingGrid_contentTextItem__pYKXw",
+      57
+    ],
+    [
+      "semanticTypography_variantGlobalCaption__fFXUL",
+      45
+    ],
+    [
+      "menuList_variantPrimary__XdPVz",
+      44
+    ],
+    [
+      "contentfulRichText_bodyLimit__F5GOU",
+      39
+    ],
+    [
+      "contentfulRichText_paragraph___hjRE",
+      38
+    ],
+    [
+      "contentfulRichText_enableThemeProvider__vI_iG",
+      38
+    ],
+    [
+      "base_theme__K5IIh",
+      31
+    ],
+    [
+      "PlanFeatures_planFeature__RYBhW",
+      29
+    ],
+    [
+      "PlanFeatures_planFeatureRow__IWhrH",
+      29
+    ],
+    [
+      "PlanFeatures_check__ujQKZ",
+      29
+    ],
+    [
+      "PlanFeatures_featureLabel__w_L3T",
+      29
+    ],
+    [
+      "inline-fit",
+      21
+    ],
+    [
+      "menuList_variantSecondary__13hDk",
+      21
+    ],
+    [
+      "text_textSizeBody__4q5Cs",
+      19
+    ],
+    [
+      "flex",
+      18
+    ],
+    [
+      "flex-nowrap",
+      18
+    ],
+    [
+      "flex-col",
+      17
+    ],
+    [
+      "faqDrawers_faq__0F7_v",
+      17
+    ],
+    [
+      "faqDrawers_question__9BX_Y",
+      17
+    ],
+    [
+      "faqDrawers_questionText__CBY_y",
+      17
+    ],
+    [
+      "text_textWeightSemibold___lCV0",
+      17
+    ],
+    [
+      "faqDrawers_questionToggleWrap__BNmqp",
+      17
+    ],
+    [
+      "faqDrawers_toggle___qtvN",
+      17
+    ],
+    [
+      "togglePlus",
+      17
+    ],
+    [
+      "faqDrawers_toggleIcon__8gE6r",
+      17
+    ],
+    [
+      "faqDrawers_answer__G1hbB",
+      17
+    ],
+    [
+      "contentfulRichText_richText__rW7Oq",
+      17
+    ],
+    [
+      "contentfulRichText_sans__UVbfz",
+      17
+    ],
+    [
+      "justify-start",
+      16
+    ],
+    [
+      "logo-light-mode",
+      16
+    ],
+    [
+      "logo-dark-mode",
+      16
+    ],
+    [
+      "items-stretch",
+      14
+    ],
+    [
+      "InlineTextLink_inlineLink__oN8YM",
+      13
+    ],
+    [
+      "InlineTextLink_linkContent__SYI4r",
+      13
+    ],
+    [
+      "InlineTextLink_colorInherit__oGlTG",
+      12
+    ],
+    [
+      "semanticTypography_variantNavigationHeading__uo7yO",
+      11
+    ],
+    [
+      "menuList_heading__HgTG9",
+      11
+    ],
+    [
+      "semanticTypography_variantCardTitle__nqcQy",
+      11
+    ],
+    [
+      "gap-0",
+      11
+    ],
+    [
+      "ps-0",
+      11
+    ],
+    [
+      "mt-0",
+      11
+    ],
+    [
+      "mb-0",
+      11
+    ],
+    [
+      "menuList_menuList__Tn7rd",
+      11
+    ],
+    [
+      "button_button__atjat",
+      9
+    ],
+    [
+      "PricingGrid_section__zeVWQ",
+      9
+    ],
+    [
+      "PricingGrid_sectionLabel___YnU3",
+      9
+    ],
+    [
+      "contentfulRichText_code__RWBxk",
+      9
+    ],
+    [
+      "theme_theme__XHAvb",
+      8
+    ],
+    [
+      "globalNavigation_link__ofzIw",
+      8
+    ],
+    [
+      "next-image",
+      8
+    ],
+    [
+      "PricingPlanCard_heading__hbyXI",
+      8
+    ],
+    [
+      "semanticTypography_variantCardBody__E_9cg",
+      7
+    ],
+    [
+      "menuList_sizeLarge__gpJH5",
+      7
+    ],
+    [
+      "semanticTypography_variantInteractionMenuListItemLabelEmphasis__pDF73",
+      7
+    ],
+    [
+      "globalNavigation_desktopDropDownNavigationHeading__tA_tr",
+      6
+    ],
+    [
+      "badge_badge__4ppzB",
+      6
+    ],
+    [
+      "gitHub",
+      6
+    ],
+    [
+      "contentfulRichText_strong__MaH0M",
+      6
+    ],
+    [
+      "linkText_linkText__527kz",
+      5
+    ],
+    [
+      "linkText_linkContent__1nr8w",
+      5
+    ],
+    [
+      "arrow_arrow___6mKn",
+      5
+    ],
+    [
+      "arrow_arrowFlipRtl__ur0Ug",
+      5
+    ],
+    [
+      "button_buttonVariantPrimary__mUFQZ",
+      5
+    ],
+    [
+      "button_buttonSizeM__NexGD",
+      5
+    ],
+    [
+      "semanticTypography_variantInteractionButtonMedium__HCJEu",
+      5
+    ],
+    [
+      "button_button__bge_I",
+      5
+    ],
+    [
+      "logoWallMarquee_logoWallMarqueeItem__Y3_iz",
+      5
+    ],
+    [
+      "button_ghost__npAbk",
+      5
+    ],
+    [
+      "button_medium__VXS2i",
+      5
+    ],
+    [
+      "logo_logo__xQVjz",
+      5
+    ],
+    [
+      "logo_heightConstrained__wFlX5",
+      5
+    ],
+    [
+      "googleDrive",
+      5
+    ],
+    [
+      "asana",
+      5
+    ],
+    [
+      "PricingGrid_columnHeading__acvaG",
+      5
+    ],
+    [
+      "iconButton_iconButton__wbWve",
+      5
+    ],
+    [
+      "iconButton_edgeVerticalBackground__NEOK2",
+      5
+    ],
+    [
+      "iconButton_edgeHorizontalBackground__i7fwl",
+      5
+    ],
+    [
+      "iconButton_icon__sgIFz",
+      5
+    ],
+    [
+      "iconButton_focusRing__a1thx",
+      5
+    ],
+    [
+      "linkText_hasArrow__2BwWV",
+      4
+    ],
+    [
+      "button_buttonSizeS__IYg0e",
+      4
+    ],
+    [
+      "surface",
+      4
+    ]
+  ],
+  "css_links": [
+    "https://www.notion.com/_next/static/css/3ec280a76cbe03ed.css",
+    "https://www.notion.com/_next/static/css/31f336b532fa350f.css",
+    "https://www.notion.com/_next/static/css/8399f67c35e9f990.css",
+    "https://www.notion.com/_next/static/css/e3abe3ddbe7a1651.css",
+    "https://www.notion.com/_next/static/css/7273fcb60fdde4f3.css",
+    "https://www.notion.com/_next/static/css/a7c5c8a97d62b5e1.css",
+    "https://www.notion.com/_next/static/css/4e5be3798a7dca6d.css",
+    "https://www.notion.com/_next/static/css/ec1a4abcd62a5476.css",
+    "https://www.notion.com/_next/static/css/bc1faa353f187f99.css"
+  ],
+  "html_bytes": 421584,
+  "body_text_chars": 22681,
+  "text_terms": [
+    [
+      "can",
+      23
+    ],
+    [
+      "custom",
+      22
+    ],
+    [
+      "unlimited",
+      21
+    ],
+    [
+      "paid",
+      21
+    ],
+    [
+      "will",
+      21
+    ],
+    [
+      "plan",
+      20
+    ],
+    [
+      "members",
+      19
+    ],
+    [
+      "content",
+      18
+    ],
+    [
+      "free",
+      17
+    ],
+    [
+      "page",
+      17
+    ],
+    [
+      "more",
+      17
+    ],
+    [
+      "data",
+      17
+    ],
+    [
+      "access",
+      17
+    ],
+    [
+      "billing",
+      17
+    ],
+    [
+      "add",
+      16
+    ],
+    [
+      "pages",
+      16
+    ],
+    [
+      "domain",
+      16
+    ],
+    [
+      "per",
+      15
+    ],
+    [
+      "any",
+      14
+    ],
+    [
+      "security",
+      14
+    ],
+    [
+      "when",
+      14
+    ],
+    [
+      "have",
+      14
+    ],
+    [
+      "trial",
+      12
+    ],
+    [
+      "enterprise",
+      11
+    ],
+    [
+      "use",
+      11
+    ],
+    [
+      "like",
+      11
+    ],
+    [
+      "search",
+      11
+    ],
+    [
+      "monthly",
+      10
+    ],
+    [
+      "work",
+      10
+    ],
+    [
+      "get",
+      10
+    ],
+    [
+      "blocks",
+      10
+    ],
+    [
+      "retention",
+      10
+    ],
+    [
+      "guests",
+      10
+    ],
+    [
+      "workspace.",
+      10
+    ],
+    [
+      "seat",
+      10
+    ],
+    [
+      "limited",
+      10
+    ],
+    [
+      "how",
+      10
+    ],
+    [
+      "plus",
+      9
+    ],
+    [
+      "all",
+      9
+    ],
+    [
+      "what",
+      9
+    ],
+    [
+      "month",
+      9
+    ],
+    [
+      "connect",
+      9
+    ],
+    [
+      "tools",
+      9
+    ],
+    [
+      "using",
+      9
+    ],
+    [
+      "create",
+      9
+    ],
+    [
+      "advanced",
+      9
+    ],
+    [
+      "our",
+      9
+    ],
+    [
+      "analytics",
+      9
+    ],
+    [
+      "refund",
+      9
+    ],
+    [
+      "plans",
+      8
+    ],
+    [
+      "business",
+      8
+    ],
+    [
+      "learn",
+      8
+    ],
+    [
+      "about",
+      8
+    ],
+    [
+      "databases",
+      8
+    ],
+    [
+      "account",
+      8
+    ],
+    [
+      "team",
+      8
+    ],
+    [
+      "not",
+      8
+    ],
+    [
+      "features",
+      7
+    ],
+    [
+      "teams",
+      7
+    ],
+    [
+      "connections",
+      7
+    ],
+    [
+      "payment",
+      7
+    ],
+    [
+      "member",
+      7
+    ],
+    [
+      "basic",
+      7
+    ],
+    [
+      "file",
+      7
+    ],
+    [
+      "limit",
+      7
+    ],
+    [
+      "may",
+      7
+    ],
+    [
+      "teamspaces",
+      7
+    ],
+    [
+      "information",
+      7
+    ],
+    [
+      "controls",
+      7
+    ],
+    [
+      "set",
+      7
+    ],
+    [
+      "days",
+      7
+    ],
+    [
+      "charged",
+      7
+    ],
+    [
+      "one",
+      6
+    ],
+    [
+      "new",
+      6
+    ],
+    [
+      "company",
+      6
+    ],
+    [
+      "customer",
+      6
+    ],
+    [
+      "help",
+      6
+    ],
+    [
+      "out",
+      6
+    ],
+    [
+      "organize",
+      6
+    ],
+    [
+      "time",
+      6
+    ],
+    [
+      "connected",
+      6
+    ],
+    [
+      "single",
+      6
+    ],
+    [
+      "database",
+      6
+    ],
+    [
+      "email",
+      6
+    ],
+    [
+      "automatically",
+      6
+    ],
+    [
+      "number",
+      6
+    ],
+    [
+      "offline",
+      6
+    ],
+    [
+      "within",
+      6
+    ],
+    [
+      "seats",
+      6
+    ],
+    [
+      "amount",
+      6
+    ],
+    [
+      "subscription",
+      6
+    ],
+    [
+      "pricing",
+      5
+    ],
+    [
+      "see",
+      5
+    ],
+    [
+      "request",
+      5
+    ],
+    [
+      "log",
+      5
+    ],
+    [
+      "pay",
+      5
+    ],
+    [
+      "notion.",
+      5
+    ],
+    [
+      "manage",
+      5
+    ],
+    [
+      "tasks",
+      5
+    ],
+    [
+      "everything",
+      5
+    ]
+  ],
+  "downloaded_css": {
+    "https://www.notion.com/_next/static/css/3ec280a76cbe03ed.css": "evidence/web/css/_next-static-css-3ec280a76cbe03ed.css",
+    "https://www.notion.com/_next/static/css/31f336b532fa350f.css": "evidence/web/css/_next-static-css-31f336b532fa350f.css",
+    "https://www.notion.com/_next/static/css/8399f67c35e9f990.css": "evidence/web/css/_next-static-css-8399f67c35e9f990.css",
+    "https://www.notion.com/_next/static/css/e3abe3ddbe7a1651.css": "evidence/web/css/_next-static-css-e3abe3ddbe7a1651.css",
+    "https://www.notion.com/_next/static/css/7273fcb60fdde4f3.css": "evidence/web/css/_next-static-css-7273fcb60fdde4f3.css",
+    "https://www.notion.com/_next/static/css/a7c5c8a97d62b5e1.css": "evidence/web/css/_next-static-css-a7c5c8a97d62b5e1.css",
+    "https://www.notion.com/_next/static/css/4e5be3798a7dca6d.css": "evidence/web/css/_next-static-css-4e5be3798a7dca6d.css",
+    "https://www.notion.com/_next/static/css/ec1a4abcd62a5476.css": "evidence/web/css/_next-static-css-ec1a4abcd62a5476.css",
+    "https://www.notion.com/_next/static/css/bc1faa353f187f99.css": "evidence/web/css/_next-static-css-bc1faa353f187f99.css"
+  }
+}

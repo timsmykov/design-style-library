@@ -1,0 +1,12 @@
+id: raycast-command-native
+name: Raycast Command Native
+version: 0.5.0
+status: draft
+offline_ready: false
+category: command_native_utility
+local_mobbin_refs: 60
+source_map_rows: 60
+component_capsules: 10
+public_urls:
+  - https://www.raycast.com/
+  - https://www.raycast.com/pricing

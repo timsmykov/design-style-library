@@ -1,0 +1,546 @@
+{
+  "component_id": "pricing-plan-cards",
+  "evidence_count": 30,
+  "sources": [
+    "anthropic-pricing-public"
+  ],
+  "captured_urls": [
+    "https://claude.com/pricing"
+  ],
+  "computed_token_candidates": {
+    "display": [
+      [
+        "flow-root",
+        11
+      ],
+      [
+        "block",
+        8
+      ],
+      [
+        "flex",
+        5
+      ],
+      [
+        "grid",
+        3
+      ]
+    ],
+    "position": [
+      [
+        "static",
+        27
+      ],
+      [
+        "relative",
+        3
+      ]
+    ],
+    "boxSizing": [
+      [
+        "border-box",
+        30
+      ]
+    ],
+    "width": [
+      [
+        "392.656px",
+        9
+      ],
+      [
+        "392.672px",
+        7
+      ],
+      [
+        "64px",
+        3
+      ],
+      [
+        "458.656px",
+        2
+      ],
+      [
+        "30.0312px",
+        1
+      ],
+      [
+        "38.625px",
+        1
+      ],
+      [
+        "108.156px",
+        1
+      ],
+      [
+        "458.672px",
+        1
+      ]
+    ],
+    "height": [
+      [
+        "18.5px",
+        3
+      ],
+      [
+        "100%",
+        3
+      ],
+      [
+        "901.297px",
+        3
+      ],
+      [
+        "53.7656px",
+        3
+      ],
+      [
+        "24.6562px",
+        3
+      ],
+      [
+        "13.1094px",
+        3
+      ],
+      [
+        "46.0625px",
+        2
+      ],
+      [
+        "64px",
+        2
+      ],
+      [
+        "467.031px",
+        2
+      ],
+      [
+        "389.781px",
+        2
+      ],
+      [
+        "82.5px",
+        1
+      ],
+      [
+        "63px",
+        1
+      ]
+    ],
+    "marginTop": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "marginRight": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "marginBottom": [
+      [
+        "0px",
+        26
+      ],
+      [
+        "16px",
+        3
+      ],
+      [
+        "24px",
+        1
+      ]
+    ],
+    "marginLeft": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "paddingTop": [
+      [
+        "0px",
+        25
+      ],
+      [
+        "32px",
+        3
+      ],
+      [
+        "24px",
+        2
+      ]
+    ],
+    "paddingRight": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "32px",
+        3
+      ]
+    ],
+    "paddingBottom": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "32px",
+        3
+      ]
+    ],
+    "paddingLeft": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "32px",
+        3
+      ]
+    ],
+    "fontFamily": [
+      [
+        "\"Anthropic Sans\", Arial, sans-serif",
+        27
+      ],
+      [
+        "\"Anthropic Serif\", Georgia, sans-serif",
+        3
+      ]
+    ],
+    "fontSize": [
+      [
+        "20px",
+        21
+      ],
+      [
+        "24px",
+        3
+      ],
+      [
+        "32px",
+        3
+      ],
+      [
+        "17px",
+        3
+      ]
+    ],
+    "fontWeight": [
+      [
+        "400",
+        21
+      ],
+      [
+        "600",
+        6
+      ],
+      [
+        "500",
+        3
+      ]
+    ],
+    "lineHeight": [
+      [
+        "32px",
+        21
+      ],
+      [
+        "38.4px",
+        3
+      ],
+      [
+        "35.2px",
+        3
+      ],
+      [
+        "27.2px",
+        3
+      ]
+    ],
+    "color": [
+      [
+        "rgb(20, 20, 19)",
+        30
+      ]
+    ],
+    "borderTopColor": [
+      [
+        "rgb(20, 20, 19)",
+        25
+      ],
+      [
+        "rgb(240, 238, 230)",
+        4
+      ],
+      [
+        "color(srgb 0.415686 0.607843 0.8 / 0.2)",
+        1
+      ]
+    ],
+    "borderRightColor": [
+      [
+        "rgb(20, 20, 19)",
+        27
+      ],
+      [
+        "rgb(240, 238, 230)",
+        2
+      ],
+      [
+        "color(srgb 0.415686 0.607843 0.8 / 0.2)",
+        1
+      ]
+    ],
+    "borderBottomColor": [
+      [
+        "rgb(20, 20, 19)",
+        27
+      ],
+      [
+        "rgb(240, 238, 230)",
+        2
+      ],
+      [
+        "color(srgb 0.415686 0.607843 0.8 / 0.2)",
+        1
+      ]
+    ],
+    "borderLeftColor": [
+      [
+        "rgb(20, 20, 19)",
+        27
+      ],
+      [
+        "rgb(240, 238, 230)",
+        2
+      ],
+      [
+        "color(srgb 0.415686 0.607843 0.8 / 0.2)",
+        1
+      ]
+    ],
+    "borderTopWidth": [
+      [
+        "0px",
+        25
+      ],
+      [
+        "1px",
+        5
+      ]
+    ],
+    "borderRightWidth": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "1px",
+        3
+      ]
+    ],
+    "borderBottomWidth": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "1px",
+        3
+      ]
+    ],
+    "borderLeftWidth": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "1px",
+        3
+      ]
+    ],
+    "borderRadius": [
+      [
+        "0px",
+        27
+      ],
+      [
+        "24px",
+        3
+      ]
+    ],
+    "opacity": [
+      [
+        "1",
+        30
+      ]
+    ],
+    "overflow": [
+      [
+        "visible",
+        30
+      ]
+    ],
+    "gap": [
+      [
+        "16px normal",
+        3
+      ],
+      [
+        "32px 24px",
+        3
+      ],
+      [
+        "32px normal",
+        2
+      ]
+    ],
+    "rowGap": [
+      [
+        "32px",
+        5
+      ],
+      [
+        "16px",
+        3
+      ]
+    ],
+    "alignItems": [
+      [
+        "start",
+        8
+      ]
+    ],
+    "justifyContent": [
+      [
+        "center",
+        5
+      ],
+      [
+        "space-between",
+        3
+      ],
+      [
+        "flex-start",
+        3
+      ]
+    ],
+    "flexDirection": [
+      [
+        "row",
+        22
+      ],
+      [
+        "column",
+        8
+      ]
+    ],
+    "flexWrap": [
+      [
+        "nowrap",
+        30
+      ]
+    ],
+    "minWidth": [
+      [
+        "0px",
+        11
+      ],
+      [
+        "100%",
+        3
+      ]
+    ],
+    "minHeight": [
+      [
+        "0px",
+        11
+      ]
+    ],
+    "backgroundColor": [
+      [
+        "rgb(255, 255, 255)",
+        3
+      ]
+    ],
+    "borderStyle": [
+      [
+        "solid",
+        3
+      ],
+      [
+        "solid none none",
+        2
+      ]
+    ],
+    "columnGap": [
+      [
+        "24px",
+        3
+      ]
+    ],
+    "gridTemplateColumns": [
+      [
+        "392.656px",
+        2
+      ],
+      [
+        "392.672px",
+        1
+      ]
+    ],
+    "gridTemplateRows": [
+      [
+        "subgrid [] [] [] [] [] []",
+        3
+      ]
+    ],
+    "maxWidth": [
+      [
+        "64px",
+        3
+      ]
+    ],
+    "boxShadow": [
+      [
+        "rgba(98, 158, 218, 0.16) 0px 4px 20px 0px",
+        1
+      ]
+    ]
+  },
+  "text_samples": [
+    "€0Free for everyone",
+    "€0",
+    "€15Per month with annual subscription discount (€180 billed up front). €18 if billed monthly.",
+    "€15",
+    "From €90Per month",
+    "From €90",
+    "€18",
+    "€90",
+    "ResultsRecommended: The Team planYou'll get the features you need with costs you can predict. .button_small_icon { transition: color 300ms ease; } .button_small",
+    "ResultsRecommended: ‍The Enterprise plan (self-serve)You need enterprise security features, but want to move fast. You can get started today without contacting ",
+    "ResultsRecommended: ‍The Enterprise plan (sales-assisted)You need a tailored approach and enterprise security features on a traditional Enterprise plan. Our tea",
+    "FreeTry Claude€0Free for everyone .button_main_icon { transition: color 300ms ease; } .button_main_wrap:hover .button_main_icon { color: var(--_button-style---i",
+    "FreeTry Claude",
+    "Free",
+    "Try Claude",
+    "Chat on web, iOS, Android, and on your desktopGenerate code and visualize dataWrite, edit, and create contentAbility to search the webMemory across conversation",
+    "Chat on web, iOS, Android, and on your desktopGenerate code and visualize dataWrite, edit, and create contentAbility to search the webMemory across conversation",
+    "ProFor everyday productivity€15Per month with annual subscription discount (€180 billed up front). €18 if billed monthly. .button_main_icon { transition: color ",
+    "ProFor everyday productivity",
+    "Pro",
+    "For everyday productivity",
+    "Everything in Free, plus:More usage*Includes Claude CodeIncludes Claude CoworkIncludes Claude DesignAccess to unlimited projects to organize chats and documents",
+    "Everything in Free, plus:More usage*Includes Claude CodeIncludes Claude CoworkIncludes Claude DesignAccess to unlimited projects to organize chats and documents",
+    "Everything in Free, plus:",
+    "Max Get the most out of ClaudeFrom €90Per month .button_main_icon { transition: color 300ms ease; } .button_main_wrap:hover .button_main_icon { color: var(--_bu",
+    "Max Get the most out of Claude",
+    "Max"
+  ],
+  "policy": "Evidence only; runtime output must be original/adapted."
+}

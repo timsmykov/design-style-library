@@ -1,0 +1,277 @@
+sources:
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-001-img_07cdf8de57f4.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-002-img_15dba115bbb5.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-003-img_1bb8ba130ffb.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-004-img_1def8e37784e.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-005-img_28395cb09948.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-006-img_2ef66a0f9b4d.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-007-img_31bdf77db298.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-008-img_33e9ed8ee571.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-009-img_3f3697fe1af4.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-010-img_42a49ded7ea4.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-011-img_42d360269031.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-012-img_4ca8248b0cf4.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-013-img_4fc0d524b3dc.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-014-img_5588743b7549.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-015-img_5daf8f73b15e.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-016-img_5f85cdc39ae9.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-017-img_644bb5fc287b.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-018-img_6a00711a0a9b.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-019-img_6cabecf35b3d.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-020-img_9c1be5982a83.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-021-img_9d6739e204d9.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-022-img_a08678384e20.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-023-img_d4ea9c0d2459.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-024-img_d98f2693e258.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-025-img_dc949dee474e.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-026-img_e3dfa759059d.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-027-img_edbe29444041.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-028-img_eea9e46bc0f8.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-029-img_f2550b1343d3.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/screens/screen-030-img_fea007be666c.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-001-img_0c46ca33599f.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-002-img_126d36cddb38.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-003-img_1b0999f39654.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-004-img_1b1ef662fee9.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-005-img_1f7fa20ed049.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-006-img_220bbf4e919a.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-007-img_2288526da79e.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-008-img_272e07de36a3.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-009-img_2919e54096b8.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-010-img_3c9a831fd1c3.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-011-img_3f04e10d84a3.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-012-img_454d36205a10.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-013-img_4c28d085e40f.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-014-img_4e0d79a8d806.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-015-img_510c3c1db191.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-016-img_56be079e736d.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-017-img_5e6e18b70b4c.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-018-img_632e427455ab.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-019-img_6c413fb3c291.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-020-img_74c47cf5b3f8.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-021-img_7c8af64c814b.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-022-img_80053bb31772.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-023-img_84a8b8819307.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-024-img_8599fbeb6b7d.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-025-img_ab82c84349a7.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-026-img_b326e0ac201c.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-027-img_df5c6b376bd9.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-028-img_ee4468a02a82.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-029-img_f0ee595fe239.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/sections/section-030-img_f3c4d5619106.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-001-img_06e6b4c58166.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-002-img_28b2d263383d.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-003-img_2b10458fbc34.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-004-img_32969be3c75b.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-005-img_49950d8356f2.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-006-img_49ac3300f803.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-007-img_4b0b00c4eb99.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-008-img_4d8d48e9038f.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-009-img_5a5496e46cac.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-010-img_714f24e457d0.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-011-img_84cea2af3f88.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-012-img_89a5f8745929.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-013-img_8f87405f9ba8.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-014-img_9035215aefeb.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-015-img_91135da661da.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-016-img_9657a46ef974.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-017-img_9db518f99261.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-018-img_a10696592cee.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-019-img_a2d684b0b7ba.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-020-img_a96b4ba7af0b.webp
+    component: settings-risk-panel
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-021-img_c116acc4baa8.webp
+    component: payments-dashboard
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-022-img_c8305251c0de.webp
+    component: checkout-form
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-023-img_cdbdc56a3e4b.webp
+    component: pricing-table
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-024-img_d6443296bb51.webp
+    component: trust-compliance-band
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-025-img_d84bc344dbaa.webp
+    component: developer-code-card
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-026-img_d9d9b6d061dc.webp
+    component: invoice-list
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-027-img_efa776fb5d98.webp
+    component: verification-flow
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-028-img_f435053d64f2.webp
+    component: balance-payouts
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-029-img_f485f55c1cfe.webp
+    component: enterprise-hero
+  - type: mobbin_cache
+    local_path: styles/stripe-trust-commerce/evidence/mobbin/flows/flow-preview-030-img_fe6a6e6a52c5.webp
+    component: settings-risk-panel
+  - type: public_web
+    url: https://stripe.com/
+    local_path: evidence/web/pages/stripe-com.html
+  - type: public_web
+    url: https://stripe.com/pricing
+    local_path: evidence/web/pages/stripe-com-pricing.html

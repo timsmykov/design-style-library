@@ -1,0 +1,181 @@
+sources:
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-001-img_0aa69385d3dd.webp
+    component: wallet-home-balance
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-002-img_35ceedc230dd.webp
+    component: token-list
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-003-img_3b50fdbdbae0.webp
+    component: send-receive-flow
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-004-img_3b9b5417a8a8.webp
+    component: swap-quote-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-005-img_3cf2984b1b81.webp
+    component: network-selector
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-006-img_3dfdfac3b208.webp
+    component: gas-fee-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-007-img_7a7ac0e8e44e.webp
+    component: connect-dapp-permission
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-008-img_7c9195fb188d.webp
+    component: security-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-009-img_880ca668253d.webp
+    component: portfolio-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-010-img_934e9eed5752.webp
+    component: seed-phrase-onboarding
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-011-img_99e1bd4fad4e.webp
+    component: wallet-home-balance
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-012-img_9caccd4835cc.webp
+    component: token-list
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-013-img_a36bd12bdb7d.webp
+    component: send-receive-flow
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-014-img_aa9e226b3e4a.webp
+    component: swap-quote-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-015-img_ab23788c456f.webp
+    component: network-selector
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-016-img_b66e13267b75.webp
+    component: gas-fee-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-017-img_f1d8f8535636.webp
+    component: connect-dapp-permission
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-018-img_f1ef95c56eb0.webp
+    component: security-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-019-img_f6ef17107fbf.webp
+    component: portfolio-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/screens/screen-020-img_fb23c50e8051.webp
+    component: seed-phrase-onboarding
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-001-img_0634ba0b75ac.webp
+    component: wallet-home-balance
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-002-img_096b3363c109.webp
+    component: token-list
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-003-img_0c56392252b9.webp
+    component: send-receive-flow
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-004-img_26b8a68abb1e.webp
+    component: swap-quote-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-005-img_2c0c67a6646e.webp
+    component: network-selector
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-006-img_34de52490aaf.webp
+    component: gas-fee-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-007-img_4489c88074f4.webp
+    component: connect-dapp-permission
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-008-img_5d915f9b7f72.webp
+    component: security-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-009-img_6103fc936e94.webp
+    component: portfolio-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-010-img_682777b09d4c.webp
+    component: seed-phrase-onboarding
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-011-img_74ee1fe1f2bc.webp
+    component: wallet-home-balance
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-012-img_79357e9e44f7.webp
+    component: token-list
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-013-img_7fc13477f07b.webp
+    component: send-receive-flow
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-014-img_9418a3977561.webp
+    component: swap-quote-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-015-img_9931e9e9d3f6.webp
+    component: network-selector
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-016-img_c1ee858150cb.webp
+    component: gas-fee-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-017-img_cbb8a46deaf7.webp
+    component: connect-dapp-permission
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-018-img_d3749a398dd6.webp
+    component: security-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-019-img_e5db5dbf4718.webp
+    component: portfolio-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/sections/section-020-img_f26200464372.webp
+    component: seed-phrase-onboarding
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-001-img_05c0c0c367ca.webp
+    component: wallet-home-balance
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-002-img_0b1835537597.webp
+    component: token-list
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-003-img_18b05eaec4d3.webp
+    component: send-receive-flow
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-004-img_26412583dadb.webp
+    component: swap-quote-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-005-img_2cf01085c58b.webp
+    component: network-selector
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-006-img_359b926448d3.webp
+    component: gas-fee-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-007-img_3bef701ef11a.webp
+    component: connect-dapp-permission
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-008-img_46f01bfe5912.webp
+    component: security-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-009-img_58754cbec89c.webp
+    component: portfolio-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-010-img_764c69e22167.webp
+    component: seed-phrase-onboarding
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-011-img_7a0849361a87.webp
+    component: wallet-home-balance
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-012-img_80545df5e5c1.webp
+    component: token-list
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-013-img_81ddeb7d1380.webp
+    component: send-receive-flow
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-014-img_948e05237ad6.webp
+    component: swap-quote-card
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-015-img_b5182f4a06f1.webp
+    component: network-selector
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-016-img_e59d3e959dc2.webp
+    component: gas-fee-warning
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-017-img_f1eec4bb5e77.webp
+    component: connect-dapp-permission
+  - type: mobbin_cache
+    local_path: styles/metamask-crypto-wallet-trust/evidence/mobbin/flows/flow-preview-018-img_fba9f949d179.webp
+    component: security-warning
+  - type: public_web
+    url: https://metamask.io/
+    local_path: evidence/web/pages/metamask-io.html
+  - type: public_web
+    url: https://metamask.io/swaps/
+    local_path: evidence/web/pages/metamask-io-swaps.html

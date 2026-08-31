@@ -1,0 +1,11 @@
+id: airbnb-marketplace-warm-consumer
+name: Airbnb Marketplace Warm Consumer
+version: 0.5.0
+status: draft
+offline_ready: false
+category: marketplace_consumer
+local_mobbin_refs: 65
+source_map_rows: 65
+component_capsules: 10
+public_urls:
+  - https://www.airbnb.com/

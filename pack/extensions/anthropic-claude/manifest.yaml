@@ -1,0 +1,61 @@
+id: anthropic-claude
+name: Anthropic / Claude Editorial Workbench
+version: 0.5.0
+status: draft
+category: ai_workbench
+summary: >
+  Warm paper editorialism plus disciplined AI workbench: calm document-like hierarchy,
+  compact workbench controls, sparse artifact surfaces, low-contrast trust, black/ivory utility,
+  and restrained clay/terracotta accents.
+
+best_for:
+  - AI workspaces
+  - scientific notes
+  - calm explainers
+  - document-like product flows
+  - artifact/code/file panels
+  - editorial product landing pages
+
+avoid_for:
+  - neon SaaS dashboards
+  - aggressive consumer funnels
+  - playful gaming aesthetics
+  - dense admin panels without editorial hierarchy
+  - glossy 3D AI cliché visuals
+
+runtime_contract:
+  external_tools_allowed: false
+  canonical_prompts: false
+  agent_uses_repo_only: true
+
+evidence:
+  mobbin_local_assets: 211
+  web_extraction_assets: 9
+  deterministic_analysis_assets: 7
+  source_mapped_assets: 211
+  screenshot_fact_assets: 211
+  public_code_pages: 3
+  public_css_files: 2
+  browser_cdp_targets: 5
+  browser_cdp_computed_components: 5
+  computed_style_assets: 122
+  evidence_level: partial
+  notes:
+    - 65 Claude web app/workbench/screens/settings screens exported from Mobbin/API short URLs.
+    - 34 Claude website sections exported from Mobbin/API short URLs.
+    - 112 flow screenshots exported across onboarding, login, settings, API onboarding, subscribing, and upgrading flows.
+    - Firecrawl extraction saved for Anthropic Claude product page and attempted Claude home.
+    - Contact sheets plus OCR/color metadata generated under evidence/analysis.
+    - Full Mobbin source map generated under evidence/source-map for 211 local refs; 183 have direct Mobbin URLs and 129 have original Mobbin image/API URLs.
+    - Screenshot-derived component facts generated under components/extracted/from-mobbin-screenshots for all 211 local refs.
+    - Public Anthropic page DOM/CSS evidence captured for Claude product, pricing, and API pages under evidence/web/original-code.
+    - Browser/CDP computed-style evidence captured for 5 targets: Claude login, Claude app auth checks, Claude product, and Claude pricing.
+    - Computed-style component facts generated for auth-onboarding, editorial-hero-section, feature-tile-grid, model-comparison-figure, and pricing-plan-cards.
+    - Claude app-only surfaces redirected to login in the current Chrome profile; no credential/OAuth action was submitted.
+
+offline_readiness:
+  offline_ready: false
+  fresh_agent_eval_passed: false
+  known_gaps:
+    - Authenticated Claude app Browser/CDP computed styles for app-shell/sidebar/composer/artifact/settings not captured yet because current Chrome profile is logged out
+    - fresh-agent offline eval not run yet

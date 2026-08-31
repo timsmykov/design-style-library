@@ -1,0 +1,10 @@
+:root {
+  --dsl-canvas: #ffffff;
+  --dsl-surface: #ffffff;
+  --dsl-panel: #f7f7f7;
+  --dsl-text: #222222;
+  --dsl-muted: #717171;
+  --dsl-border: #dddddd;
+  --dsl-accent: #ff385c;
+  --dsl-accent2: #00a699;
+}

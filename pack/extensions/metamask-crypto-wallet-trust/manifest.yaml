@@ -1,0 +1,12 @@
+id: metamask-crypto-wallet-trust
+name: MetaMask / Crypto Wallet Trust
+version: 0.5.0
+status: draft
+offline_ready: false
+category: crypto_wallet_trust
+local_mobbin_refs: 58
+source_map_rows: 58
+component_capsules: 10
+public_urls:
+  - https://metamask.io/
+  - https://metamask.io/swaps/

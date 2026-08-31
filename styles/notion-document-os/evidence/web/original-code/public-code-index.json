@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "slug": "notion-home",
+      "url": "https://www.notion.com/",
+      "captured_url": "https://www.notion.com/",
+      "title": "The AI workspace that works for you. | Notion",
+      "path": "evidence/web/original-code/notion-home",
+      "computed_path": "evidence/web/computed/notion-home",
+      "screenshot_path": "evidence/web/screenshots/notion-home.png",
+      "component_counts": {
+        "marketing-hero-section": 30,
+        "pricing-plan-cards": 30,
+        "docs-projects-grid": 30,
+        "document-page-editor": 26,
+        "app-shell-sidebar": 6
+      }
+    },
+    {
+      "slug": "notion-pricing",
+      "url": "https://www.notion.com/pricing",
+      "captured_url": "https://www.notion.com/pricing",
+      "title": "Notion Pricing Plans: Free, Plus, Business, & Enterprise.",
+      "path": "evidence/web/original-code/notion-pricing",
+      "computed_path": "evidence/web/computed/notion-pricing",
+      "screenshot_path": "evidence/web/screenshots/notion-pricing.png",
+      "component_counts": {
+        "marketing-hero-section": 30,
+        "pricing-plan-cards": 30,
+        "docs-projects-grid": 30,
+        "document-page-editor": 30,
+        "app-shell-sidebar": 3
+      }
+    }
+  ],
+  "css_files": [
+    "evidence/web/css/_next-static-css-171de3bd334ba784.css",
+    "evidence/web/css/_next-static-css-31f336b532fa350f.css",
+    "evidence/web/css/_next-static-css-3ec280a76cbe03ed.css",
+    "evidence/web/css/_next-static-css-4e5be3798a7dca6d.css",
+    "evidence/web/css/_next-static-css-62541c6a75337faa.css",
+    "evidence/web/css/_next-static-css-7122a0f169747a04.css",
+    "evidence/web/css/_next-static-css-7273fcb60fdde4f3.css",
+    "evidence/web/css/_next-static-css-8399f67c35e9f990.css",
+    "evidence/web/css/_next-static-css-870a1e1c777ae8b3.css",
+    "evidence/web/css/_next-static-css-9aea5169bdfc3059.css",
+    "evidence/web/css/_next-static-css-a7c5c8a97d62b5e1.css",
+    "evidence/web/css/_next-static-css-bc1faa353f187f99.css",
+    "evidence/web/css/_next-static-css-cfb6c39de98b4d1a.css",
+    "evidence/web/css/_next-static-css-e3abe3ddbe7a1651.css",
+    "evidence/web/css/_next-static-css-ec1a4abcd62a5476.css",
+    "evidence/web/css/_next-static-css-ecf28241255f9aab.css",
+    "evidence/web/css/_next-static-css-f4f040cd7d6d7da7.css",
+    "evidence/web/css/_next-static-css-fbbf7d5e9bcdcc70.css",
+    "evidence/web/css/_next-static-css-fc43ad0698ebb3d4.css"
+  ],
+  "cdp_ok": true
+}

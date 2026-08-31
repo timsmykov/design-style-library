@@ -1,0 +1,46 @@
+id: notion-document-os
+name: Notion Document OS
+version: 0.1.0
+status: draft
+category: document_os
+summary: >
+  Quiet document/workspace operating system: white paper canvas, block-level composition,
+  low-contrast workspace chrome, database-as-document surfaces, template-first starts,
+  and restrained black/gray utility with tiny semantic color.
+best_for:
+  - document editors
+  - knowledge bases and wikis
+  - project docs and lightweight databases
+  - calm team workspaces
+  - template galleries
+  - AI-assisted writing surfaces
+avoid_for:
+  - neon SaaS dashboards
+  - glossy consumer funnels
+  - high-density financial/admin consoles
+  - playful mascot-heavy products
+  - interfaces that need strong brand color as the main hierarchy
+runtime_contract:
+  external_tools_allowed: false
+  canonical_prompts: false
+  agent_uses_repo_only: true
+evidence:
+  mobbin_local_assets: 96
+  source_mapped_assets: 96
+  screenshot_fact_assets: 96
+  public_code_pages: 2
+  public_css_files: 19
+  browser_cdp_targets: 2
+  evidence_level: partial
+  notes:
+    - Mobbin MCP visible and used for Notion web screens, website sections, and onboarding/workspace flows.
+    - Local source map covers every saved Mobbin ref.
+    - Screenshot-derived facts are grouped by component under components/extracted/from-mobbin-screenshots.
+    - Public no-login DOM/computed/screenshot evidence captured for notion.com and notion.com/pricing when CDP allowed.
+    - Authenticated editor/state surfaces remain blocked by no-login constraint.
+offline_readiness:
+  offline_ready: false
+  fresh_agent_eval_passed: false
+  known_gaps:
+    - Authenticated workspace/editor DOM and private settings/billing surfaces not captured.
+    - Fresh-agent offline eval not run.

@@ -1,0 +1,12 @@
+:root{
+  --px-canvas:#ffffff;
+  --px-surface:#f8faf9;
+  --px-text:#101817;
+  --px-muted:#5f6f6d;
+  --px-border:#dbe4e2;
+  --px-teal:#208c88;
+  --px-citation-bg:#eef7f6;
+  --px-radius-card:14px;
+  --px-radius-input:16px;
+  --px-shadow-card:0 1px 2px rgba(16,24,23,.06);
+}

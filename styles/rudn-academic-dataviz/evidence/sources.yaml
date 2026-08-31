@@ -1,0 +1,21 @@
+sources:
+  - id: unit-5-personal-inflation
+    type: local_pdf
+    local_path: evidence/local/unit-5-personal-inflation.pdf
+    sha256: 849678ac29c119ea8eae90ac5485a89c7610d481a07ad139c0f648df3bf85015
+    pages: 24
+    page_size_points: [960, 540]
+    role: primary visual and structural evidence
+    confidence: observed
+  - id: unit-5-contact-sheet
+    type: derived_contact_sheet
+    local_path: evidence/local/unit-5-contact-sheet.jpg
+    derived_from: unit-5-personal-inflation
+    role: whole-deck repetition and consistency review
+    confidence: extracted
+  - id: theme-palette-reference
+    type: local_screenshot
+    local_path: evidence/local/theme-palette-reference.png
+    sha256: a510143a3840d41d50eb39c8ac7b6ce017d903435eca2446f4adb94ddb8b27ff
+    role: explicit cross-medium theme configuration values
+    confidence: observed

@@ -1,0 +1,41 @@
+id: perplexity-answer-engine
+name: Perplexity Answer Engine
+version: 0.1.0
+status: draft
+category: answer_search_engine
+summary: >
+  Answer-first search interface style: clean white/cool-neutral canvas, compact teal action grammar,
+  citation-backed answer cards, restrained source chips, and low-friction follow-up query flows.
+best_for:
+  - answer engines
+  - AI research surfaces
+  - citation-backed explainers
+  - search-first workbenches
+  - lightweight knowledge libraries
+avoid_for:
+  - playful consumer funnels
+  - heavy enterprise dashboards
+  - brand-heavy editorial campaigns
+  - dense forms without answer context
+runtime_contract:
+  external_tools_allowed: false
+  canonical_prompts: false
+  agent_uses_repo_only: true
+evidence:
+  mobbin_local_assets: 93
+  source_mapped_assets: 93
+  screenshot_fact_assets: 93
+  public_code_pages: 2
+  public_css_files: 0
+  browser_cdp_targets: 4
+  evidence_level: partial
+  notes:
+    - 93 Mobbin local refs saved: 45 screens, 44 flow screens, 4 sections.
+    - Public no-login page attempts saved for homepage and Pro page; both currently returned Cloudflare security verification in Chromium/Firecrawl, so DOM/CSS evidence is access-limited.
+    - Authenticated/library/search-new surfaces and Cloudflare-gated public extraction are recorded as blockers; no credentials/OAuth submitted.
+offline_readiness:
+  offline_ready: false
+  fresh_agent_eval_passed: false
+  known_gaps:
+    - Authenticated Perplexity app interiors, user library, account settings, and billing state still need authenticated Browser/CDP capture.
+    - Fresh-agent offline eval not run yet.

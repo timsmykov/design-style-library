@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.raycast.com/",
+    "final_url": "https://www.raycast.com/",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 368019,
+    "title": "",
+    "local_path": "styles/raycast-command-native/evidence/web/pages/www-raycast-com.html"
+  },
+  {
+    "url": "https://www.raycast.com/pricing",
+    "final_url": "https://www.raycast.com/pricing",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 161809,
+    "title": "Raycast Pricing: Free Forever or Pro with AI for $8/month",
+    "local_path": "styles/raycast-command-native/evidence/web/pages/www-raycast-com-pricing.html"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "style_id": "airbnb-marketplace-warm-consumer",
+    "slug": "airbnb-home",
+    "outcome": "captured_surface",
+    "title": "Airbnb | Vacation rentals, cabins, beach houses, & more",
+    "captured_url": "https://www.airbnb.com/",
+    "path": "styles/airbnb-marketplace-warm-consumer/evidence/authenticated/browser-cdp/airbnb-home"
+  },
+  {
+    "style_id": "anthropic-claude",
+    "slug": "claude-new",
+    "outcome": "login_or_signup_barrier",
+    "title": "Sign in - Claude",
+    "captured_url": "https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fnew",
+    "path": "styles/anthropic-claude/evidence/authenticated/browser-cdp/claude-new"
+  },
+  {
+    "style_id": "cursor-ai-ide",
+    "slug": "cursor-dashboard",
+    "outcome": "security_checkpoint_barrier",
+    "title": "Vercel Security Checkpoint",
+    "captured_url": "https://cursor.com/dashboard",
+    "path": "styles/cursor-ai-ide/evidence/authenticated/browser-cdp/cursor-dashboard"
+  },
+  {
+    "style_id": "figma-collaborative-canvas",
+    "slug": "figma-files",
+    "outcome": "captured_surface",
+    "title": "www.figma.com",
+    "captured_url": "chrome-error://chromewebdata/",
+    "path": "styles/figma-collaborative-canvas/evidence/authenticated/browser-cdp/figma-files"
+  },
+  {
+    "style_id": "linear-operational-workspace",
+    "slug": "linear-home",
+    "outcome": "login_or_signup_barrier",
+    "title": "Linear – The system for product development",
+    "captured_url": "https://linear.app/",
+    "path": "styles/linear-operational-workspace/evidence/authenticated/browser-cdp/linear-home"
+  },
+  {
+    "style_id": "metamask-crypto-wallet-trust",
+    "slug": "metamask-portfolio",
+    "outcome": "captured_surface",
+    "title": "MetaMask Portfolio",
+    "captured_url": "https://portfolio.metamask.io/",
+    "path": "styles/metamask-crypto-wallet-trust/evidence/authenticated/browser-cdp/metamask-portfolio"
+  },
+  {
+    "style_id": "perplexity-answer-engine",
+    "slug": "perplexity-home",
+    "outcome": "security_checkpoint_barrier",
+    "title": "Just a moment...",
+    "captured_url": "https://www.perplexity.ai/",
+    "path": "styles/perplexity-answer-engine/evidence/authenticated/browser-cdp/perplexity-home"
+  },
+  {
+    "style_id": "raycast-command-native",
+    "slug": "raycast-account",
+    "outcome": "security_checkpoint_barrier",
+    "title": "Vercel Security Checkpoint",
+    "captured_url": "https://www.raycast.com/account",
+    "path": "styles/raycast-command-native/evidence/authenticated/browser-cdp/raycast-account"
+  },
+  {
+    "style_id": "vercel-developer-control-plane",
+    "slug": "vercel-dashboard",
+    "outcome": "login_or_signup_barrier",
+    "title": "Vercel",
+    "captured_url": "https://vercel.com/login?next=%2Fdashboard",
+    "path": "styles/vercel-developer-control-plane/evidence/authenticated/browser-cdp/vercel-dashboard"
+  },
+  {
+    "style_id": "notion-document-os",
+    "slug": "notion-third-account-oauth",
+    "outcome": "discarded_ambient_session",
+    "title": "Not captured",
+    "captured_url": "",
+    "path": "styles/notion-document-os/evidence/authenticated/README.md"
+  },
+  {
+    "style_id": "stripe-trust-commerce",
+    "slug": "stripe-dashboard",
+    "outcome": "restricted_billing_or_kyc_boundary",
+    "title": "Not captured",
+    "captured_url": "",
+    "path": "styles/stripe-trust-commerce/evidence/authenticated/README.md"
+  },
+  {
+    "style_id": "anthropic-claude",
+    "slug": "claude-google-oauth",
+    "outcome": "google_verification_otp_required",
+    "title": "Google verification stopped",
+    "captured_url": "",
+    "path": "styles/anthropic-claude/evidence/authenticated/GOOGLE_OAUTH_BLOCKER.md"
+  },
+  {
+    "style_id": "figma-collaborative-canvas",
+    "slug": "figma-google-oauth",
+    "outcome": "captcha_or_bot_check_barrier",
+    "title": "Figma verification stopped",
+    "captured_url": "",
+    "path": "styles/figma-collaborative-canvas/evidence/authenticated/GOOGLE_OAUTH_BLOCKER.md"
+  }
+]

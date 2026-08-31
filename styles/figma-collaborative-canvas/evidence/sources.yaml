@@ -1,0 +1,187 @@
+sources:
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-001-img_03f4762b62c5.webp
+    component: canvas-editor-shell
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-002-img_09c521844722.webp
+    component: layers-panel
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-003-img_2ecbeb066f91.webp
+    component: properties-inspector
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-004-img_3f0c2611e8fc.webp
+    component: toolbar-controls
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-005-img_431cd98caf8b.webp
+    component: comment-thread
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-006-img_437f76938594.webp
+    component: multiplayer-presence
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-007-img_452800de91a3.webp
+    component: file-browser-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-008-img_4741a247ef4f.webp
+    component: prototype-flow
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-009-img_5d83f060763f.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-010-img_60e69cf4aa1f.webp
+    component: figjam-board
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-011-img_65c83b5f303b.webp
+    component: canvas-editor-shell
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-012-img_7653203e163e.webp
+    component: layers-panel
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-013-img_9520a4a3b10e.webp
+    component: properties-inspector
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-014-img_a0ba3cc007da.webp
+    component: toolbar-controls
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-015-img_b7aa9eeb27ff.webp
+    component: comment-thread
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-016-img_c20e7be72329.webp
+    component: multiplayer-presence
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-017-img_c4db7c2358ed.webp
+    component: file-browser-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-018-img_eb52e106f55d.webp
+    component: prototype-flow
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-019-img_f658b7ee433e.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/screens/screen-020-img_f67f809efdf8.webp
+    component: figjam-board
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-001-img_0f29e5f1af33.webp
+    component: canvas-editor-shell
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-002-img_11b10a40880a.webp
+    component: layers-panel
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-003-img_19f64642b5c5.webp
+    component: properties-inspector
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-004-img_2e7c09308659.webp
+    component: toolbar-controls
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-005-img_4b0cfa6f3817.webp
+    component: comment-thread
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-006-img_6968d3ec8137.webp
+    component: multiplayer-presence
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-007-img_7126f70ceb80.webp
+    component: file-browser-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-008-img_82261211a1d3.webp
+    component: prototype-flow
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-009-img_8c2ad3e17ab3.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-010-img_9e9bc0913734.webp
+    component: figjam-board
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-011-img_a3f5b521eef6.webp
+    component: canvas-editor-shell
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-012-img_acd3eed11471.webp
+    component: layers-panel
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-013-img_beedad46184a.webp
+    component: properties-inspector
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-014-img_d71c43a823dc.webp
+    component: toolbar-controls
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-015-img_dc6abf85940a.webp
+    component: comment-thread
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-016-img_e23058326da5.webp
+    component: multiplayer-presence
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-017-img_e4cb10262917.webp
+    component: file-browser-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-018-img_e4ec05913784.webp
+    component: prototype-flow
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-019-img_f6e0788ce8a9.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/sections/section-020-img_f8b1dcfac921.webp
+    component: figjam-board
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-001-img_0024a647ae55.webp
+    component: canvas-editor-shell
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-002-img_0748635cc0d9.webp
+    component: layers-panel
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-003-img_23baaad9b7dc.webp
+    component: properties-inspector
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-004-img_2448f1e11a25.webp
+    component: toolbar-controls
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-005-img_650c9e7d616e.webp
+    component: comment-thread
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-006-img_6c44a95be3d3.webp
+    component: multiplayer-presence
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-007-img_702a47721c4c.webp
+    component: file-browser-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-008-img_717a40e23c70.webp
+    component: prototype-flow
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-009-img_756a5c0e6952.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-010-img_815d1366fd49.webp
+    component: figjam-board
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-011-img_95de129da4a6.webp
+    component: canvas-editor-shell
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-012-img_9fa848a2718e.webp
+    component: layers-panel
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-013-img_ae064f7b2132.webp
+    component: properties-inspector
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-014-img_b82d9268ea82.webp
+    component: toolbar-controls
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-015-img_ceb7719c55c8.webp
+    component: comment-thread
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-016-img_d9eaf6e8b43e.webp
+    component: multiplayer-presence
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-017-img_dae13d30bf2f.webp
+    component: file-browser-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-018-img_e6b340e8ad68.webp
+    component: prototype-flow
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-019-img_f705ed0abb77.webp
+    component: pricing-plan-grid
+  - type: mobbin_cache
+    local_path: styles/figma-collaborative-canvas/evidence/mobbin/flows/flow-preview-020-img_faedbf26a818.webp
+    component: figjam-board
+  - type: public_web
+    url: https://www.figma.com/
+    local_path: evidence/web/pages/www-figma-com.html
+  - type: public_web
+    url: https://www.figma.com/pricing/
+    local_path: evidence/web/pages/www-figma-com-pricing.html

@@ -1,0 +1,101 @@
+[
+  {
+    "style_id": "anthropic-claude",
+    "baseline_ids": [
+      "claude"
+    ],
+    "copied": [
+      "claude"
+    ]
+  },
+  {
+    "style_id": "perplexity-answer-engine",
+    "baseline_ids": [],
+    "copied": []
+  },
+  {
+    "style_id": "notion-document-os",
+    "baseline_ids": [
+      "notion"
+    ],
+    "copied": [
+      "notion"
+    ]
+  },
+  {
+    "style_id": "linear-operational-workspace",
+    "baseline_ids": [
+      "linear.app"
+    ],
+    "copied": [
+      "linear.app"
+    ]
+  },
+  {
+    "style_id": "stripe-trust-commerce",
+    "baseline_ids": [
+      "stripe"
+    ],
+    "copied": [
+      "stripe"
+    ]
+  },
+  {
+    "style_id": "metamask-crypto-wallet-trust",
+    "baseline_ids": [
+      "coinbase",
+      "binance",
+      "kraken"
+    ],
+    "copied": [
+      "coinbase",
+      "binance",
+      "kraken"
+    ]
+  },
+  {
+    "style_id": "vercel-developer-control-plane",
+    "baseline_ids": [
+      "vercel"
+    ],
+    "copied": [
+      "vercel"
+    ]
+  },
+  {
+    "style_id": "raycast-command-native",
+    "baseline_ids": [
+      "raycast"
+    ],
+    "copied": [
+      "raycast"
+    ]
+  },
+  {
+    "style_id": "figma-collaborative-canvas",
+    "baseline_ids": [
+      "figma"
+    ],
+    "copied": [
+      "figma"
+    ]
+  },
+  {
+    "style_id": "airbnb-marketplace-warm-consumer",
+    "baseline_ids": [
+      "airbnb"
+    ],
+    "copied": [
+      "airbnb"
+    ]
+  },
+  {
+    "style_id": "cursor-ai-ide",
+    "baseline_ids": [
+      "cursor"
+    ],
+    "copied": [
+      "cursor"
+    ]
+  }
+]

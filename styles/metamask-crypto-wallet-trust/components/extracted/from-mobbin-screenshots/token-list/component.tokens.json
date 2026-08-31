@@ -1,0 +1,14 @@
+{
+  "component_id": "token-list",
+  "evidence_count": 6,
+  "colors": {
+    "canvas": "#f7f4f0",
+    "surface": "#ffffff",
+    "panel": "#fff8f2",
+    "text": "#171717",
+    "muted": "#6b7280",
+    "border": "#e5e7eb",
+    "accent": "#f6851b",
+    "accent2": "#763d16"
+  }
+}

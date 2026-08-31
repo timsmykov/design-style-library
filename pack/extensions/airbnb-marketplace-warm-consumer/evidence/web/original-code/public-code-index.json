@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://www.airbnb.com/",
+    "final_url": "https://www.airbnb.com/",
+    "status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "bytes_saved": 653689,
+    "title": "",
+    "local_path": "styles/airbnb-marketplace-warm-consumer/evidence/web/pages/www-airbnb-com.html"
+  }
+]

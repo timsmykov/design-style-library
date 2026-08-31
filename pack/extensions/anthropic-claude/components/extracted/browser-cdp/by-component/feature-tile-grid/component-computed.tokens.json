@@ -1,0 +1,589 @@
+{
+  "component_id": "feature-tile-grid",
+  "evidence_count": 30,
+  "sources": [
+    "anthropic-claude-public"
+  ],
+  "captured_urls": [
+    "https://claude.com/product/overview"
+  ],
+  "computed_token_candidates": {
+    "display": [
+      [
+        "flex",
+        14
+      ],
+      [
+        "block",
+        10
+      ],
+      [
+        "flow-root",
+        6
+      ]
+    ],
+    "position": [
+      [
+        "static",
+        30
+      ]
+    ],
+    "boxSizing": [
+      [
+        "border-box",
+        30
+      ]
+    ],
+    "width": [
+      [
+        "363.297px",
+        6
+      ],
+      [
+        "24px",
+        6
+      ],
+      [
+        "960px",
+        4
+      ],
+      [
+        "347.297px",
+        3
+      ],
+      [
+        "278.078px",
+        2
+      ],
+      [
+        "239.016px",
+        2
+      ],
+      [
+        "177.297px",
+        2
+      ],
+      [
+        "314.078px",
+        1
+      ],
+      [
+        "275.016px",
+        1
+      ],
+      [
+        "213.297px",
+        1
+      ]
+    ],
+    "height": [
+      [
+        "24px",
+        9
+      ],
+      [
+        "164.562px",
+        6
+      ],
+      [
+        "14.6406px",
+        6
+      ],
+      [
+        "229.141px",
+        4
+      ],
+      [
+        "59.5625px",
+        3
+      ]
+    ],
+    "marginTop": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "marginRight": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "marginBottom": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "marginLeft": [
+      [
+        "0px",
+        30
+      ]
+    ],
+    "paddingTop": [
+      [
+        "0px",
+        21
+      ],
+      [
+        "48px",
+        4
+      ],
+      [
+        "32px",
+        3
+      ],
+      [
+        "12px",
+        2
+      ]
+    ],
+    "paddingRight": [
+      [
+        "0px",
+        21
+      ],
+      [
+        "48px",
+        4
+      ],
+      [
+        "16px",
+        3
+      ],
+      [
+        "12px",
+        2
+      ]
+    ],
+    "paddingBottom": [
+      [
+        "0px",
+        21
+      ],
+      [
+        "48px",
+        4
+      ],
+      [
+        "24px",
+        3
+      ],
+      [
+        "12px",
+        2
+      ]
+    ],
+    "paddingLeft": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "48px",
+        4
+      ],
+      [
+        "12px",
+        2
+      ]
+    ],
+    "fontFamily": [
+      [
+        "\"Anthropic Sans\", Arial, sans-serif",
+        27
+      ],
+      [
+        "\"Anthropic Serif\", Georgia, sans-serif",
+        3
+      ]
+    ],
+    "fontSize": [
+      [
+        "20px",
+        22
+      ],
+      [
+        "19px",
+        3
+      ],
+      [
+        "15px",
+        3
+      ],
+      [
+        "16px",
+        2
+      ]
+    ],
+    "fontWeight": [
+      [
+        "400",
+        27
+      ],
+      [
+        "500",
+        3
+      ]
+    ],
+    "lineHeight": [
+      [
+        "32px",
+        22
+      ],
+      [
+        "22.8px",
+        3
+      ],
+      [
+        "24px",
+        3
+      ],
+      [
+        "25.6px",
+        2
+      ]
+    ],
+    "color": [
+      [
+        "rgb(20, 20, 19)",
+        19
+      ],
+      [
+        "rgb(94, 93, 89)",
+        6
+      ],
+      [
+        "rgb(61, 61, 58)",
+        3
+      ],
+      [
+        "rgb(250, 249, 245)",
+        2
+      ]
+    ],
+    "borderTopColor": [
+      [
+        "rgb(20, 20, 19)",
+        12
+      ],
+      [
+        "rgb(94, 93, 89)",
+        6
+      ],
+      [
+        "rgb(240, 238, 230)",
+        4
+      ],
+      [
+        "rgb(209, 207, 197)",
+        3
+      ],
+      [
+        "rgb(61, 61, 58)",
+        3
+      ],
+      [
+        "rgb(48, 48, 46)",
+        2
+      ]
+    ],
+    "borderRightColor": [
+      [
+        "rgb(20, 20, 19)",
+        15
+      ],
+      [
+        "rgb(94, 93, 89)",
+        6
+      ],
+      [
+        "rgb(240, 238, 230)",
+        4
+      ],
+      [
+        "rgb(61, 61, 58)",
+        3
+      ],
+      [
+        "rgb(48, 48, 46)",
+        2
+      ]
+    ],
+    "borderBottomColor": [
+      [
+        "rgb(20, 20, 19)",
+        15
+      ],
+      [
+        "rgb(94, 93, 89)",
+        6
+      ],
+      [
+        "rgb(240, 238, 230)",
+        4
+      ],
+      [
+        "rgb(61, 61, 58)",
+        3
+      ],
+      [
+        "rgb(48, 48, 46)",
+        2
+      ]
+    ],
+    "borderLeftColor": [
+      [
+        "rgb(20, 20, 19)",
+        12
+      ],
+      [
+        "rgb(94, 93, 89)",
+        6
+      ],
+      [
+        "rgb(240, 238, 230)",
+        4
+      ],
+      [
+        "rgb(209, 207, 197)",
+        3
+      ],
+      [
+        "rgb(61, 61, 58)",
+        3
+      ],
+      [
+        "rgb(48, 48, 46)",
+        2
+      ]
+    ],
+    "borderTopWidth": [
+      [
+        "0px",
+        21
+      ],
+      [
+        "1px",
+        9
+      ]
+    ],
+    "borderRightWidth": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "1px",
+        6
+      ]
+    ],
+    "borderBottomWidth": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "1px",
+        6
+      ]
+    ],
+    "borderLeftWidth": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "1px",
+        6
+      ]
+    ],
+    "borderRadius": [
+      [
+        "0px",
+        24
+      ],
+      [
+        "32px",
+        4
+      ],
+      [
+        "8px",
+        2
+      ]
+    ],
+    "opacity": [
+      [
+        "1",
+        26
+      ],
+      [
+        "0",
+        4
+      ]
+    ],
+    "overflow": [
+      [
+        "visible",
+        30
+      ]
+    ],
+    "flexDirection": [
+      [
+        "row",
+        25
+      ],
+      [
+        "column",
+        5
+      ]
+    ],
+    "flexWrap": [
+      [
+        "nowrap",
+        30
+      ]
+    ],
+    "minWidth": [
+      [
+        "0px",
+        5
+      ]
+    ],
+    "minHeight": [
+      [
+        "0px",
+        5
+      ]
+    ],
+    "borderStyle": [
+      [
+        "solid",
+        6
+      ],
+      [
+        "solid none none",
+        3
+      ]
+    ],
+    "gap": [
+      [
+        "12px",
+        6
+      ],
+      [
+        "24px",
+        3
+      ],
+      [
+        "8px",
+        3
+      ],
+      [
+        "32px",
+        2
+      ]
+    ],
+    "rowGap": [
+      [
+        "12px",
+        6
+      ],
+      [
+        "24px",
+        3
+      ],
+      [
+        "8px",
+        3
+      ],
+      [
+        "32px",
+        2
+      ]
+    ],
+    "columnGap": [
+      [
+        "12px",
+        6
+      ],
+      [
+        "24px",
+        3
+      ],
+      [
+        "8px",
+        3
+      ],
+      [
+        "32px",
+        2
+      ]
+    ],
+    "alignItems": [
+      [
+        "center",
+        9
+      ],
+      [
+        "flex-start",
+        5
+      ]
+    ],
+    "justifyContent": [
+      [
+        "flex-start",
+        12
+      ],
+      [
+        "space-between",
+        2
+      ]
+    ],
+    "maxWidth": [
+      [
+        "367.651px",
+        3
+      ],
+      [
+        "362.397px",
+        3
+      ]
+    ],
+    "backgroundColor": [
+      [
+        "rgb(255, 255, 255)",
+        4
+      ]
+    ]
+  },
+  "text_samples": [
+    "Break down problems togetherClaude builds on your ideas, expands on your logic, and simplifies complexity one step at a time.",
+    "Break down problems togetherClaude builds on your ideas, expands on your logic, and simplifies complexity one step at a time.",
+    "Break down problems together",
+    "Break down problems together",
+    "Break down problems together",
+    "Claude builds on your ideas, expands on your logic, and simplifies complexity one step at a time.",
+    "Tackle your toughest workClaude provides expert-level collaboration on the things you need to get done—from coding a product to critical data analysis.",
+    "Tackle your toughest workClaude provides expert-level collaboration on the things you need to get done—from coding a product to critical data analysis.",
+    "Tackle your toughest work",
+    "Tackle your toughest work",
+    "Tackle your toughest work",
+    "Claude provides expert-level collaboration on the things you need to get done—from coding a product to critical data analysis.",
+    "Explore what’s nextLike an expert in your pocket, collaborating with Claude expands what you can build on your own or with teams.",
+    "Explore what’s nextLike an expert in your pocket, collaborating with Claude expands what you can build on your own or with teams.",
+    "Explore what’s next",
+    "Explore what’s next",
+    "Explore what’s next",
+    "Like an expert in your pocket, collaborating with Claude expands what you can build on your own or with teams.",
+    "Study notes4 mbdoc",
+    "Psych 101 Syllabus1.2pdf",
+    "Fable 5Next generation intelligence for knowledge work and codingClaude Fable 5 is unavailable. Learn more .button_tiny_icon { transition: color 300ms ease; } .",
+    "Opus 4.8Powerful model for complex tasks and deep researchDocs, slides, spreadsheets • Complex analysis • Deep research .button_tiny_icon { transition: color 30",
+    "Sonnet 4.6Powerful and versatile model, designed for the work you do every dayWriting tasks • Fast analysis • Task automation .button_tiny_icon { transition: co",
+    "Haiku 4.5Fastest model, a lightweight version of our most powerful AIQuick answers • Everyday tasks • Web search .button_tiny_icon { transition: color 300ms eas"
+  ],
+  "policy": "Evidence only; runtime output must be original/adapted."
+}

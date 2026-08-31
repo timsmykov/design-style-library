@@ -1,0 +1,21 @@
+observations:
+  - id: style-formula
+    claim: "Evidence-backed Perplexity Answer Engine style grammar derived from local tokens, component capsules, and captured visual corpus."
+    confidence: medium
+    evidence: STYLE.md plus local visual corpus
+  - id: local-corpus
+    claim: "Local visual corpus contains 45 screens, 4 sections, 0 flow previews, 4 public web captures, and 1 authenticated screenshots."
+    confidence: high
+    evidence: evidence/ directories and source-map files
+  - id: token-system
+    claim: "Token system exposes color, typography, spacing, and radius roles for implementation. Color anchors: `canvas`=#ffffff; `surface`=#f8faf9; `surface_elevated`=#ffffff; `text`=#101817; `muted`=#5f6f6d; `border`=#dbe4e2; `teal`=#208c88; `teal_dark`=#146c69; `citation_bg`=#eef7f6; `warning_soft`=#fff7e6. Type anchors: `font_stack`=Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; `answer_size`=16px; `ui_size`=13px; `caption_size`=12px; `line_height_answer`=1.65. Structural anchors: spacing scale present, radius scale present."
+    confidence: high
+    evidence: tokens/tokens.json and tokens/css-vars.css
+  - id: component-grammar
+    claim: "Component grammar is normalized into 11 capsules: answer-results-thread, app-shell-sidebar, collections-library, follow-up-related-questions, help-article-layout, onboarding-auth, pro-upgrade-pricing, public-landing-pricing, search-composer, settings-account, sources-citation-strip."
+    confidence: high
+    evidence: components/component-index.jsonl and components/capsules/
+  - id: runtime-boundary
+    claim: "Runtime agents can use this style offline from pack files only; external tools are build-time enrichment lanes."
+    confidence: high
+    evidence: agent-contract.md and unified pack DESIGN.md

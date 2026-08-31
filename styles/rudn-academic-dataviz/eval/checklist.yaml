@@ -1,0 +1,31 @@
+style_id: rudn-academic-dataviz
+version: 1.0.0
+checks:
+  - id: one-question
+    required: true
+    test: Each frame has one dominant communication or learning question.
+  - id: reading-order
+    required: true
+    test: Title, evidence, and next action are obvious within three seconds.
+  - id: token-use
+    required: true
+    test: Colors use documented semantic roles; blue and indigo do not compete as categories.
+  - id: typography
+    required: true
+    test: Inter or approved fallback is used; projected text remains legible.
+  - id: evidence
+    required: true
+    test: Numeric claims show the necessary source, period, unit, and method.
+  - id: chart-clarity
+    required: true
+    applies_when: artifact contains charts
+    test: Focal series is blue, comparisons are neutral, labels are direct, and the title states the insight.
+  - id: accessibility
+    required: true
+    test: Information does not depend on color alone and text contrast is sufficient.
+  - id: restraint
+    required: true
+    test: No gradients, glass, heavy shadows, stock-photo filler, or invented RUDN brand assets.
+  - id: rendered-check
+    required: true
+    test: Artifact was inspected at intended presentation or device size with no clipping or overflow.

@@ -1,0 +1,129 @@
+version: 0.1.0
+project: design-style-library
+runtime_rule: repo_only_no_external_research
+
+categories:
+  academic_education:
+    description: Academic teaching systems, seminar materials, evidence-led explainers, worksheets, and data-literacy visuals.
+  ai_workbench:
+    description: AI workspace, artifact panels, generated outputs, source/context handling.
+  answer_search_engine:
+    description: Search/answer UI with citations, source trust, follow-up exploration.
+  document_os:
+    description: Document/database/block workspace.
+  operational_workspace:
+    description: Dense project/task/issue/productivity systems.
+  developer_control_plane:
+    description: Developer infrastructure, deployment, API, logs, status, config.
+  payments_trust:
+    description: Financial, payment, pricing, compliance, trust-first interfaces.
+  crypto_wallet_trust:
+    description: Wallets, irreversible transactions, asset custody, risk warning flows.
+  command_native_utility:
+    description: Keyboard-first command palettes and compact power-user utilities.
+  collaborative_canvas:
+    description: Creative/collaborative canvas tools with inspectors and multiplayer cues.
+  marketplace_consumer:
+    description: Consumer discovery, cards, imagery, booking/purchase trust.
+
+default_style_pack:
+  id: hermes-unified-design-pack
+  local_path: pack
+  contract: pack/DESIGN.md
+  registry: pack/registry.json
+  foundation: timsmykov/awesome-design-md
+  upstream: VoltAgent/awesome-design-md
+  role: single runtime design package
+  rule: VoltAgent foundation plus Hermes deep extensions in one pack; deep pack entries override broad baseline
+
+styles:
+  - id: rudn-academic-dataviz
+    name: RUDN Academic Data Visualization
+    status: draft
+    category: academic_education
+    best_for: [university presentations, data visualization teaching, seminar worksheets, academic explainers]
+    avoid_for: [luxury branding, entertainment-first content, dense operational dashboards]
+    local_path: styles/rudn-academic-dataviz
+    evidence_level: partial
+    offline_ready: true
+  - id: anthropic-claude
+    name: Anthropic / Claude Editorial Workbench
+    status: draft
+    category: ai_workbench
+    best_for: [AI workspaces, scientific notes, calm explainers, artifact/code/file panels]
+    avoid_for: [neon SaaS dashboards, aggressive funnels, playful consumer apps]
+    local_path: styles/anthropic-claude
+    evidence_level: partial
+    offline_ready: false
+  - id: perplexity-answer-engine
+    name: Perplexity Answer Engine
+    status: planned
+    category: answer_search_engine
+    best_for: [research/search products, citation-heavy answers, exploration flows]
+    avoid_for: [creative canvases, payment flows, dense admin tools]
+    local_path: styles/perplexity-answer-engine
+    evidence_level: none
+    offline_ready: false
+  - id: notion-document-os
+    name: Notion Document OS
+    status: planned
+    category: document_os
+    local_path: styles/notion-document-os
+    evidence_level: none
+    offline_ready: false
+  - id: linear-operational-workspace
+    name: Linear Operational Workspace
+    status: planned
+    category: operational_workspace
+    local_path: styles/linear-operational-workspace
+    evidence_level: none
+    offline_ready: false
+  - id: stripe-trust-commerce
+    name: Stripe Trust Commerce
+    status: planned
+    category: payments_trust
+    local_path: styles/stripe-trust-commerce
+    evidence_level: none
+    offline_ready: false
+  - id: metamask-crypto-wallet-trust
+    name: MetaMask / Crypto Wallet Trust
+    status: planned
+    category: crypto_wallet_trust
+    local_path: styles/metamask-crypto-wallet-trust
+    evidence_level: none
+    offline_ready: false
+  - id: vercel-developer-control-plane
+    name: Vercel Developer Control Plane
+    status: planned
+    category: developer_control_plane
+    local_path: styles/vercel-developer-control-plane
+    evidence_level: none
+    offline_ready: false
+  - id: raycast-command-native
+    name: Raycast Command Native
+    status: planned
+    category: command_native_utility
+    local_path: styles/raycast-command-native
+    evidence_level: none
+    offline_ready: false
+  - id: figma-collaborative-canvas
+    name: Figma Collaborative Canvas
+    status: planned
+    category: collaborative_canvas
+    local_path: styles/figma-collaborative-canvas
+    evidence_level: none
+    offline_ready: false
+  - id: airbnb-marketplace-warm-consumer
+    name: Airbnb Marketplace Warm Consumer
+    status: planned
+    category: marketplace_consumer
+    local_path: styles/airbnb-marketplace-warm-consumer
+    evidence_level: none
+    offline_ready: false
+  - id: cursor-ai-ide
+    name: Cursor AI IDE
+    status: planned
+    category: developer_control_plane
+    local_path: styles/cursor-ai-ide
+    evidence_level: none
+    offline_ready: false

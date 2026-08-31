@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Design style tokens",
+  "type": "object",
+  "required": ["meta", "color", "typography", "spacing", "radius", "border", "shadow"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["style_id", "version", "confidence"],
+      "properties": {
+        "style_id": {"type": "string"},
+        "version": {"type": "string"},
+        "confidence": {"enum": ["seed", "partial", "high", "validated"]}
+      }
+    },
+    "color": {"type": "object"},
+    "typography": {"type": "object"},
+    "spacing": {"type": "object"},
+    "radius": {"type": "object"},
+    "border": {"type": "object"},
+    "shadow": {"type": "object"},
+    "motion": {"type": "object"},
+    "density": {"type": "object"}
+  }
+}

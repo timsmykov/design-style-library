@@ -1,0 +1,2745 @@
+[
+  {
+    "path": "evidence/mobbin/sections/section-023-claude-mobbin-c6697f91.webp",
+    "width": 768,
+    "height": 528,
+    "palette": [
+      "#e0e0e0",
+      "#f0f0f0",
+      "#202020",
+      "#f0e0e0",
+      "#e0e0d0",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-026-claude-mobbin-9a9ef5bc.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#d0d0d0",
+      "#e0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-007-claude-mobbin-f9f4599b.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#a0a0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-020-claude-mobbin-9a8549ad.webp",
+    "width": 768,
+    "height": 678,
+    "palette": [
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#909090",
+      "#d0d0d0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-001-claude-hero-5456030e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#d06040",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-004-claude-products-6b3858df.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#000000",
+      "#e0e0e0",
+      "#202020",
+      "#101010",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-018-claude-mobbin-eba2bca7.webp",
+    "width": 768,
+    "height": 528,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#909090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-002-claude-30c9e1be.webp",
+    "width": 768,
+    "height": 528,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-017-claude-mobbin-1cb7ca9a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0f0e0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a0a0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-005-claude-4f7ea41a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#a0a0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-019-claude-mobbin-e3dc86d1.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a0a0",
+      "#c0c0c0",
+      "#e0e0e0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-006-claude-mobbin-9f87ad1b.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a0a0",
+      "#c0c0c0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-025-claude-mobbin-b57caba5.webp",
+    "width": 768,
+    "height": 350,
+    "palette": [
+      "#101010",
+      "#202020",
+      "#303030",
+      "#000000",
+      "#606060",
+      "#505050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-008-claude-mobbin-23be18aa.webp",
+    "width": 768,
+    "height": 528,
+    "palette": [
+      "#f0f0f0",
+      "#7070b0",
+      "#202020",
+      "#f0f0e0",
+      "#8070b0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-029-claude-mobbin-d145ac87.webp",
+    "width": 768,
+    "height": 519,
+    "palette": [
+      "#f0f0e0",
+      "#202020",
+      "#f0f0f0",
+      "#909080",
+      "#e0e0e0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-034-claude-mobbin-02dc311c.webp",
+    "width": 768,
+    "height": 530,
+    "palette": [
+      "#e0e0d0",
+      "#202020",
+      "#303030",
+      "#808080",
+      "#e0e0e0",
+      "#606060"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-014-claude-mobbin-ec60e21b.webp",
+    "width": 768,
+    "height": 505,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-024-claude-mobbin-6eb09dee.webp",
+    "width": 768,
+    "height": 528,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#909090",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#e0d0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-032-claude-mobbin-d0ea8855.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a0a0",
+      "#c0c0c0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-022-claude-mobbin-08f8d749.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a0a0",
+      "#c0c0c0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-021-claude-mobbin-2a178ff0.webp",
+    "width": 692,
+    "height": 675,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a0a0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-010-claude-mobbin-35988206.webp",
+    "width": 768,
+    "height": 528,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#909090",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-016-claude-mobbin-ac1310a3.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0e0e0",
+      "#c07060",
+      "#202020",
+      "#b0c0b0",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-009-claude-mobbin-876811a7.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0e0e0",
+      "#202020",
+      "#e0e0e0",
+      "#909090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-028-claude-mobbin-1b865afc.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0e0e0",
+      "#c07050",
+      "#8080d0",
+      "#f0f0f0",
+      "#c0a080",
+      "#202020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-027-claude-mobbin-9b6e13d2.webp",
+    "width": 768,
+    "height": 616,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-011-claude-mobbin-b105f33e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0e0e0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#909090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-003-claude-d5fd94ce.webp",
+    "width": 768,
+    "height": 528,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#909090",
+      "#e0e0e0",
+      "#202030",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-013-claude-mobbin-252ae841.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#000000",
+      "#202020",
+      "#e0d0d0",
+      "#d0d0c0",
+      "#b0b0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-031-claude-mobbin-8b74f2a9.webp",
+    "width": 768,
+    "height": 474,
+    "palette": [
+      "#f0f0e0",
+      "#e0e0e0",
+      "#202020",
+      "#e0d0c0",
+      "#d07050",
+      "#6090c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-030-claude-mobbin-6b12968e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#f0e0e0",
+      "#f0f0f0",
+      "#e0e0e0",
+      "#202020",
+      "#909090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-015-claude-mobbin-34bc8be9.webp",
+    "width": 677,
+    "height": 675,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#d0d0d0",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#a0a0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-033-claude-mobbin-3867c9bb.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#e0e0e0",
+      "#202020",
+      "#d06040",
+      "#e0e0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/sections/section-012-claude-mobbin-a2d41a48.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#f0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-063-claude-code-419a27e5.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#e0e0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-042-claude-code-45ee1f43.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#f0f0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-006-claude-artifact-c66b5013.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#e0e0f0",
+      "#f0f0e0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-032-claude-mobbin-259f873f.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-049-claude-code-ddc82d9e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#f0f0e0",
+      "#202020",
+      "#404040",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-029-claude-mobbin-34fc112f.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0e0",
+      "#f0f0f0",
+      "#202020",
+      "#d0d0d0",
+      "#f0f0e0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-037-claude-code-ab3dd469.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#202020",
+      "#303030",
+      "#404040",
+      "#505050",
+      "#101010",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-019-claude-mobbin-98255484.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#d0d0d0",
+      "#a0a0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-046-claude-code-ff8a92f0.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-047-claude-code-f7482f00.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#e0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-036-claude-code-fbcf89c6.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#404040",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-060-claude-code-515551de.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#404040"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-048-claude-code-f667ec3e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-009-claude-artifact-ae4ac3c3.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0f0f0",
+      "#e0e0e0",
+      "#a0a0a0",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-061-claude-code-48370b7a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#404040",
+      "#606060",
+      "#303030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-008-claude-artifact-b1cedcfe.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-024-claude-mobbin-77a7bdab.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#202020",
+      "#303020",
+      "#303030",
+      "#404040",
+      "#505050",
+      "#202010"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-005-claude-chat-d37660a4.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-010-claude-artifact-ad1153f5.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0e0e0",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#e0d0c0",
+      "#e0e0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-004-claude-chat-d72b17b4.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-027-claude-mobbin-5572ff23.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-018-claude-mobbin-99067951.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#c0c0c0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-023-claude-mobbin-7a8f884e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#d0d0d0",
+      "#303030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-040-claude-code-802e4c45.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#b0b0b0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-001-claude-chat-sidebar-f5b26318.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#707060",
+      "#f0f0f0",
+      "#202020",
+      "#606060",
+      "#707070",
+      "#706060"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-011-claude-mobbin-d268695c.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#c0c0c0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-003-claude-chat-da3d700f.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-057-claude-code-817c93ef.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#504090",
+      "#6050a0",
+      "#202020",
+      "#505050",
+      "#403060",
+      "#505070"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-035-claude-mobbin-17bf0f08.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#202020",
+      "#f0f0f0",
+      "#404040",
+      "#606060",
+      "#303030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-039-claude-code-8f665125.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#f0f0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-059-claude-code-64905e1a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#f0f0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-026-claude-mobbin-639886e7.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#404040"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-033-claude-mobbin-1fad12e8.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#404040",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-064-claude-code-396a362a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#102050",
+      "#103060",
+      "#103050",
+      "#202020",
+      "#204080"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-020-claude-mobbin-92afbe7c.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#404040",
+      "#303030",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-044-claude-code-30655d44.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#f0f0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-013-claude-mobbin-a584de73.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#a0a090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-052-claude-code-c23131eb.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#e0e0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-051-claude-code-c89df5c9.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0f0f0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-043-claude-code-4423778a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#f0f0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-022-claude-mobbin-7f488e21.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-034-claude-mobbin-1861f7d1.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-041-claude-code-5fc68b49.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#404040",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-014-claude-mobbin-a5445159.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-056-claude-code-89f6f997.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#404040"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-028-claude-mobbin-41dc0527.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-065-claude-code-3440aaba.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#404040",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-017-claude-mobbin-99438044.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-055-claude-code-995142c4.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#202020",
+      "#f0f0f0",
+      "#303030",
+      "#000050",
+      "#101010",
+      "#503050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-007-claude-artifact-b74052b8.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0e0e0",
+      "#f0f0f0",
+      "#f0f0e0",
+      "#202020",
+      "#e0d0c0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-050-claude-code-d5f0e986.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#d0d0d0",
+      "#e0e0e0",
+      "#a0a090",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-021-claude-mobbin-845e141c.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-030-claude-mobbin-34aa9592.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-038-claude-code-9b02e75f.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#e0e0f0",
+      "#f0f0e0",
+      "#d0e0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-062-claude-code-482c7660.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0f0",
+      "#202020",
+      "#404040",
+      "#606060",
+      "#303030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-002-claude-chat-e8c0af18.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-012-claude-mobbin-be54eee2.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-058-claude-code-7e797940.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-015-claude-mobbin-9e5386da.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-016-claude-mobbin-9ce192ff.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#a0a0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-053-claude-code-b5932114.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#303030",
+      "#a0a0a0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-031-claude-mobbin-33b8745d.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-045-claude-code-1fbc4d96.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#a0a090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-054-claude-code-b2c670c5.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#404040",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/screens/screen-025-claude-mobbin-66e2902a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-010-5fdc57ad.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#909080",
+      "#f0f0f0",
+      "#b0b0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-016-a41f7ff3.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#f0e0e0",
+      "#e0e0e0",
+      "#202020",
+      "#e0e0d0",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-001-60a51e1d.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-004-1c754042.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#d0d0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-005-ffcddcc8.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#d0d0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-014-166797e2.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#f0e0e0",
+      "#e0e0e0",
+      "#202020",
+      "#f0f0f0",
+      "#909090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-006-c8e40580.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#f0e0e0",
+      "#e0e0e0",
+      "#202020",
+      "#f0f0f0",
+      "#909090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-007-94647069.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#909080",
+      "#d0d0c0",
+      "#c0c0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-011-788d6be9.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#909080",
+      "#f0f0f0",
+      "#b0b0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-008-6c09b77a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#909080",
+      "#d0d0c0",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-002-546c1d97.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-012-c647a465.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#909080",
+      "#f0f0f0",
+      "#b0b0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-003-e0268ea9.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-013-13bc4b54.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#e0e0e0",
+      "#f0e0e0",
+      "#202020",
+      "#909090",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-017-38fa3752.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#f0e0e0",
+      "#e0e0e0",
+      "#e0e0d0",
+      "#202020",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-015-e62bde97.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#f0e0e0",
+      "#e0e0e0",
+      "#202020",
+      "#f0f0f0",
+      "#909090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0b72f658-onboarding/pos-009-8e2ff5cb.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#909080",
+      "#d0d0c0",
+      "#c0c0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-43721209-logging-in/pos-001-a9f9dc2c.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#b06030",
+      "#c06040",
+      "#c06030",
+      "#b05030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-43721209-logging-in/pos-003-1465619e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#b06030",
+      "#c06030",
+      "#b05030",
+      "#c06040"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-43721209-logging-in/pos-002-2da13aa7.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#b06030",
+      "#202020",
+      "#b05030",
+      "#c06030",
+      "#904010"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-43721209-logging-in/pos-004-0a419db3.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#d0d0d0",
+      "#e0e0e0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-f064eaa0-settings/pos-003-c6b759b9.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#e0e0e0",
+      "#f0f0f0",
+      "#202020",
+      "#f0e0e0",
+      "#e0e0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-f064eaa0-settings/pos-001-a13d4980.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#e0e0e0",
+      "#f0e0e0",
+      "#e0e0d0",
+      "#202020",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-f064eaa0-settings/pos-005-eb01138f.webp",
+    "width": 1160,
+    "height": 3425,
+    "palette": [
+      "#f0f0f0",
+      "#f0f0e0",
+      "#101010",
+      "#e0e0e0",
+      "#000000",
+      "#202020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-f064eaa0-settings/pos-002-2da382ae.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0e0",
+      "#f0e0e0",
+      "#e0e0d0",
+      "#202020",
+      "#f0f0f0",
+      "#e0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-f064eaa0-settings/pos-004-f9b3807d.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#e0e0e0",
+      "#f0e0e0",
+      "#403090",
+      "#202020",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-012-1f499811.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#505050",
+      "#f0f0e0",
+      "#f0f0f0",
+      "#202020",
+      "#c0c0c0",
+      "#404040"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-011-817c93ef.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#504090",
+      "#6050a0",
+      "#202020",
+      "#505050",
+      "#403060",
+      "#505070"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-002-6c67dd87.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#b06030",
+      "#c06040",
+      "#c06030",
+      "#b05030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-010-eb89085d.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#101010",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-005-b3694e99.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#101010",
+      "#b0b0b0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-007-60111d3b.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#101010",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-013-62dfb8b8.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0f0e0",
+      "#202020",
+      "#a0a090",
+      "#d0d0d0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-008-4ba56add.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#808080",
+      "#a0a090",
+      "#a0a0a0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-001-ff920f97.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#b06030",
+      "#c06040",
+      "#c06030",
+      "#b05030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-009-fca393ee.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#101010",
+      "#a0a090",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-003-e7c61aca.webp",
+    "width": 1160,
+    "height": 3424,
+    "palette": [
+      "#f0f0e0",
+      "#f0f0f0",
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#000000"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-006-98cc83bc.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#101010",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-5a978c28-onboarding/pos-004-771c0827.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#101010",
+      "#b0b0b0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3ed5eea3-logging-in/pos-001-73588268.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3ed5eea3-logging-in/pos-003-648ed1c9.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3ed5eea3-logging-in/pos-002-ecd35f2b.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#a0a090",
+      "#303030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3ed5eea3-logging-in/pos-004-99067951.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#c0c0c0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-003-login-onboarding-6bb1fc63/pos-006.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#c0c0c0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-003-login-onboarding-6bb1fc63/pos-001.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-003-login-onboarding-6bb1fc63/pos-004.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-008-7e797940.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-007-fcfb44be.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a090",
+      "#b0b0b0",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-002-cbcded62.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#303030",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-006-ff8a92f0.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-005-9137fbb7.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a090",
+      "#f0f0e0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-003-c4b374ba.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-004-ea6370f6.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-0ef2d31c-settings/pos-001-7f16eade.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0f0e0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-001-onboarding-5a978c28/pos-007.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#e0e0e0",
+      "#101010",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-001-onboarding-5a978c28/pos-001.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#b06030",
+      "#c06040",
+      "#c06030",
+      "#b05030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-001-onboarding-5a978c28/pos-010.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#101010",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-001-onboarding-5a978c28/pos-013.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0f0e0",
+      "#202020",
+      "#a0a090",
+      "#d0d0d0",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-001-onboarding-5a978c28/pos-004.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#a0a090",
+      "#101010",
+      "#b0b0b0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-008-1762f9dc.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#503020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-007-ab96b966.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#505050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-005-2f755d71.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#505050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-010-52460a67.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#904020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-002-a12fb36b.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#505050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-013-2cac8ee6.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#505050",
+      "#404040"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-009-9af2b730.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#503020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-015-5d7ed45b.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#202020",
+      "#101010",
+      "#303030",
+      "#404040",
+      "#505050",
+      "#606060"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-004-5db71de8.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#505050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-001-d60f6f71.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#202020",
+      "#101010",
+      "#303030",
+      "#404040",
+      "#505050",
+      "#606060"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-012-cbc612db.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#503020",
+      "#403020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-003-f9577a0e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#101020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-006-06c6df54.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#505050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-011-fed45731.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#503020",
+      "#202010"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-3f6157df-upgrading-plan/pos-014-a70aee80.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#000000",
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#904020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-005-08b8fc92.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#000000",
+      "#202020",
+      "#e0e0e0",
+      "#101010",
+      "#303030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-006-633469c2.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#101010",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#606060",
+      "#707070"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-001-60a51e1d.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-003-70064d17.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#000000",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0f0",
+      "#303030"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-007-86fe567a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#000000",
+      "#202020",
+      "#e0e0e0",
+      "#101010",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-004-758335f1.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#000000",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0f0",
+      "#101010"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-008-c8c5fd64.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#000000",
+      "#202020",
+      "#e0e0e0",
+      "#101010",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-010-a0805b78.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#101010",
+      "#202020",
+      "#000000",
+      "#303030",
+      "#505050",
+      "#a04020"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-002-8bc3a54a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#000000",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0f0",
+      "#101010"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-011-a0c5e6a0.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#101010",
+      "#000000",
+      "#202020",
+      "#303030",
+      "#404040",
+      "#505050"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-a6a06df8-onboarding-api/pos-009-c520d17a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#101010",
+      "#202020",
+      "#000000",
+      "#303030",
+      "#503020",
+      "#606060"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-6bb1fc63-onboarding-login/pos-001-feff4766.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-6bb1fc63-onboarding-login/pos-003-973fcf94.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-6bb1fc63-onboarding-login/pos-006-31119433.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#f0f0e0",
+      "#c0c0c0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-6bb1fc63-onboarding-login/pos-002-73588268.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-6bb1fc63-onboarding-login/pos-004-0ff8ae68.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-6bb1fc63-onboarding-login/pos-005-f5b26318.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#707060",
+      "#f0f0f0",
+      "#202020",
+      "#606060",
+      "#707070",
+      "#706060"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-002-onboarding-0b72f658/pos-005.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#d0d0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-002-onboarding-0b72f658/pos-017.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#f0e0e0",
+      "#e0e0e0",
+      "#e0e0d0",
+      "#202020",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-002-onboarding-0b72f658/pos-001.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#f0f0e0",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-002-onboarding-0b72f658/pos-013.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0e0",
+      "#e0e0e0",
+      "#f0e0e0",
+      "#202020",
+      "#909090",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-002-onboarding-0b72f658/pos-009.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#e0e0d0",
+      "#e0e0e0",
+      "#202020",
+      "#909080",
+      "#d0d0c0",
+      "#c0c0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-001-33b8745d.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-010-6e3d049f.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#707070",
+      "#d0d0d0",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-014-9d1946ed.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#f0f0e0",
+      "#f0e0e0",
+      "#a0a090",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-004-6adb5d2e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0f0e0",
+      "#202020",
+      "#c0e0f0",
+      "#a0a090",
+      "#e0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-013-cb4a911a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0e0e0",
+      "#e0e0e0",
+      "#202020",
+      "#e0e0d0",
+      "#909090",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-008-d88ca05e.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#707070",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-015-8c18a444.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#f0f0e0",
+      "#e0e0e0",
+      "#202020",
+      "#f0e0e0",
+      "#d0d0d0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-016-d72b17b4.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-009-b2fe1add.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#707070",
+      "#a0a090"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-003-4fc23917.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#c0c0c0",
+      "#d0d0d0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-007-4b8c2cef.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0",
+      "#a0a0a0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-011-34e3cb61.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#a0a090",
+      "#c0c0c0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-012-1f35d848.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#707070",
+      "#d0d0d0",
+      "#f0f0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-006-6310530a.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#c0c0c0",
+      "#d0e0e0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-002-51aa4c2b.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#c0c0c0",
+      "#e0e0e0",
+      "#d0d0d0",
+      "#b0b0b0"
+    ]
+  },
+  {
+    "path": "evidence/mobbin/flows/flow-26759735-subscribing-to-a-plan/pos-005-acf7ee77.webp",
+    "width": 768,
+    "height": 521,
+    "palette": [
+      "#f0f0f0",
+      "#202020",
+      "#e0e0e0",
+      "#a0a090",
+      "#d0d0d0",
+      "#c0c0c0"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+:root {
+  --dsl-canvas: #F7F5EF;
+  --dsl-surface: #FFFDF8;
+  --dsl-surface-muted: #EEE8DC;
+  --dsl-text-primary: #1F1F1F;
+  --dsl-text-secondary: #66615A;
+  --dsl-border-subtle: #DED7CC;
+  --dsl-accent-clay: #D97757;
+  --dsl-accent-send: #B85C38;
+  --dsl-inverse-surface: #191817;
+  --dsl-inverse-text: #F7F5EF;
+
+  --dsl-radius-button: 8px;
+  --dsl-radius-pill: 999px;
+  --dsl-radius-composer: 12px;
+  --dsl-radius-card: 24px;
+  --dsl-radius-modal: 16px;
+
+  --dsl-space-1: 4px;
+  --dsl-space-2: 8px;
+  --dsl-space-3: 12px;
+  --dsl-space-4: 16px;
+  --dsl-space-6: 24px;
+  --dsl-space-8: 32px;
+  --dsl-space-12: 48px;
+  --dsl-space-18: 72px;
+}

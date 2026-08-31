@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Style evaluation checklist",
+  "type": "object",
+  "required": ["style_id", "offline_rule", "checks"],
+  "properties": {
+    "style_id": {"type": "string"},
+    "offline_rule": {"type": "string"},
+    "checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "kind", "pass_condition"],
+        "properties": {
+          "id": {"type": "string"},
+          "name": {"type": "string"},
+          "kind": {"enum": ["must", "should", "anti_pattern", "medium_specific"]},
+          "pass_condition": {"type": "string"},
+          "evidence": {"type": "string"}
+        }
+      }
+    }
+  }
+}

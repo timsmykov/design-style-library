@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.figma.com/",
+    "final_url": "https://www.figma.com/",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 800000,
+    "title": "",
+    "local_path": "styles/figma-collaborative-canvas/evidence/web/pages/www-figma-com.html"
+  },
+  {
+    "url": "https://www.figma.com/pricing/",
+    "final_url": "https://www.figma.com/pricing/",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 800000,
+    "title": "",
+    "local_path": "styles/figma-collaborative-canvas/evidence/web/pages/www-figma-com-pricing.html"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "slug": "perplexity-home",
+      "url": "https://www.perplexity.ai/",
+      "title": "Just a moment..."
+    },
+    {
+      "slug": "perplexity-pro",
+      "url": "https://www.perplexity.ai/pro",
+      "title": "Just a moment..."
+    }
+  ],
+  "css_files": []
+}

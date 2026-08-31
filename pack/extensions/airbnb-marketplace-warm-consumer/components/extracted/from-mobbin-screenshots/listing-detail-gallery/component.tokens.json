@@ -1,0 +1,14 @@
+{
+  "component_id": "listing-detail-gallery",
+  "evidence_count": 6,
+  "colors": {
+    "canvas": "#ffffff",
+    "surface": "#ffffff",
+    "panel": "#f7f7f7",
+    "text": "#222222",
+    "muted": "#717171",
+    "border": "#dddddd",
+    "accent": "#ff385c",
+    "accent2": "#00a699"
+  }
+}

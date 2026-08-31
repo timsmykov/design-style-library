@@ -1,0 +1,1974 @@
+{
+  "slug": "notion-home",
+  "url": "https://www.notion.com/",
+  "title": "The AI workspace that works for you. | Notion",
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "Capture",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "card_cardTitle__zo4Kt",
+        "productFeaturesDropdown_featureTitle__Xr2pN"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Find",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "card_cardTitle__zo4Kt",
+        "productFeaturesDropdown_featureTitle__Xr2pN"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Automate",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "card_cardTitle__zo4Kt",
+        "productFeaturesDropdown_featureTitle__Xr2pN"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Skip this page next time?",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantNavigationBody__3bbAv"
+      ]
+    },
+    {
+      "tag": "h1",
+      "text": "Where teams and agents Build together.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalTitle__D1p6b",
+        "homepageHeroTeamsAndAgents_title__pMijM"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Keep work moving 24/7.",
+      "classes": [
+        "sectionHeader_heading__tJvSy"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Automate repetitive work for your team.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "bento_bentoTitle__ndE4v"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "See what Custom Agents can do",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalContext__VDlwW"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Triage product feedback →",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitleSummary__lvrMk",
+        "cardCompact_cardCompactTitle__zZaHK"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Resolve support tickets in Slack →",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitleSummary__lvrMk",
+        "cardCompact_cardCompactTitle__zZaHK"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Respond to security alerts faster →",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitleSummary__lvrMk",
+        "cardCompact_cardCompactTitle__zZaHK"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Automate weekly reporting →",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitleSummary__lvrMk",
+        "cardCompact_cardCompactTitle__zZaHK"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Create your own Custom Agent →",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitleSummary__lvrMk",
+        "cardCompact_cardCompactTitle__zZaHK"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Ask your on-demand assistants.",
+      "classes": [
+        "sectionHeader_heading__tJvSy"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "You assign the tasks. Notion Agent does the work.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "bento_bentoTitle__ndE4v"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "One search for everything.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "bento_bentoTitle__ndE4v"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Perfect notes, every time.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "bento_bentoTitle__ndE4v"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Bring all your work together.",
+      "classes": [
+        "sectionHeader_heading__tJvSy"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Simple and powerful.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "bento_bentoTitle__ndE4v"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "One source of truth for teams and agents.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "bento_bentoTitle__ndE4v"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Less tracking. More progress.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantCardTitle__nqcQy",
+        "bento_bentoTitle__ndE4v"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Trusted by teams that ship.",
+      "classes": [
+        "sectionHeader_heading__tJvSy"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Get started today.",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantGlobalTitleSubtle__8vTKi",
+        "Endcap_endcapTitle__6H52M"
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "tag": "button",
+      "text": "Product",
+      "href": null,
+      "classes": [
+        "globalNavigation_link__ofzIw",
+        "globalNavigation_dropdownTrigger__Vd0Te"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "See all features →",
+      "href": "/product/features",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantPrimary__h6Nef",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "See what’s new →",
+      "href": "/releases",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantPrimary__h6Nef",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Notion App →",
+      "href": "/download",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantPrimary__h6Nef",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Solutions",
+      "href": null,
+      "classes": [
+        "globalNavigation_link__ofzIw",
+        "globalNavigation_dropdownTrigger__Vd0Te"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Eng & Product",
+      "href": "/product/notion-for-product-development",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Design",
+      "href": "/product/notion-for-design",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Marketing",
+      "href": "/templates/category/marketing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "IT",
+      "href": "/templates/category/ticketing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Startups",
+      "href": "/startups",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Small businesses",
+      "href": "/teams",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/enterprise",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Education",
+      "href": "/product/notion-for-education",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Personal",
+      "href": "/personal",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Professional",
+      "href": "/use-case",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "AI use cases",
+      "href": "/product/ai/use-cases",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Resources",
+      "href": null,
+      "classes": [
+        "globalNavigation_link__ofzIw",
+        "globalNavigation_dropdownTrigger__Vd0Te"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Templates",
+      "href": "/templates",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Consultants",
+      "href": "/explore-consultants",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Connections",
+      "href": "/connections",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_sizeLarge__gpJH5",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "What's New",
+      "href": "/releases",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Customer stories",
+      "href": "/customers",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Blog",
+      "href": "/blog",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Webinars",
+      "href": "/webinars",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Developers",
+      "href": "https://developers.notion.com",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Academy",
+      "href": "https://academy.notion.com",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Product tours",
+      "href": "/product/demos",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Help",
+      "href": "/help",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Developers",
+      "href": "https://notion.dev",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/enterprise",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "href": "/pricing",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Request a demo",
+      "href": "/contact-sales",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Open Notion",
+      "href": null,
+      "classes": [
+        "button_button__atjat",
+        "button_buttonVariantPrimary__mUFQZ",
+        "button_buttonSizeM__NexGD",
+        "globalNavigation_tryFreeCta__mNYk6"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Always open Notion →",
+      "href": "/login",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz",
+        "linkText_colorVariantPrimary__h6Nef",
+        "linkText_hasArrow__2BwWV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Log out",
+      "href": "/logout",
+      "classes": [
+        "globalNavigation_link__ofzIw"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get Notion free",
+      "href": "/signup?from=marketing&pathname=%2F&tid=w_68e44fc1aeaa464882646aab081b28e5",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantInteractionButtonMedium__HCJEu",
+        "button_button__bge_I",
+        "HeroCTA_cta__hOE_c",
+        "button_primary__k0d3I",
+        "button_medium__VXS2i"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Request a demo",
+      "href": "/contact-sales",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantInteractionButtonMedium__HCJEu",
+        "button_button__bge_I",
+        "HeroCTA_cta__hOE_c",
+        "button_secondary__0_CV3",
+        "button_medium__VXS2i"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Play",
+      "href": null,
+      "classes": [
+        "HeroMedia_playPauseController__3hTu3"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Custom Agents Automate repetitive work for your team. →",
+      "href": "/product/agents",
+      "classes": [
+        "homepageBentoCarousel_headerLink__bHx_5"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Q&A agents Answers questions instantly using knowledge you already have.",
+      "href": null,
+      "classes": [
+        "bentoCarouselHeader_accordionTrigger__RlTsv",
+        "bentoCarouselHeader_accordionTriggerActive__MBl3g"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Task routing agents Assigns, prioritizes, and routes tasks on its own.",
+      "href": null,
+      "classes": [
+        "bentoCarouselHeader_accordionTrigger__RlTsv"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Reporting agents Summarizes, writes, and sends reports for you.",
+      "href": null,
+      "classes": [
+        "bentoCarouselHeader_accordionTrigger__RlTsv"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Create your own Make a Custom Agent for any work that repeats.",
+      "href": null,
+      "classes": [
+        "bentoCarouselHeader_accordionTrigger__RlTsv"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Using the most AI-native tools like Notion is an important competitive advantage for us to stay small while doing a lot.",
+      "href": "/customers/cursor",
+      "classes": [
+        "socialProofV2_card__8Y9Zd",
+        "socialProofV2_brandCursor__TOagJ"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Notion’s thoughtful design speeds up collaboration and decisions so we can deliver impact to our customers faster. Renee",
+      "href": "/customers/faire",
+      "classes": [
+        "socialProofV2_card__8Y9Zd",
+        "socialProofV2_brandFaire__yLnM5"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Notion Custom Agents help our team go beyond doing work with AI to building AI tools that do the work for them. Ben Levi",
+      "href": "/customers/ramp",
+      "classes": [
+        "socialProofV2_card__8Y9Zd",
+        "socialProofV2_brandRamp__gQB1U"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get Notion free",
+      "href": "/signup?from=marketing&pathname=%2F&tid=w_68e44fc1aeaa464882646aab081b28e5",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantInteractionButtonMedium__HCJEu",
+        "button_button__bge_I",
+        "button_primary__k0d3I",
+        "button_medium__VXS2i"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Request a demo",
+      "href": "/contact-sales",
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantInteractionButtonMedium__HCJEu",
+        "button_button__bge_I",
+        "button_secondary__0_CV3",
+        "button_medium__VXS2i"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "English (US)",
+      "href": null,
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "semanticTypography_variantInteractionMenuButton__ZWXnH",
+        "menuButton_menuButton__Siywy",
+        "menuButton_variantPrimary__emkX3",
+        "languagePicker_menuButton___I2KV"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "English (US)",
+      "href": "/en-US",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz",
+        "menuList_highlighted__71Ako"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Bahasa Indonesia",
+      "href": "/id",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Dansk",
+      "href": "/da",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Deutsch",
+      "href": "/de",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "English (UK)",
+      "href": "/en-GB",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Español (España)",
+      "href": "/es-ES",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Español (Latinoamérica)",
+      "href": "/es",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Français (France)",
+      "href": "/fr",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Italiano",
+      "href": "/it",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Nederlands",
+      "href": "/nl",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Norsk",
+      "href": "/nb",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Português (Brasil)",
+      "href": "/pt",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Suomi",
+      "href": "/fi",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Svenska",
+      "href": "/sv",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Tiếng Việt",
+      "href": "/vi",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "עברית",
+      "href": "/he",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "العربية",
+      "href": "/ar",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "ภาษาไทย",
+      "href": "/th",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "한국어",
+      "href": "/ko",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "日本語",
+      "href": "/ja",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "简体中文",
+      "href": "/zh-CN",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "繁體中文",
+      "href": "/zh-TW",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantPrimary__XdPVz"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Cookie settings",
+      "href": null,
+      "classes": [
+        "semanticTypography_semanticTypography__mWJkv",
+        "linkText_linkText__527kz"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "About us",
+      "href": "/about",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Careers",
+      "href": "/careers",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Security",
+      "href": "/security",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Status",
+      "href": "https://www.notion-status.com",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Terms & privacy",
+      "href": "https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Your privacy rights",
+      "href": "https://www.notion.com/trust/privacy-policy#california",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "iOS & Android",
+      "href": "/mobile",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Mac & Windows",
+      "href": "/desktop",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Calendar",
+      "href": "/product/calendar/download",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Web Clipper",
+      "href": "/web-clipper",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Help center",
+      "href": "/help",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "href": "/pricing",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Blog",
+      "href": "/blog",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Community",
+      "href": "/community",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Connections",
+      "href": "/connections",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Templates",
+      "href": "/templates",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Partner programs",
+      "href": "/partners",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/enterprise",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Small business",
+      "href": "/teams",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Personal",
+      "href": "/personal",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Explore more →",
+      "href": "/explore",
+      "classes": [
+        "inline-full",
+        "menuList_menuListItemAnchor__dEwSU",
+        "menuList_variantSecondary__13hDk"
+      ]
+    }
+  ],
+  "class_frequency": [
+    [
+      "semanticTypography_semanticTypography__mWJkv",
+      157
+    ],
+    [
+      "inline-full",
+      93
+    ],
+    [
+      "next-image",
+      68
+    ],
+    [
+      "menuList_menuListItem___Rmlj",
+      65
+    ],
+    [
+      "menuList_menuListItemAnchor__dEwSU",
+      65
+    ],
+    [
+      "menuList_label__SGqyS",
+      65
+    ],
+    [
+      "semanticTypography_variantInteractionMenuListItemLabel___7StL",
+      58
+    ],
+    [
+      "menuList_variantPrimary__XdPVz",
+      44
+    ],
+    [
+      "base_theme__K5IIh",
+      39
+    ],
+    [
+      "graphic_graphic__jmWdv",
+      34
+    ],
+    [
+      "flex",
+      29
+    ],
+    [
+      "justify-start",
+      25
+    ],
+    [
+      "flex-nowrap",
+      25
+    ],
+    [
+      "typography_typography__Exx2D",
+      24
+    ],
+    [
+      "semanticTypography_variantInteractionButtonMedium__HCJEu",
+      21
+    ],
+    [
+      "button_button__bge_I",
+      21
+    ],
+    [
+      "button_medium__VXS2i",
+      21
+    ],
+    [
+      "inline-fit",
+      21
+    ],
+    [
+      "menuList_variantSecondary__13hDk",
+      21
+    ],
+    [
+      "NotionIconSvgWrapper_icon__8quiY",
+      20
+    ],
+    [
+      "logo_logo__xQVjz",
+      20
+    ],
+    [
+      "logo_heightConstrained__wFlX5",
+      20
+    ],
+    [
+      "flex-col",
+      19
+    ],
+    [
+      "items-stretch",
+      18
+    ],
+    [
+      "arrow_arrow___6mKn",
+      17
+    ],
+    [
+      "arrow_arrowFlipRtl__ur0Ug",
+      17
+    ],
+    [
+      "graphic_isFilled__BAfn_",
+      17
+    ],
+    [
+      "logoWallMarquee_logoWallMarqueeItem__Y3_iz",
+      17
+    ],
+    [
+      "button_ghost__npAbk",
+      17
+    ],
+    [
+      "logo_invert__okVZJ",
+      17
+    ],
+    [
+      "theme_theme__XHAvb",
+      16
+    ],
+    [
+      "statsMarquee_stat__fNB43",
+      15
+    ],
+    [
+      "statsMarquee_statIcon__B5OZl",
+      15
+    ],
+    [
+      "gap-0",
+      12
+    ],
+    [
+      "semanticTypography_variantNavigationHeading__uo7yO",
+      11
+    ],
+    [
+      "menuList_heading__HgTG9",
+      11
+    ],
+    [
+      "ps-0",
+      11
+    ],
+    [
+      "mt-0",
+      11
+    ],
+    [
+      "mb-0",
+      11
+    ],
+    [
+      "menuList_menuList__Tn7rd",
+      11
+    ],
+    [
+      "semanticTypography_variantGlobalCaption__fFXUL",
+      11
+    ],
+    [
+      "semanticTypography_variantCardTitle__nqcQy",
+      10
+    ],
+    [
+      "semanticTypography_variantCardTitleSummary__lvrMk",
+      10
+    ],
+    [
+      "flex-row",
+      9
+    ],
+    [
+      "items-center",
+      9
+    ],
+    [
+      "logoWallMarquee_logoWallMarqueeItemDot__tx_vZ",
+      9
+    ],
+    [
+      "bento_bentoImagePicture__cWlrb",
+      9
+    ],
+    [
+      "bento_bentoImage__3mmqI",
+      9
+    ],
+    [
+      "globalNavigation_link__ofzIw",
+      8
+    ],
+    [
+      "bentoCarouselSlide_slide__ZnmTC",
+      8
+    ],
+    [
+      "menuList_sizeLarge__gpJH5",
+      7
+    ],
+    [
+      "semanticTypography_variantInteractionMenuListItemLabelEmphasis__pDF73",
+      7
+    ],
+    [
+      "gap-8",
+      7
+    ],
+    [
+      "homepageHeroTeamsAndAgents_pileImage__a8gms",
+      7
+    ],
+    [
+      "bento_bentoHeader__v_SR2",
+      7
+    ],
+    [
+      "bento_bentoEyebrow__5Pr9r",
+      7
+    ],
+    [
+      "bento_bentoTitleWrapper__hiPxt",
+      7
+    ],
+    [
+      "bento_bentoTitle__ndE4v",
+      7
+    ],
+    [
+      "bento_bentoArrow__XFyfN",
+      7
+    ],
+    [
+      "globalNavigation_desktopDropDownNavigationHeading__tA_tr",
+      6
+    ],
+    [
+      "iconButton_iconButton__wbWve",
+      6
+    ],
+    [
+      "iconButton_edgeVerticalBackground__NEOK2",
+      6
+    ],
+    [
+      "iconButton_edgeHorizontalBackground__i7fwl",
+      6
+    ],
+    [
+      "iconButton_icon__sgIFz",
+      6
+    ],
+    [
+      "iconButton_focusRing__a1thx",
+      6
+    ],
+    [
+      "Agent_agentContainer__DeUWr",
+      6
+    ],
+    [
+      "homepageHeroTeamsAndAgents_agent__16t3A",
+      6
+    ],
+    [
+      "Agent_agentMarkEnterWrapper__O6R_r",
+      6
+    ],
+    [
+      "Agent_agentMark__5Te9W",
+      6
+    ],
+    [
+      "Agent_agentTaskEnterWrapper__qRPdH",
+      6
+    ],
+    [
+      "Agent_agentTask__J7mO1",
+      6
+    ],
+    [
+      "Agent_agentGraphicEnterWrapper__Se_bZ",
+      6
+    ],
+    [
+      "Agent_agentGraphic__2K7n6",
+      6
+    ],
+    [
+      "gap-16",
+      6
+    ],
+    [
+      "bento_bento__IFnc_",
+      6
+    ],
+    [
+      "bento_bentoInner__luLfd",
+      6
+    ],
+    [
+      "bento_bentoAnchor__Z2SBx",
+      6
+    ],
+    [
+      "bento_bentoMedia__WgRnV",
+      6
+    ],
+    [
+      "bento_alignCenter__07ghJ",
+      6
+    ],
+    [
+      "linkText_linkText__527kz",
+      5
+    ],
+    [
+      "linkText_linkContent__1nr8w",
+      5
+    ],
+    [
+      "heroGrid_item__Ill_a",
+      5
+    ],
+    [
+      "Agent_agentMarkMobile__tBUzc",
+      5
+    ],
+    [
+      "semanticTypography_variantCardBodySummary__7ucTw",
+      5
+    ],
+    [
+      "cardCompact_cardCompact__W2i4I",
+      5
+    ],
+    [
+      "cardCompact_cardCompactAnchor___7vu2",
+      5
+    ],
+    [
+      "cardCompact_cardCompactTitle__zZaHK",
+      5
+    ],
+    [
+      "cardCompact_cardCompactTitleArrow__tWhco",
+      5
+    ],
+    [
+      "linkText_colorVariantPrimary__h6Nef",
+      4
+    ],
+    [
+      "linkText_hasArrow__2BwWV",
+      4
+    ],
+    [
+      "heroGrid_regionContent__F_8v1",
+      4
+    ],
+    [
+      "justify-center",
+      4
+    ],
+    [
+      "sectionHeader_header__7hACT",
+      4
+    ],
+    [
+      "sectionHeader_alignStart__JDnog",
+      4
+    ],
+    [
+      "sectionHeader_heading__tJvSy",
+      4
+    ],
+    [
+      "bentoCarouselHeader_accordionItem__VEZsX",
+      4
+    ],
+    [
+      "bentoCarouselHeader_accordionTrigger__RlTsv",
+      4
+    ],
+    [
+      "bentoCarouselHeader_accordionIcon__zdQTs",
+      4
+    ],
+    [
+      "bentoCarouselHeader_accordionBody__ZN3aq",
+      4
+    ],
+    [
+      "responsiveAccordionCarousel_dot__dD7WB",
+      4
+    ]
+  ],
+  "css_links": [
+    "https://www.notion.com/_next/static/css/3ec280a76cbe03ed.css",
+    "https://www.notion.com/_next/static/css/31f336b532fa350f.css",
+    "https://www.notion.com/_next/static/css/8399f67c35e9f990.css",
+    "https://www.notion.com/_next/static/css/e3abe3ddbe7a1651.css",
+    "https://www.notion.com/_next/static/css/fc43ad0698ebb3d4.css",
+    "https://www.notion.com/_next/static/css/870a1e1c777ae8b3.css",
+    "https://www.notion.com/_next/static/css/9aea5169bdfc3059.css",
+    "https://www.notion.com/_next/static/css/7122a0f169747a04.css",
+    "https://www.notion.com/_next/static/css/ecf28241255f9aab.css",
+    "https://www.notion.com/_next/static/css/62541c6a75337faa.css",
+    "https://www.notion.com/_next/static/css/171de3bd334ba784.css",
+    "https://www.notion.com/_next/static/css/fbbf7d5e9bcdcc70.css",
+    "https://www.notion.com/_next/static/css/f4f040cd7d6d7da7.css",
+    "https://www.notion.com/_next/static/css/cfb6c39de98b4d1a.css"
+  ],
+  "html_bytes": 229376,
+  "body_text_chars": 3473,
+  "text_terms": [
+    [
+      "agents",
+      8
+    ],
+    [
+      "work",
+      6
+    ],
+    [
+      "knowledge",
+      6
+    ],
+    [
+      "over",
+      6
+    ],
+    [
+      "product",
+      5
+    ],
+    [
+      "teams",
+      5
+    ],
+    [
+      "use",
+      5
+    ],
+    [
+      "custom",
+      5
+    ],
+    [
+      "automate",
+      4
+    ],
+    [
+      "enterprise",
+      4
+    ],
+    [
+      "agent",
+      4
+    ],
+    [
+      "base",
+      4
+    ],
+    [
+      "community",
+      4
+    ],
+    [
+      "see",
+      3
+    ],
+    [
+      "one",
+      3
+    ],
+    [
+      "instantly",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "design",
+      3
+    ],
+    [
+      "small",
+      3
+    ],
+    [
+      "help",
+      3
+    ],
+    [
+      "request",
+      3
+    ],
+    [
+      "demo",
+      3
+    ],
+    [
+      "answers",
+      3
+    ],
+    [
+      "get",
+      3
+    ],
+    [
+      "using",
+      3
+    ],
+    [
+      "consecutive",
+      3
+    ],
+    [
+      "years",
+      3
+    ],
+    [
+      "users",
+      3
+    ],
+    [
+      "countries",
+      3
+    ],
+    [
+      "companies",
+      3
+    ],
+    [
+      "members",
+      3
+    ],
+    [
+      "fortune",
+      3
+    ],
+    [
+      "english",
+      3
+    ],
+    [
+      "espa",
+      3
+    ],
+    [
+      "you.",
+      2
+    ],
+    [
+      "features",
+      2
+    ],
+    [
+      "all",
+      2
+    ],
+    [
+      "capture",
+      2
+    ],
+    [
+      "agents.",
+      2
+    ],
+    [
+      "find",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "simple",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "download",
+      2
+    ],
+    [
+      "company",
+      2
+    ],
+    [
+      "cases",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "resources",
+      2
+    ],
+    [
+      "templates",
+      2
+    ],
+    [
+      "connections",
+      2
+    ],
+    [
+      "blog",
+      2
+    ],
+    [
+      "developers",
+      2
+    ],
+    [
+      "pricing",
+      2
+    ],
+    [
+      "open",
+      2
+    ],
+    [
+      "together.",
+      2
+    ],
+    [
+      "tasks",
+      2
+    ],
+    [
+      "team.",
+      2
+    ],
+    [
+      "free",
+      2
+    ],
+    [
+      "trusted",
+      2
+    ],
+    [
+      "questions",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "have.",
+      2
+    ],
+    [
+      "reporting",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "own",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "security",
+      2
+    ],
+    [
+      "search",
+      2
+    ],
+    [
+      "notes",
+      2
+    ],
+    [
+      "more",
+      2
+    ],
+    [
+      "tools",
+      2
+    ],
+    [
+      "doing",
+      2
+    ],
+    [
+      "our",
+      2
+    ],
+    [
+      "privacy",
+      2
+    ],
+    [
+      "works",
+      1
+    ],
+    [
+      "system",
+      1
+    ],
+    [
+      "record",
+      1
+    ],
+    [
+      "answer",
+      1
+    ],
+    [
+      "citations.",
+      1
+    ],
+    [
+      "collaborative",
+      1
+    ],
+    [
+      "turns",
+      1
+    ],
+    [
+      "action.",
+      1
+    ],
+    [
+      "merge",
+      1
+    ],
+    [
+      "cells",
+      1
+    ],
+    [
+      "tables.",
+      1
+    ],
+    [
+      "app",
+      1
+    ],
+    [
+      "solutions",
+      1
+    ],
+    [
+      "eng",
+      1
+    ],
+    [
+      "marketing",
+      1
+    ],
+    [
+      "size",
+      1
+    ],
+    [
+      "startups",
+      1
+    ],
+    [
+      "businesses",
+      1
+    ],
+    [
+      "education",
+      1
+    ],
+    [
+      "professional",
+      1
+    ],
+    [
+      "browse",
+      1
+    ],
+    [
+      "consultants",
+      1
+    ],
+    [
+      "discover",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "stories",
+      1
+    ]
+  ],
+  "downloaded_css": {
+    "https://www.notion.com/_next/static/css/3ec280a76cbe03ed.css": "evidence/web/css/_next-static-css-3ec280a76cbe03ed.css",
+    "https://www.notion.com/_next/static/css/31f336b532fa350f.css": "evidence/web/css/_next-static-css-31f336b532fa350f.css",
+    "https://www.notion.com/_next/static/css/8399f67c35e9f990.css": "evidence/web/css/_next-static-css-8399f67c35e9f990.css",
+    "https://www.notion.com/_next/static/css/e3abe3ddbe7a1651.css": "evidence/web/css/_next-static-css-e3abe3ddbe7a1651.css",
+    "https://www.notion.com/_next/static/css/fc43ad0698ebb3d4.css": "evidence/web/css/_next-static-css-fc43ad0698ebb3d4.css",
+    "https://www.notion.com/_next/static/css/870a1e1c777ae8b3.css": "evidence/web/css/_next-static-css-870a1e1c777ae8b3.css",
+    "https://www.notion.com/_next/static/css/9aea5169bdfc3059.css": "evidence/web/css/_next-static-css-9aea5169bdfc3059.css",
+    "https://www.notion.com/_next/static/css/7122a0f169747a04.css": "evidence/web/css/_next-static-css-7122a0f169747a04.css",
+    "https://www.notion.com/_next/static/css/ecf28241255f9aab.css": "evidence/web/css/_next-static-css-ecf28241255f9aab.css",
+    "https://www.notion.com/_next/static/css/62541c6a75337faa.css": "evidence/web/css/_next-static-css-62541c6a75337faa.css",
+    "https://www.notion.com/_next/static/css/171de3bd334ba784.css": "evidence/web/css/_next-static-css-171de3bd334ba784.css",
+    "https://www.notion.com/_next/static/css/fbbf7d5e9bcdcc70.css": "evidence/web/css/_next-static-css-fbbf7d5e9bcdcc70.css",
+    "https://www.notion.com/_next/static/css/f4f040cd7d6d7da7.css": "evidence/web/css/_next-static-css-f4f040cd7d6d7da7.css",
+    "https://www.notion.com/_next/static/css/cfb6c39de98b4d1a.css": "evidence/web/css/_next-static-css-cfb6c39de98b4d1a.css"
+  }
+}

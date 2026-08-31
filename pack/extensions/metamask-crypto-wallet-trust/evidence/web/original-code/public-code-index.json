@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://metamask.io/",
+    "final_url": "https://metamask.io/",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 455612,
+    "title": "",
+    "local_path": "styles/metamask-crypto-wallet-trust/evidence/web/pages/metamask-io.html"
+  },
+  {
+    "url": "https://metamask.io/swaps/",
+    "final_url": "https://metamask.io/swaps",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 524486,
+    "title": "",
+    "local_path": "styles/metamask-crypto-wallet-trust/evidence/web/pages/metamask-io-swaps.html"
+  }
+]

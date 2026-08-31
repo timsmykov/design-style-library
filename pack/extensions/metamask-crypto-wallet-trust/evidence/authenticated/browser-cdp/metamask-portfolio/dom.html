@@ -1,0 +1,882 @@
+<html lang="en" data-theme="dark" class="dark"><head>
+  <meta charset="utf-8">
+  <style type="text/css">:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-thin: normal 100 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+  overflow: visible;
+  box-sizing: content-box;
+}
+
+.svg-inline--fa {
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285705em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  top: 0.25em;
+}
+.svg-inline--fa.fa-fw {
+  width: var(--fa-fw-width, 1.25em);
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-counter-scale, 0.25));
+          transform: scale(var(--fa-counter-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+  line-height: 0.0833333337em;
+  vertical-align: 0.125em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+  line-height: 0.0714285718em;
+  vertical-align: 0.0535714295em;
+}
+
+.fa-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+
+.fa-xl {
+  font-size: 1.5em;
+  line-height: 0.0416666682em;
+  vertical-align: -0.125em;
+}
+
+.fa-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: var(--fa-li-margin, 2.5em);
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: calc(var(--fa-li-width, 2em) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.08em);
+  padding: var(--fa-border-padding, 0.2em 0.25em 0.15em);
+}
+
+.fa-pull-left {
+  float: left;
+  margin-right: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right {
+  float: right;
+  margin-left: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  -webkit-animation-name: fa-beat;
+          animation-name: fa-beat;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  -webkit-animation-name: fa-bounce;
+          animation-name: fa-bounce;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  -webkit-animation-name: fa-fade;
+          animation-name: fa-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  -webkit-animation-name: fa-beat-fade;
+          animation-name: fa-beat-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  -webkit-animation-name: fa-flip;
+          animation-name: fa-flip;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  -webkit-animation-name: fa-shake;
+          animation-name: fa-shake;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 2s);
+          animation-duration: var(--fa-animation-duration, 2s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
+          animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+.fa-bounce,
+.fa-fade,
+.fa-beat-fade,
+.fa-flip,
+.fa-pulse,
+.fa-shake,
+.fa-spin,
+.fa-spin-pulse {
+    -webkit-animation-delay: -1ms;
+            animation-delay: -1ms;
+    -webkit-animation-duration: 1ms;
+            animation-duration: 1ms;
+    -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+    -webkit-transition-delay: 0s;
+            transition-delay: 0s;
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+  }
+}
+@-webkit-keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@-webkit-keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@-webkit-keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@-webkit-keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@-webkit-keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@-webkit-keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  -webkit-transform: rotate(var(--fa-rotate-angle, none));
+          transform: rotate(var(--fa-rotate-angle, none));
+}
+
+.fa-stack {
+  display: inline-block;
+  vertical-align: middle;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.sr-only,
+.fa-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.sr-only-focusable:not(:focus),
+.fa-sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse,
+.fa-duotone.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}</style><link rel="icon" type="image/png" href="/favicon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-itunes-app" content="app-id=1438144202, app-argument=dapp://portfolio.metamask.io">
+  <meta name="theme-color" content="#000000">
+  <link rel="apple-touch-icon" href="/favicon.png">
+
+  <link rel="manifest" href="/manifest.json">
+
+  <!-- Primary Meta Tags -->
+  <title>MetaMask Portfolio</title>
+  <meta name="title" content="MetaMask Portfolio">
+  <meta name="description" content="View and manage your entire Web3 portfolio">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://portfolio.metamask.io">
+  <meta property="og:title" content="MetaMask Portfolio">
+  <meta property="og:description" content="View and manage your entire Web3 portfolio">
+  <meta property="og:image" content="https://portfolio.metamask.io/app_image2025.png?1">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="MetaMask Portfolio">
+  <meta property="twitter:description" content="View and manage your entire Web3 portfolio">
+  <meta property="twitter:image" content="https://portfolio.metamask.io/app_image2025.png?1">
+  <meta name="twitter:creator" content="@MetaMask">
+
+  <!-- Google Analytics -->
+  <script async="" src="https://snap.licdn.com/li.lms-analytics/insight.old.min.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://js.hsadspixel.net/pixels.js" type="text/javascript" id="hs-ads-pixel-4795067" data-ads-portal-id="4795067" data-ads-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="4795067" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1782885000000/4795067.js" type="text/javascript" id="hs-analytics"></script><script src="https://js.hubspot.com/web-interactives-embed.js" type="text/javascript" id="hubspot-web-interactives-loader" crossorigin="anonymous" data-loader="hs-scriptloader" data-hsjs-portal="4795067" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-banner.com/4795067.js" type="text/javascript" id="cookieBanner-4795067" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="4795067" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-625465980&amp;cx=c&amp;gtm=4e66t1h1"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-BZRZJTK1GS&amp;cx=c&amp;gtm=4e66t1h1"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/2f64suG6gtrhDVI2rGCUgH9hbfp4NJ12/analytics.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TPKPQPG6"></script><script defer="">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TPKPQPG6');</script>
+
+  <!-- Segment initialisation -->
+  <script>
+    !function () {
+      function isProdEnvironment() {
+        return window.location.hostname === 'portfolio.metamask.io' || window.location.hostname === 'app.metamask.io'
+      }
+      var SEGMENT_WRITE_KEY = isProdEnvironment() ? "2f64suG6gtrhDVI2rGCUgH9hbfp4NJ12" : "B2isQyS70f6W76y4IOjlR76iCuevj4Z1"
+      var analytics = window.analytics = window.analytics || []; if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+        analytics.invoked = !0; analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on", "addSourceMiddleware", "addIntegrationMiddleware", "setAnonymousId", "addDestinationMiddleware"]; analytics.factory = function (e) { return function () { var t = Array.prototype.slice.call(arguments); t.unshift(e); analytics.push(t); return analytics } }; for (var e = 0; e < analytics.methods.length; e++) { var key = analytics.methods[e]; analytics[key] = analytics.factory(key) } analytics.load = function (key, e) { var t = document.createElement("script"); t.type = "text/javascript"; t.async = !0; t.src = "https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(t, n); analytics._loadOptions = e }; analytics._writeKey = SEGMENT_WRITE_KEY;; analytics.SNIPPET_VERSION = "4.15.3";
+        analytics.load(SEGMENT_WRITE_KEY, {
+          cookie: { sameSite: 'None', secure: true }
+        });
+      }
+    }();
+  </script>
+
+  <script>
+    window.intercomSettings = {
+      app_id: "txttgas6"
+    };
+  </script>
+  <script>
+    (function() {
+      var w = window;
+      var ic = w.Intercom;
+      if (typeof ic === "function") {
+        ic('reattach_activator');
+        ic('update', w.intercomSettings);
+      } else {
+        var d = document;
+        var i = function() {
+          i.c(arguments);
+        };
+        i.q = [];
+        i.c = function(args) {
+          i.q.push(args);
+        };
+        w.Intercom = i;
+        var l = function() {
+          setTimeout(function() {
+            var s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'https://widget.intercom.io/widget/txttgas6';
+            var x = d.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+          }, 5000);
+        };
+        if (w.attachEvent) {
+          w.attachEvent('onload', l);
+        } else {
+          w.addEventListener('load', l, false);
+        }
+      }
+    })();
+  </script>
+
+  <script type="module" crossorigin="" src="/assets/index-DRnvNvEF.js"></script>
+  <link rel="modulepreload" crossorigin="" href="/assets/ethers-ZxC5B-QY.js">
+  <link rel="modulepreload" crossorigin="" href="/assets/metafi-DZKVnk-q.js">
+  <link rel="modulepreload" crossorigin="" href="/assets/web3-C9DjZqSt.js">
+<link rel="modulepreload" as="script" crossorigin="" href="/assets/bootstrap-C3HlYy9E.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/headlessui-BDjkfrBI.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/fontawesome-CXTmovWH.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/sentry-CiiBF9fh.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/local-storage-DQpQYeMo.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/design-tokens-DxYqiSHb.js"><link rel="stylesheet" crossorigin="" href="/assets/bootstrap-BurWW04k.css"><style id="_goober"> .go2933276541{position:fixed;display:block;width:100%;height:0px;margin:0px;padding:0px;overflow:visible;transform-style:preserve-3d;background:transparent;backface-visibility:hidden;pointer-events:none;left:0px;z-index:9998;}.go2369186930{top:0px;z-index:9999;height:100%;width:100%;}.go1348078617{bottom:0px;}.go2417249464{position:fixed;z-index:9989;}.go3921366393{left:0;bottom:0;}.go3967842156{right:0;bottom:0;}.go613305155{left:0;top:0;}.go471583506{right:0;top:0;}.go3670563033{position:relative;overflow:hidden;display:none;}.go1041095097{display:block;}.go1632949049{position:absolute;pointer-events:none;width:101vw;height:101vh;background:rgba(0,0,0,0.7);opacity:0;z-index:-1;}.go2512015367{z-index:99998;opacity:0.8;visibility:visible;pointer-events:all;cursor:pointer;}.go1432718904{overflow:hidden;}.go812842568{display:block !important;position:static !important;box-sizing:border-box !important;background:transparent !important;border:none;min-height:0px !important;max-height:none !important;margin:0px;padding:0px !important;height:100% !important;width:1px !important;max-width:100% !important;min-width:100% !important;}.go722322694{transition:none !important;}.go3064412225{z-index:99999;visibility:hidden;position:absolute;inset:50vh auto auto 50%;left:50%;top:50%;transform:translate(-50%,-50%) translateY(100vh);pointer-events:none;max-height:95%;max-width:95%;}.go1656994552{pointer-events:auto !important;visibility:visible;transform:translate(-50%,-50%) translateY(0);transition:transform 0.75s linear(0,0.006,0.023 2.2%,0.096 4.8%,0.532 15.4%,0.72 21%,0.793,0.853 26.7%,0.902,0.941,0.968 36.2%,0.987 39.7%,1 43.7%,1.007 48.3%,1.009 55.3%,1.002 78.2%,1 );}.go456419034{transition:opacity 0.3s ease-in;}.go3128134379{pointer-events:auto !important;visibility:visible !important;max-height:95vh !important;transition:max-height 1s ease-in;}.go494047706{z-index:9999;width:100%;max-height:95%;position:fixed;visibility:hidden;}.go2481764524{z-index:9999;width:100%;max-height:95%;position:fixed;visibility:hidden;bottom:0px;}.go2685733372{visibility:hidden;}.go2985984737{visibility:visible !important;}.go3281949485{pointer-events:auto !important;visibility:visible !important;max-height:95vh !important;transform:none !important;}.go3508454897{z-index:9999;width:100%;max-height:95%;position:fixed;visibility:hidden;transition:transform 1s linear(0,0.006,0.022 2.3%,0.091 5.1%,0.18 7.6%,0.508 16.3%,0.607,0.691,0.762,0.822 28.4%,0.872,0.912 35.1%,0.944 38.9%,0.968 43%,0.985 47.6%,0.996 53.1%,1.001 58.4%,1.003 65.1%,1 );}.go988075951{z-index:9999;position:fixed;left:10px;top:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go2699082514{z-index:9999;position:fixed;right:10px;top:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go1595992025{z-index:9999;position:fixed;left:10px;bottom:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go1222083472{z-index:9999;position:fixed;right:10px;bottom:10px;max-height:95vh !important;max-width:95%;visibility:hidden;}.go26732895{cursor:pointer;}.go2083580917{display:flex;justify-content:center;align-items:center;}</style><link rel="modulepreload" as="script" crossorigin="" href="/assets/PortfolioLayout-CXIpTgUy.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/useBreakpoint-GRWamHEm.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/useSwapAvailableChainIds-e1tXimxz.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/index-BDCOvxkR.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/InfiniteScrollWrapper-CnLsrFJF.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/arrow-up-Cq4eYcVD.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/AccountsMultiSelectDropdown-CPRyBPn0.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/BalanceConversionText-D1Nc_ue9.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/AccountsMoreMenu-DMYp8I2k.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/useLDVariation-CG6tegN7.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/TableError-Bhtgdfdp.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/arrow-down-BfxzEMsX.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/gift-BHF-bwsj.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/clock-B3sSoGaA.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/index-BNjXTzmI.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/index-X2h7o2mp.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/useInitNewMetamaskAddress-BkHpdZsC.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/connect-evm-BI4UCVcc.js"></head>
+
+<body class="ReactModal__Body--open"><div data-react-modal-body-trap="" tabindex="0" style="position: absolute; opacity: 0;"></div><div id="hs-web-interactives-top-push-anchor" class="go3670563033"></div>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root" aria-hidden="true"><div class="min-h-full bg-alternative flex relative max-h-screen"><div id="desktop-nav-sidebar" class="group z-[10] hidden md:flex md:flex-col h-screen py-5 pt-8 bg-default border-r border-muted relative transition-all duration-700 ease-in-out" style="width: 200px;"><div class="flex-shrink-0 flex items-center px-4"><a class="outline-none" href="/" data-discover="true"><img class="h-16 p-1 dark:hidden" src="data:image/svg+xml,%3csvg%20width='696'%20height='344'%20viewBox='0%200%20696%20344'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M394.102%20265.407V340.812H355.162V288.57L310.786%20293.73C301.039%20294.854%20296.75%20298.041%20296.75%20303.912C296.75%20312.512%20304.892%20316.136%20322.344%20316.136C332.985%20316.136%20344.773%20314.553%20355.184%20311.824L335.026%20340.353C326.885%20342.165%20318.95%20343.06%20310.579%20343.06C275.262%20343.06%20255.103%20329.024%20255.103%20304.119C255.103%20282.149%20270.95%20270.613%20306.956%20266.531L354.519%20261.004C351.951%20247.175%20341.516%20241.167%20320.762%20241.167C301.291%20241.167%20279.78%20246.143%20260.539%20255.431L266.662%20221.696C284.55%20214.22%20304.938%20210.367%20325.532%20210.367C370.825%20210.367%20394.148%20229.173%20394.148%20265.384L394.102%20265.407ZM43.7957%20170.991L1.23138%20340.812H43.7957L64.9173%20255.477L101.542%20299.372H145.918L182.542%20255.477L203.664%20340.812H246.228L203.664%20170.968L123.718%20265.912L43.7727%20170.968L43.7957%20170.991ZM203.664%201.14648L123.718%2096.0905L43.7957%201.14648L1.23138%20170.991H43.7957L64.9173%2085.6558L101.542%20129.55H145.918L182.542%2085.6558L203.664%20170.991H246.228L203.664%201.14648ZM496.454%20263.825L462.031%20258.848C453.431%20257.495%20450.037%20254.766%20450.037%20250.019C450.037%20242.313%20458.407%20238.919%20475.63%20238.919C495.559%20238.919%20513.447%20243.001%20532.253%20251.831L527.506%20218.554C512.324%20213.119%20494.894%20210.413%20476.777%20210.413C434.442%20210.413%20411.325%20225.136%20411.325%20251.624C411.325%20272.241%20424.007%20283.777%20450.954%20287.859L485.836%20293.065C494.665%20294.418%20498.289%20297.812%20498.289%20303.247C498.289%20310.953%20490.147%20314.576%20473.612%20314.576C451.871%20314.576%20428.319%20309.37%20409.078%20300.082L412.931%20333.359C429.466%20339.482%20450.977%20343.105%20471.135%20343.105C514.617%20343.105%20537.252%20327.924%20537.252%20300.977C537.252%20279.465%20524.57%20267.907%20496.5%20263.848L496.454%20263.825ZM552.388%20186.15V340.812H591.329V186.15H552.388ZM636.829%20271.301L690.974%20212.638H642.516L591.329%20273.319L645.91%20340.789H695.057L636.829%20271.278V271.301ZM546.953%20134.297C546.953%20159.203%20567.111%20173.238%20602.429%20173.238C610.799%20173.238%20618.734%20172.321%20626.876%20170.532L647.034%20142.003C636.622%20144.709%20624.835%20146.314%20614.194%20146.314C596.764%20146.314%20588.6%20142.691%20588.6%20134.091C588.6%20128.197%20592.911%20125.032%20602.635%20123.909L647.011%20118.749V170.991H685.952V95.586C685.952%2059.3513%20662.629%2040.5689%20617.335%2040.5689C596.718%2040.5689%20576.354%2044.4217%20558.466%2051.8979L552.342%2085.6329C571.583%2076.3449%20593.095%2071.3684%20612.565%2071.3684C633.32%2071.3684%20643.755%2077.3769%20646.323%2091.2057L598.759%2096.7326C562.754%20100.815%20546.907%20112.35%20546.907%20134.32L546.953%20134.297ZM438.043%20126.156C438.043%20157.414%20456.16%20173.261%20491.936%20173.261C506.201%20173.261%20517.988%20170.991%20529.294%20165.785L534.271%20131.591C523.4%20138.15%20512.301%20141.544%20501.201%20141.544C484.437%20141.544%20476.961%20134.756%20476.961%20119.574V74.2809H536.06V42.8163H476.961V16.099L402.909%2055.2691V74.2809H437.997V126.133L438.043%20126.156ZM399.767%20111.892V119.597H294.526C299.273%20135.284%20313.377%20142.462%20338.42%20142.462C358.349%20142.462%20376.925%20138.38%20393.437%20130.468L388.69%20163.537C373.508%20169.867%20354.267%20173.284%20334.567%20173.284C282.257%20173.284%20253.727%20150.19%20253.727%20107.397C253.727%2064.603%20282.715%2040.5918%20327.55%2040.5918C372.384%2040.5918%20399.79%2066.6441%20399.79%20111.914L399.767%20111.892ZM294.021%2093.3155H360.574C357.065%2078.2942%20345.53%2070.451%20327.091%2070.451C308.653%2070.451%20297.714%2078.0878%20294.021%2093.3155Z'%20fill='black'/%3e%3c/svg%3e" alt="MetaMask"><img class="h-16 p-1 hidden dark:flex" src="data:image/svg+xml,%3csvg%20width='696'%20height='344'%20viewBox='0%200%20696%20344'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M394.102%20265.407V340.812H355.162V288.57L310.786%20293.73C301.039%20294.854%20296.75%20298.041%20296.75%20303.912C296.75%20312.512%20304.892%20316.136%20322.344%20316.136C332.985%20316.136%20344.773%20314.553%20355.184%20311.824L335.026%20340.353C326.885%20342.165%20318.95%20343.06%20310.579%20343.06C275.262%20343.06%20255.103%20329.024%20255.103%20304.119C255.103%20282.149%20270.95%20270.613%20306.956%20266.531L354.519%20261.004C351.951%20247.175%20341.516%20241.167%20320.762%20241.167C301.291%20241.167%20279.78%20246.143%20260.539%20255.431L266.662%20221.696C284.55%20214.22%20304.938%20210.367%20325.532%20210.367C370.825%20210.367%20394.148%20229.173%20394.148%20265.384L394.102%20265.407ZM43.7957%20170.991L1.23138%20340.812H43.7957L64.9173%20255.477L101.542%20299.372H145.918L182.542%20255.477L203.664%20340.812H246.228L203.664%20170.968L123.718%20265.912L43.7727%20170.968L43.7957%20170.991ZM203.664%201.14648L123.718%2096.0905L43.7957%201.14648L1.23138%20170.991H43.7957L64.9173%2085.6558L101.542%20129.55H145.918L182.542%2085.6558L203.664%20170.991H246.228L203.664%201.14648ZM496.454%20263.825L462.031%20258.848C453.431%20257.495%20450.037%20254.766%20450.037%20250.019C450.037%20242.313%20458.407%20238.919%20475.63%20238.919C495.559%20238.919%20513.447%20243.001%20532.253%20251.831L527.506%20218.554C512.324%20213.119%20494.894%20210.413%20476.777%20210.413C434.442%20210.413%20411.325%20225.136%20411.325%20251.624C411.325%20272.241%20424.007%20283.777%20450.954%20287.859L485.836%20293.065C494.665%20294.418%20498.289%20297.812%20498.289%20303.247C498.289%20310.953%20490.147%20314.576%20473.612%20314.576C451.871%20314.576%20428.319%20309.37%20409.078%20300.082L412.931%20333.359C429.466%20339.482%20450.977%20343.105%20471.135%20343.105C514.617%20343.105%20537.252%20327.924%20537.252%20300.977C537.252%20279.465%20524.57%20267.907%20496.5%20263.848L496.454%20263.825ZM552.388%20186.15V340.812H591.329V186.15H552.388ZM636.829%20271.301L690.974%20212.638H642.516L591.329%20273.319L645.91%20340.789H695.057L636.829%20271.278V271.301ZM546.953%20134.297C546.953%20159.203%20567.111%20173.238%20602.429%20173.238C610.799%20173.238%20618.734%20172.321%20626.876%20170.532L647.034%20142.003C636.622%20144.709%20624.835%20146.314%20614.194%20146.314C596.764%20146.314%20588.6%20142.691%20588.6%20134.091C588.6%20128.197%20592.911%20125.032%20602.635%20123.909L647.011%20118.749V170.991H685.952V95.586C685.952%2059.3513%20662.629%2040.5689%20617.335%2040.5689C596.718%2040.5689%20576.354%2044.4217%20558.466%2051.8979L552.342%2085.6329C571.583%2076.3449%20593.095%2071.3684%20612.565%2071.3684C633.32%2071.3684%20643.755%2077.3769%20646.323%2091.2057L598.759%2096.7326C562.754%20100.815%20546.907%20112.35%20546.907%20134.32L546.953%20134.297ZM438.043%20126.156C438.043%20157.414%20456.16%20173.261%20491.936%20173.261C506.201%20173.261%20517.988%20170.991%20529.294%20165.785L534.271%20131.591C523.4%20138.15%20512.301%20141.544%20501.201%20141.544C484.437%20141.544%20476.961%20134.756%20476.961%20119.574V74.2809H536.06V42.8163H476.961V16.099L402.909%2055.2691V74.2809H437.997V126.133L438.043%20126.156ZM399.767%20111.892V119.597H294.526C299.273%20135.284%20313.377%20142.462%20338.42%20142.462C358.349%20142.462%20376.925%20138.38%20393.437%20130.468L388.69%20163.537C373.508%20169.867%20354.267%20173.284%20334.567%20173.284C282.257%20173.284%20253.727%20150.19%20253.727%20107.397C253.727%2064.603%20282.715%2040.5918%20327.55%2040.5918C372.384%2040.5918%20399.79%2066.6441%20399.79%20111.914L399.767%20111.892ZM294.021%2093.3155H360.574C357.065%2078.2942%20345.53%2070.451%20327.091%2070.451C308.653%2070.451%20297.714%2078.0878%20294.021%2093.3155Z'%20fill='white'/%3e%3c/svg%3e" alt="MetaMask"></a></div><div role="button" tabindex="0" class="group-hover:flex absolute hidden h-5 bg-default hover:bg-default-hover border border-default stroke-icon-default items-center rounded-lg w-5 justify-center right-0 -mr-2.5 z-50 -mt-2" style="box-shadow: rgba(80, 81, 106, 0.2) 0px 1px 4px;"><svg width="16" height="16" viewBox="0 0 16 16" class="" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 5L6 8L9 11" stroke-width="0.916667" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class="mt-6 flex flex-col overflow-y-auto h-full"><nav class="space-y-3 mt-8"><a id="sidebar-item-home.dashboard" aria-current="page" class="group flex items-center px-4 py-2 hover:bg-hover relative text-primary-default dark:text-default font-semibold active" href="/" data-discover="true"><div class="hidden md:inline-block h-6 w-0.5 bg-primary-default absolute right-0"></div><div class="flex justify-center items-center mr-2"><svg class="h-5 w-5 stroke-primary-default" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 10L17.5 10M10 2.5L10 17.5M6.5 2.5H13.5C14.9001 2.5 15.6002 2.5 16.135 2.77248C16.6054 3.01217 16.9878 3.39462 17.2275 3.86502C17.5 4.3998 17.5 5.09987 17.5 6.5V13.5C17.5 14.9001 17.5 15.6002 17.2275 16.135C16.9878 16.6054 16.6054 16.9878 16.135 17.2275C15.6002 17.5 14.9001 17.5 13.5 17.5H6.5C5.09987 17.5 4.3998 17.5 3.86502 17.2275C3.39462 16.9878 3.01217 16.6054 2.77248 16.135C2.5 15.6002 2.5 14.9001 2.5 13.5V6.5C2.5 5.09987 2.5 4.3998 2.77248 3.86502C3.01217 3.39462 3.39462 3.01217 3.86502 2.77248C4.3998 2.5 5.09987 2.5 6.5 2.5Z" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><span class="truncate text-primary-default">Dashboard</span></a><div role="button" tabindex="0" class="relative hover:bg-hover flex items-center gap-2 mt-3 py-2 px-4 text-alternative"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16.9958 6.165H14.2775C13.7342 6.165 13.4625 6.82167 13.8467 7.20583L14.7308 8.09L13.4625 9.35833C12.2558 8.40583 10.7367 7.83167 9.08417 7.83167C5.1775 7.83167 2 11.0092 2 14.915C2 18.8208 5.1775 21.9983 9.08333 21.9983C12.9892 21.9983 16.1667 18.8208 16.1667 14.915C16.1667 13.2617 15.5933 11.7433 14.64 10.5367L15.9083 9.26833L16.7925 10.1525C17.1767 10.5367 17.8333 10.2642 17.8333 9.72167V7.00333C17.8333 6.54083 17.4583 6.165 16.9958 6.165ZM9.08333 20.3317C6.09667 20.3317 3.66667 17.9017 3.66667 14.915C3.66667 11.9283 6.09667 9.49833 9.08333 9.49833C12.07 9.49833 14.5 11.9283 14.5 14.915C14.5 17.9017 12.07 20.3317 9.08333 20.3317ZM22 9.08167C22 11.33 20.9675 13.3958 19.1675 14.7483C19.0175 14.8608 18.8417 14.915 18.6675 14.915C18.4142 14.915 18.1642 14.8 18 14.5825C17.7242 14.215 17.7983 13.6925 18.1658 13.4158C19.5425 12.3817 20.3333 10.8017 20.3333 9.0825C20.3333 6.09583 17.9033 3.66583 14.9167 3.66583C13.1975 3.66583 11.6175 4.45583 10.5825 5.83333C10.3067 6.20083 9.785 6.27417 9.41583 5.99917C9.04833 5.7225 8.97333 5.2 9.25 4.8325C10.6025 3.0325 12.6675 2 14.9167 2C18.8225 2 22 5.1775 22 9.08333V9.08167Z" class="fill-icon-alternative h-5 w-5 stroke-none"></path></svg><span class="truncate select-none">Move crypto</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5 stroke-icon-alternative"><polyline points="9 18 15 12 9 6"></polyline></svg></div><a id="sidebar-item-sidenav.discover" class="group flex items-center px-4 py-2 hover:bg-hover relative text-alternative" href="/explore/tokens" data-discover="true"><div class="flex justify-center items-center mr-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 stroke-icon-alternative"><path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" class="stroke-current" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M16.24 7.76L14.12 14.12L7.76 16.24L9.88 9.88L16.24 7.76Z" class="stroke-current" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><span class="truncate">Discover</span></a><a id="sidebar-item-sidenav.card" class="group flex items-center px-4 py-2 hover:bg-hover relative text-alternative" href="/card" data-discover="true"><div class="flex justify-center items-center mr-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5 text-alternative"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect><line x1="1" y1="10" x2="23" y2="10"></line></svg></div><span class="truncate">Card</span></a><a id="sidebar-item-sidenav.cryptoTax" class="group flex items-center px-4 py-2 hover:bg-hover relative text-alternative" href="/tax-hub" data-discover="true"><div class="flex justify-center items-center mr-2"><svg width="18" height="20" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 stroke-icon-alternative"><path d="M13 0H5C2.24 0 0 2.24 0 5V15C0 17.76 2.24 20 5 20H13C15.76 20 18 17.76 18 15V5C18 2.24 15.76 0 13 0ZM5.86 16.63C5.67 16.82 5.42 16.92 5.16 16.92C4.89 16.92 4.64 16.82 4.45 16.63C4.26 16.44 4.15 16.19 4.15 15.92C4.15 15.66 4.26 15.4 4.45 15.21C4.54 15.12 4.65 15.05 4.77 15C5.02 14.9 5.29 14.9 5.54 15C5.6 15.02 5.66 15.05 5.71 15.09C5.77 15.12 5.82 15.17 5.86 15.21C6.05 15.4 6.16 15.66 6.16 15.92C6.16 16.19 6.05 16.44 5.86 16.63ZM4.15 11.92C4.15 11.79 4.18 11.66 4.23 11.54C4.28 11.41 4.35 11.31 4.45 11.21C4.68 10.98 5.03 10.87 5.35 10.94C5.41 10.95 5.48 10.97 5.54 11C5.6 11.02 5.66 11.05 5.71 11.09C5.77 11.12 5.82 11.17 5.86 11.21C5.95 11.31 6.03 11.41 6.08 11.54C6.13 11.66 6.15 11.79 6.15 11.92C6.15 12.19 6.1262 12.5241 5.9362 12.7141C5.7462 12.9041 5.42 12.92 5.16 12.92C5.02 12.92 4.89 12.89 4.77 12.84C4.65 12.79 4.54 12.72 4.45 12.63C4.26 12.44 4.15 12.19 4.15 11.92ZM9.86 16.63C9.77 16.72 9.66 16.79 9.54 16.84C9.42 16.89 9.29 16.92 9.15 16.92C8.89 16.92 8.64 16.82 8.45 16.63C8.26 16.44 8.15 16.19 8.15 15.92C8.15 15.85 8.16 15.79 8.17 15.72C8.19 15.66 8.21 15.6 8.23 15.54C8.26 15.48 8.29 15.42 8.32 15.36C8.36 15.31 8.4 15.26 8.45 15.21C8.54 15.12 8.65 15.05 8.77 15C9.14 14.85 9.58 14.93 9.86 15.21C10.05 15.4 10.15 15.66 10.15 15.92C10.15 16.19 10.05 16.44 9.86 16.63ZM9.86 12.63C9.67 12.82 9.42 12.92 9.15 12.92C8.89 12.92 8.64 12.82 8.45 12.63C8.26 12.44 8.15 12.19 8.15 11.92C8.15 11.66 8.26 11.4 8.45 11.21C8.82 10.84 9.49 10.84 9.86 11.21C9.95 11.31 10.03 11.41 10.08 11.54C10.13 11.66 10.15 11.79 10.15 11.92C10.15 12.19 10.05 12.44 9.86 12.63ZM6 8.46C4.97 8.46 4.12 7.62 4.12 6.58V5.58C4.12 4.55 4.96 3.7 6 3.7H12C13.03 3.7 13.88 4.54 13.88 5.58V6.58C13.88 7.61 13.04 8.46 12 8.46H6ZM13.86 16.63C13.67 16.82 13.42 16.92 13.15 16.92C13.02 16.92 12.89 16.89 12.77 16.84C12.65 16.79 12.54 16.72 12.45 16.63C12.26 16.44 12.16 16.19 12.16 15.92C12.16 15.66 12.26 15.4 12.45 15.21C12.72 14.93 13.17 14.85 13.54 15C13.66 15.05 13.77 15.12 13.86 15.21C14.05 15.4 14.15 15.66 14.15 15.92C14.15 16.19 14.05 16.44 13.86 16.63ZM14.08 12.3C14.03 12.42 13.96 12.53 13.86 12.63C13.67 12.82 13.42 12.92 13.15 12.92C12.89 12.92 12.64 12.82 12.45 12.63C12.26 12.44 12.15 12.19 12.15 11.92C12.15 11.66 12.26 11.4 12.45 11.21C12.82 10.84 13.49 10.84 13.86 11.21C14.05 11.4 14.16 11.66 14.16 11.92C14.16 12.05 14.13 12.18 14.08 12.3Z" class="fill-icon-alternative"></path></svg></div><span class="truncate">Tax Hub</span></a><a id="sidebar-item-sidenav.travel" href="https://travel.metamask.io/access" target="_blank" rel="noopener noreferrer" class="group flex items-center px-4 py-2 hover:bg-hover relative text-alternative"><div class="flex justify-center items-center mr-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-5 w-5 text-alternative"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg></div><span class="truncate flex-1">Travel</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 ml-1"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg><div role="button" tabindex="0" class="max-w-max items-center rounded-full py-0.5 sm:py-1.5 cursor-default px-2 border border-info-default bg-info-muted text-info-default mx-3 font-normal inline align-text-bottom text-xs sm:text-xs">Pilot</div></a></nav></div><a id="terms-of-use-desktop" target="_blank" href="https://metamask.io/terms.html" class="py-4 -mb-5 border-t border-muted flex text-alternative cursor-pointer items-center hover:bg-hover px-6"><div class="font-medium text-sm mr-2">Terms of Use</div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a></div><div id="desktop-main-content" class="flex flex-col min-h-screen w-full overflow-y-auto relative"><div class="flex flex-col border-b md:border-b-0 border-muted"><div class="md:hidden flex justify-between lg:justify-start top-0 z-10 flex-shrink-0 h-16 sm:h-20 "><div class="flex items-center flex-shrink-0 px-4 lg:hidden"><a href="/" data-discover="true"><svg role="img" aria-label="MetaMask Fox Logo" width="35" height="33" viewBox="0 0 512 492" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 outline-none"><g stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"><path d="M478.468 474.862L368.183 442.171L285.013 491.664L226.987 491.64L143.769 442.171L33.5324 474.862L0 362.174L33.5324 237.106L0 131.365L33.5324 0.312256L205.786 102.76H306.214L478.468 0.312256L512 131.365L478.468 237.106L512 362.174L478.468 474.862Z" fill="#FF5C16" stroke="#FF5C16"></path><path d="M33.5563 0.312256L205.809 102.832L198.959 173.19L33.5563 0.312256Z" fill="#FF5C16" stroke="#FF5C16"></path><path d="M143.793 362.222L219.583 419.696L143.793 442.171V362.222Z" fill="#FF5C16" stroke="#FF5C16"></path><path d="M213.525 267.201L198.959 173.238L105.717 237.13L105.669 237.106V237.154L105.957 302.921L143.768 267.201H143.793H213.525Z" fill="#FF5C16" stroke="#FF5C16"></path><path d="M478.467 0.312256L306.214 102.832L313.041 173.19L478.467 0.312256Z" fill="#FF5C16" stroke="#FF5C16"></path><path d="M368.231 362.222L292.441 419.696L368.231 442.171V362.222Z" fill="#FF5C16" stroke="#FF5C16"></path><path d="M406.331 237.154H406.355H406.331V237.106L406.307 237.13L313.065 173.238L298.498 267.201H368.231L406.066 302.921L406.331 237.154Z" fill="#FF5C16" stroke="#FF5C16"></path><path d="M143.769 442.171L33.5324 474.862L0 362.222H143.769V442.171Z" fill="#E34807" stroke="#E34807"></path><path d="M213.502 267.177L234.559 403.013L205.377 327.487L105.91 302.921L143.745 267.177H213.478H213.502Z" fill="#E34807" stroke="#E34807"></path><path d="M368.231 442.171L478.467 474.862L512 362.222H368.231V442.171Z" fill="#E34807" stroke="#E34807"></path><path d="M298.498 267.177L277.441 403.013L306.623 327.487L406.09 302.921L368.231 267.177H298.498Z" fill="#E34807" stroke="#E34807"></path><path d="M0 362.173L33.5324 237.106H105.645L105.909 302.896L205.377 327.463L234.558 402.989L219.559 419.623L143.769 362.149H0V362.173Z" fill="#FF8D5D" stroke="#FF8D5D"></path><path d="M512 362.173L478.467 237.106H406.355L406.09 302.896L306.623 327.463L277.441 402.989L292.441 419.623L368.231 362.149H512V362.173Z" fill="#FF8D5D" stroke="#FF8D5D"></path><path d="M306.214 102.76H256H205.786L198.959 173.118L234.558 402.918H277.441L313.065 173.118L306.214 102.76Z" fill="#FF8D5D" stroke="#FF8D5D"></path><path d="M33.5324 0.312256L0 131.365L33.5324 237.106H105.645L198.935 173.19L33.5324 0.312256Z" fill="#661800" stroke="#661800"></path><path d="M192.661 294.46H159.994L142.206 311.815L205.401 327.415L192.661 294.436V294.46Z" fill="#661800" stroke="#661800"></path><path d="M478.468 0.312256L512 131.365L478.468 237.106H406.355L313.065 173.19L478.468 0.312256Z" fill="#661800" stroke="#661800"></path><path d="M319.387 294.46H352.102L369.89 311.839L306.623 327.463L319.387 294.436V294.46Z" fill="#661800" stroke="#661800"></path><path d="M284.989 446.834L292.441 419.671L277.442 403.037H234.535L219.535 419.671L226.987 446.834" fill="#661800" stroke="#661800"></path><path d="M284.989 446.833V491.687H226.987V446.833H284.989Z" fill="#C0C4CD" stroke="#C0C4CD"></path><path d="M143.793 442.123L227.035 491.664V446.81L219.583 419.648L143.793 442.123Z" fill="#E7EBF6" stroke="#E7EBF6"></path><path d="M368.231 442.123L284.989 491.664V446.81L292.441 419.648L368.231 442.123Z" fill="#E7EBF6" stroke="#E7EBF6"></path></g></svg></a></div><div class="mx-4 sm:mx-6 items-center hidden lg:flex pl-1"><div id="token-search-dropdown"><div class="relative" data-testid="search-input-container"><div class="relative w-full"><div class="absolute ml-4 flex items-center h-full"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4 text-alternative"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></div><input class="bg-inherit border border-muted px-4 w-full pl-10 py-2.5 md:w-72 transition-transform duration-500 rounded-lg placeholder:text-default" placeholder="Search for a token..." data-testid="search-input" value=""></div></div></div></div><div class="mx-6 flex gap-4 items-center lg:hidden text-alternative text-xl"><div id="notifications-mobile-button"><button class="cursor-pointer disabled:cursor-auto transition border flex items-center justify-center text-center text-sm border-transparent bg-inherit text-default p-0 rounded-lg hover:bg-hover" aria-label="Show Notifications"><div class="relative isolate leading-none"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="bell" class="svg-inline--fa fa-bell fa-fw w-5 h-5" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224 0c-17.7 0-32 14.3-32 32V51.2C119 66 64 130.6 64 208v25.4c0 45.4-15.5 89.5-43.8 124.9L5.3 377c-5.8 7.2-6.9 17.1-2.9 25.4S14.8 416 24 416H424c9.2 0 17.6-5.3 21.6-13.6s2.9-18.2-2.9-25.4l-14.9-18.6C399.5 322.9 384 278.8 384 233.4V208c0-77.4-55-142-128-156.8V32c0-17.7-14.3-32-32-32zm0 96c61.9 0 112 50.1 112 112v25.4c0 47.9 13.9 94.6 39.7 134.6H72.3C98.1 328 112 281.3 112 233.4V208c0-61.9 50.1-112 112-112zm64 352H224 160c0 17 6.7 33.3 18.7 45.3s28.3 18.7 45.3 18.7s33.3-6.7 45.3-18.7s18.7-28.3 18.7-45.3z"></path></svg></div></button></div><button type="button" class=" text-default lg:hidden rounded-lg hover:bg-hover" id="dashboard-mobile-button" aria-label="Menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button></div><div class="hidden lg:flex flex-1 justify-end px-5 sm:px-6 lg:px-7"><div class="flex items-center"><div id="gas-dropdown" class="relative"><button class="space-x-2 text-sm inline-flex justify-center items-center bg-inherit hover:text-info border-default transition-colors group p-3.5 rounded-lg border-0 hover:bg-hover text-default" aria-label="Gas dropdown"><div class="flex items-center truncate flex-1 !overflow-visible"><div class="relative"><img class="w-3 h-3 -ml-1.5 mt-2.5 rounded-full object-cover absolute ring-border-muted ring-1" src="https://static.cx.metamask.io/api/v1/tokenIcons/1/0x0000000000000000000000000000000000000000.png" alt=""><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="gas-pump" class="svg-inline--fa fa-gas-pump w-4 h-4" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 64C32 28.7 60.7 0 96 0H256c35.3 0 64 28.7 64 64V256h8c48.6 0 88 39.4 88 88v32c0 13.3 10.7 24 24 24s24-10.7 24-24V222c-27.6-7.1-48-32.2-48-62V96L384 64c-8.8-8.8-8.8-23.2 0-32s23.2-8.8 32 0l77.3 77.3c12 12 18.7 28.3 18.7 45.3V168v24 32V376c0 39.8-32.2 72-72 72s-72-32.2-72-72V344c0-22.1-17.9-40-40-40h-8V448c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32V64zM96 80v96c0 8.8 7.2 16 16 16H240c8.8 0 16-7.2 16-16V80c0-8.8-7.2-16-16-16H112c-8.8 0-16 7.2-16 16z"></path></svg></div><span class="hidden lg:flex ml-2">2</span></div></button></div></div></div></div></div><main class="flex-1 isolate"><div class="relative"><div class="flex items-center justify-between p-9 bg-portfolio-blue-800"><h1 class="font-accent text-2xl text-portfolio-orange-200 dark:text-portfolio-orange-200 font-medium">Dashboard</h1><button class="cursor-pointer disabled:cursor-auto transition py-2 rounded-xl border flex items-center justify-center text-center text-sm border-icon-default hover:border-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed px-3 w-48 h-12 whitespace-nowrap font-sans bg-portfolio-orange-200 hover:bg-portfolio-white hover:text-portfolio-black text-portfolio-blue-800 uppercase font-medium border-none" id="connect-wallet-button"><span>Connect</span></button></div><div class="relative flex flex-col bg-portfolio-blue-800"><div class="flex justify-between flex-col lg:flex-row gap-10 pt-28 lg:pt-14"><div class="self-end lg:w-[470px] lg:ml-16 lg:pb-40 flex flex-col gap-6 lg:gap-10 items-center lg:items-start"><p class="font-accent text-3xl text-center text-balance lg:text-left lg:text-5xl leading-none text-portfolio-orange-200">All your assets, all your accounts, all in one place.</p><div class="flex flex-col lg:flex-row gap-4 items-center lg:items-start"><div><button class="cursor-pointer disabled:cursor-auto transition rounded-xl border flex items-center justify-center text-center text-sm border-icon-default hover:border-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed w-48 h-12 whitespace-nowrap font-sans bg-portfolio-white disabled:bg-portfolio-orange-200 hover:bg-portfolio-orange-200 hover:text-portfolio-blue-800 text-portfolio-black uppercase font-medium border-none py-5 lg:py-4 px-6" id="connect-wallet-button"><span>Connect</span></button></div><div><a href="https://metamask.io" class="cursor-pointer disabled:cursor-auto transition px-5 py-2 rounded-xl border flex items-center justify-center text-center text-sm border-transparent bg-inherit h-12 w-auto whitespace-nowrap uppercase font-medium text-portfolio-white hover:underline hover:bg-transparent" target="_blank" rel="noopener noreferrer"><span>Learn more</span></a></div></div></div><div class="self-end pl-12 lg:pl-16 pb-0 lg:pb-16"><picture><source srcset="/assets/hero-dark-BfWgkCQ0.webp" type="image/webp"><source srcset="/assets/hero-dark-uDFwEtlL.png" type="image/png"><img src="/assets/hero-dark-uDFwEtlL.png" alt="Decorative Asset" class="h-[280px] lg:h-[480px] w-auto object-contain object-bottom"></picture></div></div><div class="absolute lg:top-12 top-0 inset-x-0 lg:right-12 w-32 h-32 lg:w-44 lg:h-44 m-auto" data-testid="lottie-container"><canvas width="128" height="128" style="width: 100%; height: 100%; transform-origin: 0px 0px 0px; content-visibility: visible;"></canvas></div><div class="absolute left-0 bottom-0 w-full"><div class="w-full relative h-7 lg:h-16" data-testid="section-separator"><div class="h-full clip-path-triangle bg-portfolio-orange-200 ml-[20%]"></div></div></div></div><div class="flex flex-col bg-portfolio-orange-200"><div class="pb-7 lg:pb-16"><div class="grid grid-cols-1 lg:grid-cols-2 gap-x-4"><div class="p-4 lg:p-9 flex gap-6 items-center lg:items-start lg:flex-row"><div class="flex-1 flex flex-col gap-2 lg:gap-4"><h3 class="text-portfolio-blue-800 font-accent text-xl lg:text-3xl">Buy and sell crypto</h3><p class="text-portfolio-blue-800 font-sans text-sm leading-tight lg:text-lg lg:leading-snug">Go from cash to crypto in seconds.</p><div class="flex mt-2"><a class="cursor-pointer disabled:cursor-auto transition rounded-xl border flex items-center justify-center text-center text-sm border-icon-default hover:border-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed font-sans bg-portfolio-white hover:bg-portfolio-blue-800 hover:text-portfolio-orange-200 text-portfolio-black uppercase font-medium border-none py-3 px-5" href="/buy" data-discover="true"><span>Buy</span></a></div></div><div><picture><source srcset="/assets/buy-sell-HBk8zLMk.webp" type="image/webp"><source srcset="/assets/buy-sell-D0ZWqvWV.png" type="image/png"><img src="/assets/buy-sell-D0ZWqvWV.png" alt="Decorative Asset" class="w-[160px] h-[160px] xl:w-[270px] xl:h-[270px] object-contain"></picture></div></div><div class="p-4 lg:p-9 flex gap-6 items-center lg:items-start flex-row-reverse lg:flex-row"><div class="flex-1 flex flex-col gap-2 lg:gap-4"><h3 class="text-portfolio-blue-800 font-accent text-xl lg:text-3xl">Swap and bridge tokens</h3><p class="text-portfolio-blue-800 font-sans text-sm leading-tight lg:text-lg lg:leading-snug">Easily swap thousands of tokens across dozens of networks.</p><div class="flex mt-2"><a class="cursor-pointer disabled:cursor-auto transition rounded-xl border flex items-center justify-center text-center text-sm border-icon-default hover:border-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed font-sans bg-portfolio-white hover:bg-portfolio-blue-800 hover:text-portfolio-orange-200 text-portfolio-black uppercase font-medium border-none py-3 px-5" href="/swap" data-discover="true"><span>Swap</span></a></div></div><div><picture><source srcset="/assets/swap-bridge-IboB3eEY.webp" type="image/webp"><source srcset="/assets/swap-bridge-CLQov0i1.png" type="image/png"><img src="/assets/swap-bridge-CLQov0i1.png" alt="Decorative Asset" class="w-[160px] h-[160px] xl:w-[270px] xl:h-[270px] object-contain"></picture></div></div><div class="p-4 lg:p-9 flex gap-6 items-center lg:items-start lg:flex-row"><div class="flex-1 flex flex-col gap-2 lg:gap-4"><h3 class="text-portfolio-blue-800 font-accent text-xl lg:text-3xl">Earn rewards</h3><p class="text-portfolio-blue-800 font-sans text-sm leading-tight lg:text-lg lg:leading-snug">Stake your ETH and earn rewards while securing the Ethereum network.</p><div class="flex mt-2"><a class="cursor-pointer disabled:cursor-auto transition rounded-xl border flex items-center justify-center text-center text-sm border-icon-default hover:border-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed font-sans bg-portfolio-white hover:bg-portfolio-blue-800 hover:text-portfolio-orange-200 text-portfolio-black uppercase font-medium border-none py-3 px-5" href="/stake" data-discover="true"><span>Stake</span></a></div></div><div><picture><source srcset="/assets/earn-o2nTC-UP.webp" type="image/webp"><source srcset="/assets/earn-C7bXAYm8.png" type="image/png"><img src="/assets/earn-C7bXAYm8.png" alt="Decorative Asset" class="w-[160px] h-[160px] xl:w-[270px] xl:h-[270px] object-contain"></picture></div></div><div class="p-4 lg:p-9 flex gap-6 items-center lg:items-start flex-row-reverse lg:flex-row"><div class="flex-1 flex flex-col gap-2 lg:gap-4"><h3 class="text-portfolio-blue-800 font-accent text-xl lg:text-3xl">Spend crypto IRL</h3><p class="text-portfolio-blue-800 font-sans text-sm leading-tight lg:text-lg lg:leading-snug">Use MetaMask Card to make purchases with your crypto anywhere that Mastercard is accepted.</p><div class="flex mt-2"><a class="cursor-pointer disabled:cursor-auto transition rounded-xl border flex items-center justify-center text-center text-sm border-icon-default hover:border-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed font-sans bg-portfolio-white hover:bg-portfolio-blue-800 hover:text-portfolio-orange-200 text-portfolio-black uppercase font-medium border-none py-3 px-5" href="/card" data-discover="true"><span>Spend</span></a></div></div><div><picture><source srcset="/assets/spend-C1DE6l0_.webp" type="image/webp"><source srcset="/assets/spend-DVGE6AE6.png" type="image/png"><img src="/assets/spend-DVGE6AE6.png" alt="Decorative Asset" class="w-[160px] h-[160px] xl:w-[270px] xl:h-[270px] object-contain"></picture></div></div></div></div><div class="w-full relative h-7 lg:h-16" data-testid="section-separator"><div class="h-full clip-path-triangle bg-portfolio-blue-800 ml-[87%]"></div></div></div><div class="bg-portfolio-blue-800 py-10 lg:py-24 px-4 lg:px-9 text-center"><h2 class="font-hero text-portfolio-orange-200 text-4xl lg:text-8xl leading-none" style="font-variation-settings: &quot;wght&quot; 400, &quot;wdth&quot; 25;">Dive into web3</h2><p class="font-sans text-portfolio-orange-200 text-base lg:text-2xl mt-6 lg:mt-10">Discover dapps, tokens, NFTs, games, and more inside MetaMask.</p><div class="flex justify-center mt-6 lg:mt-10"><a class="cursor-pointer disabled:cursor-auto transition rounded-xl border flex items-center justify-center text-center text-sm border-icon-default hover:border-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed font-sans bg-portfolio-white hover:bg-portfolio-orange-200 hover:text-portfolio-blue-800 text-portfolio-black uppercase font-medium border-none py-5 lg:py-4 px-6" href="/explore/tokens" data-discover="true"><span>Explore Web3</span></a></div></div></div></main></div></div></div>
+
+
+
+
+
+<script id="hs-script-loader" text="" charset="" type="text/javascript" src="//js.hs-scripts.com/4795067.js"></script>
+
+<div class="go2933276541 go2369186930" id="hs-web-interactives-top-anchor"><div id="hs-interactives-modal-overlay" class="go1632949049"></div></div>
+<div class="go2933276541 go1348078617" id="hs-web-interactives-bottom-anchor"></div>
+<div id="hs-web-interactives-floating-container">
+  <div id="hs-web-interactives-floating-top-left-anchor" class="go2417249464 go613305155">
+  </div>
+  <div id="hs-web-interactives-floating-top-right-anchor" class="go2417249464 go471583506">
+  </div>
+  <div id="hs-web-interactives-floating-bottom-left-anchor" class="go2417249464 go3921366393">
+  </div>
+  <div id="hs-web-interactives-floating-bottom-right-anchor" class="go2417249464 go3967842156">
+  </div>
+</div>
+<div data-react-modal-body-trap="" tabindex="0" style="position: absolute; opacity: 0;"></div><div class="ReactModalPortal"><div class="ReactModal__Overlay" style="position: fixed; inset: 0px; background: rgba(0, 0, 0, 0.6); z-index: 1001; display: flex;"><div id="modal-portal" class="ReactModal__Content bg-default text-default max-h-screen" tabindex="-1" role="dialog" aria-label="" aria-modal="true" style="overflow: auto; border-radius: 0.5rem; outline: none; padding: 24px; position: relative; width: 644px; margin: auto; max-width: 40rem;"><div class="pb-8 sm:pb-0" id="privacy-modal"><div class="text-xl font-semibold text-center mb-4">Help us improve MetaMask</div><div class="flex flex-col gap-6"><p class="text-sm sm:text-base text-default font-normal">We'd like to gather basic usage and diagnostics data to improve MetaMask.</p><div class="flex flex-col gap-6" id="security"><div class="flex flex-col"><p class="text-sm sm:text-base text-default font-semibold">Participate in MetaMetrics</p><p class="text-xs sm:text-sm leading-5 font-normal text-alternative" data-testid="privacy-modal-metametrics"><span>Allow MetaMetrics to collect basic usage and diagnostics data to improve our product. You can disable MetaMetrics for this device. <a href="https://metamask.io/privacy.html" class="text-primary-default hover:underline" target="_blank" rel="noreferrer">Learn more</a></span></p></div><div class="flex flex-col"><p class="text-sm sm:text-base text-default font-semibold">Participate in Error Tracing</p><p class="text-xs sm:text-sm leading-5 font-normal text-alternative" data-testid="privacy-modal-sentry">Participate in Error Tracing to help us make MetaMask better by seeing bugs on your application.</p></div><p class="text-xs sm:text-sm leading-5 font-normal text-alternative">We'll let you know if we plan to use this data for other purposes. You can review our <span><a href="https://metamask.io/privacy.html" class="text-primary-default hover:underline" target="_blank" rel="noreferrer">Privacy Notice </a></span> any time (we never sell the data you provide here).</p><div role="button" tabindex="0" class="flex items-center gap-4 select-none"><input id="privacy-checkbox-0fcf2182-3121-4ce5-b5e6-55ef2c32766e" type="checkbox" class="w-4 h-4 cursor-pointer text-primary-default bg-default border-default rounded"><p class="text-sm sm:text-base text-default font-medium">In addition to MetaMetrics, we'd like to use data (like information from cookies and pixels) to learn how you interact with our marketing communications. We may share relevant news (like product features).</p></div></div><div class="flex items-center gap-4"><button class="cursor-pointer disabled:cursor-auto transition px-5 py-2 rounded-xl border flex items-center justify-center text-center text-sm border-default bg-inherit hover:bg-hover text-alternative flex-1"><span>Manage in Settings</span></button><button class="cursor-pointer disabled:cursor-auto transition px-5 py-2 rounded-xl border flex items-center justify-center text-center text-sm border-icon-default bg-icon-default text-icon-inverse hover:border-icon-default-hover hover:bg-icon-default-hover active:border-icon-default-pressed active:bg-icon-default-pressed flex-1" id="accept-button-3273c49b-91cf-4323-975e-2f5ea6f0ba46"><span>Accept selected</span></button></div></div></div></div></div></div><div class="ReactModalPortal"></div></body></html>

@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://stripe.com/",
+    "final_url": "https://stripe.com/fr",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 636813,
+    "title": "Stripe | Plateforme et solution de paiement en ligne",
+    "local_path": "styles/stripe-trust-commerce/evidence/web/pages/stripe-com.html"
+  },
+  {
+    "url": "https://stripe.com/pricing",
+    "final_url": "https://stripe.com/fr/pricing",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes_saved": 800000,
+    "title": "",
+    "local_path": "styles/stripe-trust-commerce/evidence/web/pages/stripe-com-pricing.html"
+  }
+]

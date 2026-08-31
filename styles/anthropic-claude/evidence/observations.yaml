@@ -1,0 +1,92 @@
+observations:
+  - id: obs-layout-001
+    source_ids: [mobbin-section-001-hero, mobbin-section-004-product-cards, mobbin-flow-001-onboarding]
+    confidence: observed
+    cluster: editorial_brand_layout
+    observation: >
+      Claude marketing surfaces use warm ivory canvas, large whitespace, sparse editorial composition,
+      and simple nav; hero sections often pair concise copy with a large human/symbolic visual or product proof.
+    design_rule: >
+      Prefer wide calm layouts, strong whitespace, and one clear message per section over dense SaaS feature grids.
+  - id: obs-typography-001
+    source_ids: [mobbin-section-001-hero, mobbin-flow-001-onboarding]
+    confidence: observed
+    cluster: typography
+    observation: >
+      Brand moments use refined serif/editorial display type; utility navigation/forms/buttons use compact sans-serif UI type.
+    design_rule: >
+      Use serif or serif-like display for brand/editorial moments and sans for UI controls and dense app surfaces.
+  - id: obs-color-001
+    source_ids: [mobbin-section-001-hero, mobbin-section-004-product-cards, firecrawl-anthropic-claude-product]
+    confidence: extracted
+    cluster: color
+    observation: >
+      Warm ivory/off-white and black/charcoal dominate; clay/terracotta appears as the identity accent.
+      Firecrawl HTML includes Claude clay variable hints such as cds-clay/#d97757.
+    design_rule: >
+      Base the system on warm neutrals and charcoal; use clay/terracotta sparingly for brand/action emphasis.
+  - id: obs-workbench-001
+    source_ids: [mobbin-screen-006-artifact, mobbin-screen-007-artifact, mobbin-screen-008-artifact, mobbin-screen-009-artifact, mobbin-screen-010-artifact]
+    confidence: observed
+    cluster: ai_workbench
+    observation: >
+      Claude Code/workbench surfaces are split-pane: compact warm sidebar, vast quiet canvas,
+      bottom-centered composer/command card, small context chips for project/branch/model/environment.
+    design_rule: >
+      Treat the prompt composer as a compact command/workbench card, not a full-width chat bar;
+      embed context controls inside the composer.
+  - id: obs-chat-001
+    source_ids: [mobbin-screen-001-chat-sidebar, mobbin-screen-002-chat, mobbin-screen-003-chat, mobbin-screen-004-chat, mobbin-screen-005-chat]
+    confidence: observed
+    cluster: chat_shell
+    observation: >
+      Claude chat keeps app chrome subdued: muted sidebar, warm/off-white surfaces, minimal icons,
+      low-contrast selected states, and one dominant prompt/action zone.
+    design_rule: >
+      Keep chat navigation quiet and let the content/composer own focus; avoid colorful badge-heavy chat shells.
+  - id: obs-card-001
+    source_ids: [mobbin-section-004-product-cards]
+    confidence: observed
+    cluster: product_cards
+    observation: >
+      Product marketing cards use large rounded two-column cards with concise copy/CTA on the left
+      and product/code proof on the right. Light card for approachable user product; dark card for developer/API mode.
+    design_rule: >
+      Use macro-cards for product storytelling: one message, one CTA, one proof visual.
+      Use inverse dark treatment for code/API surfaces.
+  - id: obs-onboarding-001
+    source_ids: [mobbin-flow-001-onboarding, mobbin-flow-002-onboarding, mobbin-flow-003-login-onboarding]
+    confidence: observed
+    cluster: onboarding
+    observation: >
+      Onboarding is low-friction and trust-by-polish: Google/email auth, compact form, small privacy note,
+      black primary CTA, large warm human/editorial visual, no urgency pressure.
+    design_rule: >
+      Ask for minimal input, keep legal/trust copy visible but quiet, and avoid aggressive conversion clutter.
+  - id: obs-modal-001
+    source_ids: [mobbin-screen-001-chat-sidebar, mobbin-flow-003-login-onboarding]
+    confidence: observed
+    cluster: modals
+    observation: >
+      Feature/onboarding modals use large warm off-white rounded cards on dim overlays, a small demo/preview,
+      a short explanatory text block, a tiny status pill, and one primary CTA.
+    design_rule: >
+      Modals should explain one feature/action with preview-first evidence and a single primary action.
+  - id: obs-voice-001
+    source_ids: [firecrawl-anthropic-claude-product, firecrawl-claude-ai-home-attempt, mobbin-section-001-hero]
+    confidence: extracted
+    cluster: voice
+    observation: >
+      Copy is calm and human-centered: AI for problem solvers, thinking partner,
+      and tackle big/bold/bewildering challenges. It avoids over-technical or hype-heavy language in brand moments.
+    design_rule: >
+      Use concise, human, problem-solving language; prefer trust and capability over hype.
+  - id: obs-trust-001
+    source_ids: [mobbin-flow-001-onboarding, firecrawl-anthropic-claude-product]
+    confidence: observed
+    cluster: trust
+    observation: >
+      Trust comes from institutional nav, privacy links, familiar auth, polished layout, status/compliance links,
+      and calm restraint rather than security badge overload.
+    design_rule: >
+      Put trust in the information architecture and recovery/legal details, not decorative trust badges.

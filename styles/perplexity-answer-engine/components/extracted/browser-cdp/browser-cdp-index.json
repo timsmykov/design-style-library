@@ -1,0 +1,52 @@
+{
+  "targets": [
+    {
+      "slug": "perplexity-home",
+      "requested_url": "https://www.perplexity.ai/",
+      "captured_url": "https://www.perplexity.ai/",
+      "title": "Just a moment...",
+      "auth_blocked": false,
+      "expected_components": [
+        "public-landing-pricing",
+        "search-composer"
+      ],
+      "path": "components/extracted/browser-cdp/perplexity-home"
+    },
+    {
+      "slug": "perplexity-pro",
+      "requested_url": "https://www.perplexity.ai/pro",
+      "captured_url": "https://www.perplexity.ai/pro",
+      "title": "Just a moment...",
+      "auth_blocked": false,
+      "expected_components": [
+        "public-landing-pricing",
+        "pro-upgrade-pricing"
+      ],
+      "path": "components/extracted/browser-cdp/perplexity-pro"
+    },
+    {
+      "slug": "perplexity-app-home",
+      "requested_url": "https://www.perplexity.ai/search/new",
+      "captured_url": "https://www.perplexity.ai/search/new",
+      "title": "Just a moment...",
+      "auth_blocked": false,
+      "expected_components": [
+        "search-composer",
+        "app-shell-sidebar"
+      ],
+      "path": "components/extracted/browser-cdp/perplexity-app-home"
+    },
+    {
+      "slug": "perplexity-library-auth-check",
+      "requested_url": "https://www.perplexity.ai/library",
+      "captured_url": "https://www.perplexity.ai/library",
+      "title": "Just a moment...",
+      "auth_blocked": false,
+      "expected_components": [
+        "collections-library",
+        "app-shell-sidebar"
+      ],
+      "path": "components/extracted/browser-cdp/perplexity-library-auth-check"
+    }
+  ]
+}

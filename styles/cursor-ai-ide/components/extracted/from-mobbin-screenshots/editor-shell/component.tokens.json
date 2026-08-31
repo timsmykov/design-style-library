@@ -1,0 +1,14 @@
+{
+  "component_id": "editor-shell",
+  "evidence_count": 6,
+  "colors": {
+    "canvas": "#0b0d12",
+    "surface": "#11141b",
+    "panel": "#171b24",
+    "text": "#f4f7fb",
+    "muted": "#9aa4b2",
+    "border": "#2a3140",
+    "accent": "#7c3aed",
+    "accent2": "#38bdf8"
+  }
+}

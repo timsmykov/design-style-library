@@ -1,0 +1,14 @@
+{
+  "component_id": "cycle-status-panel",
+  "evidence_count": 9,
+  "colors": {
+    "canvas": "#08090d",
+    "surface": "#111217",
+    "panel": "#191a22",
+    "text": "#f7f8ff",
+    "muted": "#9ca3b7",
+    "border": "#2a2d39",
+    "accent": "#5e6ad2",
+    "accent2": "#8b5cf6"
+  }
+}

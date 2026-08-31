@@ -1,0 +1,37 @@
+observations:
+  - id: canvas
+    confidence: observed
+    evidence: [unit-5-personal-inflation]
+    statement: Slides use a white 16:9 canvas with large unfilled margins and no decorative background.
+  - id: type-family
+    confidence: extracted
+    evidence: [unit-5-personal-inflation]
+    statement: Embedded fonts are Inter Regular, Inter Light, and Inter Bold.
+  - id: title-treatment
+    confidence: observed
+    evidence: [unit-5-personal-inflation]
+    statement: Titles are bold black, left aligned, and often contain one short electric-blue phrase.
+  - id: primary-slide-accent
+    confidence: extracted
+    evidence: [unit-5-personal-inflation]
+    statement: Repeated saturated blue is approximately #2E6BFE.
+  - id: support-surface
+    confidence: extracted
+    evidence: [unit-5-personal-inflation]
+    statement: Repeated information and caveat bands are approximately #DADBF0.
+  - id: explicit-theme-accent
+    confidence: observed
+    evidence: [theme-palette-reference]
+    statement: Cross-medium theme configuration specifies #4950BC as primary accent, link, and button color.
+  - id: explicit-neutrals
+    confidence: observed
+    evidence: [theme-palette-reference]
+    statement: Heading, body, and background values are #000000, #272525, and #FFFFFF.
+  - id: teaching-grammar
+    confidence: inferred
+    evidence: [unit-5-personal-inflation, unit-5-contact-sheet]
+    statement: Repeated structures include numbered process strips, two-column comparisons, evidence bands, worksheet grids, checklists, and insight-first calculation slides.
+  - id: decoration-level
+    confidence: observed
+    evidence: [unit-5-contact-sheet]
+    statement: Decoration is sparse; lines, flat fills, tiny icons, and one explanatory illustration support structure rather than atmosphere.

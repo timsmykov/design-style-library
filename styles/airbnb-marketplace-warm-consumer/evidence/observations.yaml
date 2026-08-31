@@ -1,0 +1,21 @@
+observations:
+  - id: style-formula
+    claim: "warm consumer marketplace; photo-first listing cards; search/filter/map rhythm; hospitality trust, reviews and booking clarity; soft neutral canvas with confident coral action"
+    confidence: medium
+    evidence: STYLE.md plus local visual corpus
+  - id: local-corpus
+    claim: "Local visual corpus contains 20 screens, 20 sections, 25 flow previews, 1 public web captures, and 1 authenticated screenshots."
+    confidence: high
+    evidence: evidence/ directories and source-map files
+  - id: token-system
+    claim: "Token system exposes color, typography, spacing, and radius roles for implementation. Color anchors: `canvas`=#ffffff; `surface`=#ffffff; `panel`=#f7f7f7; `text`=#222222; `muted`=#717171; `border`=#dddddd; `accent`=#ff385c; `accent2`=#00a699. Type anchors: `ui`=Inter/system sans-serif; `mono`=ui-monospace/SFMono-Regular. Structural anchors: spacing scale present, radius scale present."
+    confidence: high
+    evidence: tokens/tokens.json and tokens/css-vars.css
+  - id: component-grammar
+    claim: "Component grammar is normalized into 10 capsules: booking-card, category-tabs, checkout-reservation-flow, filter-modal, host-profile-card, listing-card, listing-detail-gallery, map-results-layout, reviews-section, search-bar."
+    confidence: high
+    evidence: components/component-index.jsonl and components/capsules/
+  - id: runtime-boundary
+    claim: "Runtime agents can use this style offline from pack files only; external tools are build-time enrichment lanes."
+    confidence: high
+    evidence: agent-contract.md and unified pack DESIGN.md

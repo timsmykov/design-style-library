@@ -1,0 +1,77 @@
+{
+  "copied": [
+    {
+      "id": "6b12968e-e29c-4d29-a20b-e77dcaa76c83",
+      "site_name": "Claude",
+      "mobbin_url": "https://mobbin.com/sites/sections/6b12968e-e29c-4d29-a20b-e77dcaa76c83",
+      "local_path": "evidence/mobbin/sections/section-030-claude-mobbin-6b12968e.webp",
+      "query_page": 2
+    },
+    {
+      "id": "8b74f2a9-5f4d-43f7-b1ff-eba05a6a3ded",
+      "site_name": "Claude",
+      "mobbin_url": "https://mobbin.com/sites/sections/8b74f2a9-5f4d-43f7-b1ff-eba05a6a3ded",
+      "local_path": "evidence/mobbin/sections/section-031-claude-mobbin-8b74f2a9.webp",
+      "query_page": 2
+    },
+    {
+      "id": "d0ea8855-f290-486c-a4ba-7a1f9515d308",
+      "site_name": "Claude",
+      "mobbin_url": "https://mobbin.com/sites/sections/d0ea8855-f290-486c-a4ba-7a1f9515d308",
+      "local_path": "evidence/mobbin/sections/section-032-claude-mobbin-d0ea8855.webp",
+      "query_page": 2
+    },
+    {
+      "id": "3867c9bb-1aff-424e-afc9-5cfada1842c3",
+      "site_name": "Claude",
+      "mobbin_url": "https://mobbin.com/sites/sections/3867c9bb-1aff-424e-afc9-5cfada1842c3",
+      "local_path": "evidence/mobbin/sections/section-033-claude-mobbin-3867c9bb.webp",
+      "query_page": 2
+    },
+    {
+      "id": "02dc311c-bf25-41dc-9802-ad3c5326ece6",
+      "site_name": "Claude Type",
+      "mobbin_url": "https://mobbin.com/sites/sections/02dc311c-bf25-41dc-9802-ad3c5326ece6",
+      "local_path": "evidence/mobbin/sections/section-034-claude-mobbin-02dc311c.webp",
+      "query_page": 2
+    }
+  ],
+  "skipped": [
+    [
+      "7332f9cf-c3bc-4911-bd9e-2e8cb9aec724",
+      "Voiceflow"
+    ],
+    [
+      "0a28f333-801b-456f-bf33-ff234f72f68f",
+      "Clay"
+    ],
+    [
+      "fe08cc5d-4e66-4dd3-8a70-d2c167b667f7",
+      "Descript"
+    ],
+    [
+      "f11b7c73-1f62-4c2e-a5c1-bf117f99dcd5",
+      "Giga"
+    ],
+    [
+      "6aa3981f-01e2-4ae8-8cfa-d75703b58b33",
+      "Ramp"
+    ],
+    [
+      "b6673967-a0fe-4099-ab7d-baef9b20b200",
+      "Webflow"
+    ],
+    [
+      "7a098fdf-9471-4ef0-9b1d-8dbba2cf4ffe",
+      "Sana"
+    ],
+    [
+      "7f70d8d5-d31b-4312-9262-c01b2c4db136",
+      "Greptile"
+    ],
+    [
+      "d6580c33-b9f1-435e-9b56-efc9cc021f21",
+      "Sana"
+    ]
+  ]
+}

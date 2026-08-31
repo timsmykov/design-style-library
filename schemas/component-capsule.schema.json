@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Design Style Library Component Capsule",
+  "type": "object",
+  "required": ["style_id", "component_id", "title", "component_type", "mediums", "intents", "repo_path", "confidence"],
+  "properties": {
+    "style_id": {"type": "string"},
+    "component_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+    "title": {"type": "string"},
+    "component_type": {"type": "string"},
+    "mediums": {"type": "array", "items": {"type": "string"}},
+    "intents": {"type": "array", "items": {"type": "string"}},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "repo_path": {"type": "string"},
+    "evidence_paths": {"type": "array", "items": {"type": "string"}},
+    "extracted_paths": {"type": "array", "items": {"type": "string"}},
+    "confidence": {"enum": ["seed", "observed", "extracted", "validated"]},
+    "updated_at": {"type": "string"}
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "component_id": "composer-command-card",
+  "evidence_count": 1,
+  "source_type_counts": {
+    "screen": 1
+  },
+  "dominant_palettes": [
+    [
+      "#72706e",
+      1
+    ],
+    [
+      "#f8f7f5",
+      1
+    ],
+    [
+      "#2f2f2e",
+      1
+    ]
+  ],
+  "ocr_terms": [
+    [
+      "back",
+      1
+    ],
+    [
+      "tit",
+      1
+    ],
+    [
+      "andrea",
+      1
+    ],
+    [
+      "ask",
+      1
+    ],
+    [
+      "show",
+      1
+    ],
+    [
+      "curated",
+      1
+    ],
+    [
+      "mobbin",
+      1
+    ]
+  ],
+  "confidence": "visual_extracted"
+}

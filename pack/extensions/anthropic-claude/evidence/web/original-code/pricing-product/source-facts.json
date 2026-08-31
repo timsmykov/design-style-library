@@ -1,0 +1,3846 @@
+{
+  "slug": "pricing-product",
+  "url": "https://www.anthropic.com/pricing?subjects=claude&type=product",
+  "title": "Plans & Pricing | Claude by Anthropic",
+  "headings": [
+    {
+      "tag": "h3",
+      "text": "How big is your team?",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-text"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "How many people will use Claude?",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-text"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "What are your security and compliance needs?",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-text"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "How often will your team use Claude?",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-text"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "What kind of contract works best for you?",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-text"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Recommended: The Team plan",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Recommended: ‍ The Enterprise plan (self-serve)",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Recommended: ‍ The Enterprise plan (sales-assisted)",
+      "classes": [
+        "u-text-style-h6",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h1",
+      "text": "Pricing",
+      "classes": []
+    },
+    {
+      "tag": "h3",
+      "text": "Free",
+      "classes": [
+        "card_pricing_title_text",
+        "u-text-style-h4",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Pro",
+      "classes": [
+        "card_pricing_title_text",
+        "u-text-style-h4",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Max",
+      "classes": [
+        "card_pricing_title_text",
+        "u-text-style-h4",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Compare features across plans",
+      "classes": []
+    },
+    {
+      "tag": "h3",
+      "text": "Features and capabilities",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Chat on web, iOS, Android and Desktop",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude Code",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude Cowork",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude Design",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "@Claude",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Ability to search the web",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Desktop extensions",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Voice mode",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Incognito chats",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "User preferences",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Artifacts",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Projects",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Project sharing and collaboration",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Create and edit files with code execution",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Research",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Memory",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Skills",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Connectors",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Web search",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Enterprise search",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude for Chrome",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude for Microsoft 365",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude for Microsoft Outlook",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Security and administration",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Single sign-on (SSO) and domain capture",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Central billing and administration",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Admin controls for remote and local connectors",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Enterprise deployment for the Claude desktop app",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Role-based access",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "System for Cross-domain Identity Management (SCIM)",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Audit logs",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Usage analytics",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Compliance API",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "HIPAA-ready offering",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Custom data retention controls",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Organization wide skills deployment",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Payment options",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Credit card",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "ACH",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Invoicing / net terms",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Billing cycle",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Adding seats midterm",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Models and usage",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Fable",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Opus",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Sonnet",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Haiku",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Usage credits",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Priority access at high traffic times",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "User and organizational level spend controls",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Model training",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Team",
+      "classes": [
+        "card_pricing_title_text",
+        "u-text-style-h4",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Enterprise",
+      "classes": [
+        "card_pricing_title_text",
+        "u-text-style-h4",
+        "u-mb-1"
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Compare features across plans",
+      "classes": []
+    },
+    {
+      "tag": "h3",
+      "text": "Features and capabilities",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Chat on web, iOS, Android and Desktop",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude Code",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude Cowork",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude Design",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "@Claude",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude Security",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Ability to search the web",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Desktop extensions",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Voice mode",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Incognito chats",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "User preferences",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Artifacts",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Projects",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Project sharing and collaboration",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Create and edit files with code execution",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Research",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Memory",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Skills",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Connectors",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Web search",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Enterprise search",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude for Chrome",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude for Microsoft 365",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Claude for Microsoft Outlook",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Security and administration",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Single sign-on (SSO)",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Domain verification",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Restrict org creation",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Migrate accounts using your domains",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Central billing and administration",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Admin controls for remote and local connectors",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Enterprise deployment for the Claude desktop app",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Usage analytics",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Organization wide skills deployment",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Domain capture",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Role-based access",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "System for Cross-domain Identity Management (SCIM)",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Audit logs",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Compliance API",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Custom data retention controls",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Set org instructions",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "HIPAA-ready offering",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Payment options",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Credit card",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "ACH",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Invoicing / net terms",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Billing cycle",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Adding seats midterm",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Partnership",
+      "classes": [
+        "pricing-accordion_title",
+        "u-text-style-h5"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "AWS Marketplace availability",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Consultation",
+      "classes": [
+        "pricing-grid_row-title"
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "tag": "a",
+      "text": "Claude",
+      "href": "/product/overview",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude Code",
+      "href": "/product/claude-code",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude Cowork",
+      "href": "/product/cowork",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "@Claude",
+      "href": "/product/tag",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude for Chrome",
+      "href": "/claude-for-chrome",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude for Microsoft 365",
+      "href": "/claude-for-microsoft-365",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Skills",
+      "href": "/skills",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Design",
+      "href": "/product/design",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Security",
+      "href": "/product/claude-security",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Science",
+      "href": "/product/claude-science",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Mythos",
+      "href": "https://www.anthropic.com/claude/mythos",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Fable",
+      "href": "https://www.anthropic.com/claude/fable",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Opus",
+      "href": "https://www.anthropic.com/claude/opus",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Sonnet",
+      "href": "https://www.anthropic.com/claude/sonnet",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Haiku",
+      "href": "https://www.anthropic.com/claude/haiku",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Overview",
+      "href": "/platform/api",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "href": "http://claude.com/pricing#api",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Developer docs",
+      "href": "https://platform.claude.com/docs",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Console login",
+      "href": "https://platform.claude.com/",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Ecosystem",
+      "href": "/ecosystem",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Marketplace",
+      "href": "/platform/marketplace",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Connectors",
+      "href": "/connectors",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Plugins",
+      "href": "/plugins",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "AI agents",
+      "href": "/solutions/agents",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Coding",
+      "href": "/solutions/coding",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Startups",
+      "href": "/programs/startups",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/solutions/enterprise",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Legal",
+      "href": "/solutions/legal",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Security",
+      "href": "/solutions/security",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Customer support",
+      "href": "/solutions/customer-support",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Education",
+      "href": "/solutions/education",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Financial services",
+      "href": "/solutions/financial-services",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Government",
+      "href": "/solutions/government",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Healthcare",
+      "href": "/solutions/healthcare",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Life sciences",
+      "href": "/solutions/life-sciences",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Nonprofits",
+      "href": "/solutions/nonprofits",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Overview",
+      "href": "/pricing",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block",
+        "w--current"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "API",
+      "href": "/pricing#api",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Blog",
+      "href": "/blog",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Customer stories",
+      "href": "/customers",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Anthropic news",
+      "href": "https://www.anthropic.com/news",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Anthropic Academy",
+      "href": "https://www.anthropic.com/learn",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Courses",
+      "href": "/resources/courses",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Tutorials",
+      "href": "/resources/tutorials",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Use cases",
+      "href": "/resources/use-cases",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Events",
+      "href": "https://www.anthropic.com/events",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Community",
+      "href": "/community",
+      "classes": [
+        "nav_dropdown_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Login",
+      "href": "https://claude.ai/login",
+      "classes": [
+        "nav_links_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude",
+      "href": "/product/overview",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude Code",
+      "href": "/product/claude-code",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude Cowork",
+      "href": "/product/cowork",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "@Claude",
+      "href": "/product/tag",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude for Chrome",
+      "href": "/claude-for-chrome",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Claude for Microsoft 365",
+      "href": "/claude-for-microsoft-365",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Skills",
+      "href": "/skills",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Design",
+      "href": "/product/design",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Security",
+      "href": "/product/claude-security",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Science",
+      "href": "/product/claude-science",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Mythos",
+      "href": "https://www.anthropic.com/claude/mythos",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Fable",
+      "href": "https://www.anthropic.com/claude/fable",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Opus",
+      "href": "https://www.anthropic.com/claude/opus",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Sonnet",
+      "href": "https://www.anthropic.com/claude/sonnet",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Haiku",
+      "href": "https://www.anthropic.com/claude/haiku",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Overview",
+      "href": "/platform/api",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "href": "http://claude.com/pricing#api",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Developer docs",
+      "href": "https://platform.claude.com/docs",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Console login",
+      "href": "https://platform.claude.com/",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Ecosystem",
+      "href": "/ecosystem",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Marketplace",
+      "href": "/platform/marketplace",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Connectors",
+      "href": "/connectors",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Plugins",
+      "href": "/plugins",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "AI agents",
+      "href": "/solutions/agents",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Coding",
+      "href": "/solutions/coding",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Startups",
+      "href": "/programs/startups",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Enterprise",
+      "href": "/solutions/enterprise",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Legal",
+      "href": "/solutions/legal",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Security",
+      "href": "/solutions/security",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Customer support",
+      "href": "/solutions/customer-support",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Education",
+      "href": "/solutions/education",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Financial services",
+      "href": "/solutions/financial-services",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Government",
+      "href": "/solutions/government",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Healthcare",
+      "href": "/solutions/healthcare",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Life sciences",
+      "href": "/solutions/life-sciences",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Nonprofits",
+      "href": "/solutions/nonprofits",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Overview",
+      "href": "/pricing",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block",
+        "w--current"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "API",
+      "href": "/pricing#api",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Blog",
+      "href": "/blog",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Customer stories",
+      "href": "/customers",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Anthropic news",
+      "href": "https://www.anthropic.com/news",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Anthropic Academy",
+      "href": "https://www.anthropic.com/learn",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Courses",
+      "href": "/resources/courses",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Tutorials",
+      "href": "/resources/tutorials",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Use cases",
+      "href": "/resources/use-cases",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Events",
+      "href": "https://www.anthropic.com/events",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Community",
+      "href": "/community",
+      "classes": [
+        "nav_dropdown_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Login",
+      "href": "https://claude.ai/login",
+      "classes": [
+        "nav_links_link",
+        "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Pricing",
+      "href": "#",
+      "classes": [
+        "breadcrumb_text",
+        "u-text-style-caption",
+        "is_linked",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Ask questions about this page",
+      "href": "#",
+      "classes": [
+        "nav_dropdown_link",
+        "is-secondary",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Copy as markdown",
+      "href": "#",
+      "classes": [
+        "nav_dropdown_link",
+        "is-secondary",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Next",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Next",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Next",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Next",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Back",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Back",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Next",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Next",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Back",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Back",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Next",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Next",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Back",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Back",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Next",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Next",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Back",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Back",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Submit",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Submit",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Start over",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Start over",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get Team plan",
+      "href": "https://claude.ai/redirect/website.v1.7e047257-6763-4812-8a7b-5bcbe8589994/upgrade",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Get Team plan",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Start over",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Start over",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get Enterprise plan",
+      "href": "http://claude.ai/create/enterprise",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Get Enterprise plan",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Start over",
+      "href": "#",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Start over",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Individual",
+      "href": null,
+      "classes": [
+        "tab_btn_wrap",
+        "w-variant-3cd14af1-b216-c491-f99f-73ef4901cb28",
+        "is-active"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Team & Enterprise",
+      "href": null,
+      "classes": [
+        "tab_btn_wrap",
+        "w-variant-3cd14af1-b216-c491-f99f-73ef4901cb28"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "API",
+      "href": null,
+      "classes": [
+        "tab_btn_wrap",
+        "w-variant-3cd14af1-b216-c491-f99f-73ef4901cb28"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/login?plan=free",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/login?plan=pro",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/login?plan=max",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Usage limits",
+      "href": "https://support.anthropic.com/en/articles/9797557-usage-limit-best-practices",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "Usage limits",
+      "href": "https://support.anthropic.com/en/articles/9797557-usage-limit-best-practices",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/redirect/website.v1.7e047257-6763-4812-8a7b-5bcbe8589994",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/redirect/website.v1.7e047257-6763-4812-8a7b-5bcbe8589994",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/redirect/website.v1.7e047257-6763-4812-8a7b-5bcbe8589994",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Try Claude",
+      "href": "https://claude.ai/redirect/website.v1.7e047257-6763-4812-8a7b-5bcbe8589994",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Try Claude",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get Team plan",
+      "href": "https://claude.ai/redirect/website.v1.7e047257-6763-4812-8a7b-5bcbe8589994/upgrade",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Get Team plan",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Get Enterprise plan",
+      "href": "http://claude.ai/create/enterprise",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Get Enterprise plan",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Chat now",
+      "href": "https://claude.ai/buying-agent?src=dotcom_pricing_teams",
+      "classes": [
+        "marginalia_note_button",
+        "u-text-style-caption",
+        "u-mt-0-25"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Usage limits",
+      "href": "https://support.anthropic.com/en/articles/9797557-usage-limit-best-practices",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "Usage limits",
+      "href": "https://support.anthropic.com/en/articles/9797557-usage-limit-best-practices",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "/solutions/education",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Learn more",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Create plan",
+      "href": "https://claude.ai/redirect/website.v1.7e047257-6763-4812-8a7b-5bcbe8589994/upgrade",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Create plan",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Create plan",
+      "href": "http://claude.ai/create/enterprise",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Create plan",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Start building",
+      "href": "https://platform.claude.com/",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Start building",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "https://docs.claude.com/en/docs/build-with-claude/batch-processing",
+      "classes": [
+        "batch_link",
+        "u-text-style-body-2",
+        "u-weight-semibold"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "https://www.anthropic.com/news/fable-mythos-access",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "https://platform.claude.com/docs/en/build-with-claude/data-residency",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "https://platform.claude.com/docs/en/about-claude/pricing#fast-mode-pricing",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "extended prompt caching",
+      "href": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching#1-hour-cache-duration",
+      "classes": []
+    },
+    {
+      "tag": "a",
+      "text": "Explore detailed pricing",
+      "href": "https://platform.claude.com/docs/en/about-claude/pricing",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Explore detailed pricing",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "https://platform.claude.com/docs/en/about-claude/pricing#specific-tool-pricing",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Learn more",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "https://platform.claude.com/docs/en/api/service-tiers",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Learn more",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contact sales",
+      "href": "/contact-sales",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Contact sales",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Learn more",
+      "href": "https://platform.claude.com/docs/en/about-claude/models/overview",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    },
+    {
+      "tag": "button",
+      "text": "Learn more",
+      "href": null,
+      "classes": [
+        "clickable_btn"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Explore detailed pricing",
+      "href": "https://platform.claude.com/docs/en/about-claude/pricing",
+      "classes": [
+        "clickable_link",
+        "w-inline-block"
+      ]
+    }
+  ],
+  "class_frequency": [
+    [
+      "u-display-contents",
+      573
+    ],
+    [
+      "u-svg",
+      551
+    ],
+    [
+      "icon_wrap",
+      508
+    ],
+    [
+      "pricing-table-cell",
+      493
+    ],
+    [
+      "pricing-table_icon",
+      354
+    ],
+    [
+      "u-sr-only",
+      296
+    ],
+    [
+      "clickable_text",
+      294
+    ],
+    [
+      "w-inline-block",
+      248
+    ],
+    [
+      "cc-4col",
+      196
+    ],
+    [
+      "cc-3col",
+      184
+    ],
+    [
+      "w-variant-a32dbd8b-fe5b-f07d-4c02-33134a110ceb",
+      179
+    ],
+    [
+      "u-cover-absolute",
+      160
+    ],
+    [
+      "clickable_wrap",
+      147
+    ],
+    [
+      "clickable_link",
+      147
+    ],
+    [
+      "clickable_btn",
+      147
+    ],
+    [
+      "u-text-style-caption",
+      143
+    ],
+    [
+      "pricing-table-row",
+      111
+    ],
+    [
+      "cc-left-col",
+      111
+    ],
+    [
+      "pricing-grid_row-title",
+      109
+    ],
+    [
+      "pricing-grid_row-title-span",
+      109
+    ],
+    [
+      "nav_dropdown_item",
+      96
+    ],
+    [
+      "nav_dropdown_link",
+      96
+    ],
+    [
+      "nav_dropdown_text",
+      96
+    ],
+    [
+      "nav_dropdown_icon",
+      96
+    ],
+    [
+      "u-display-none",
+      94
+    ],
+    [
+      "w-embed",
+      88
+    ],
+    [
+      "u-flex-vertical-nowrap",
+      83
+    ],
+    [
+      "u-text-style-body-3",
+      80
+    ],
+    [
+      "footer_link",
+      76
+    ],
+    [
+      "footer_link_text",
+      76
+    ],
+    [
+      "tokens_main_val_span",
+      72
+    ],
+    [
+      "u-embed-css",
+      65
+    ],
+    [
+      "u-text-style-body-2",
+      64
+    ],
+    [
+      "is-mega",
+      60
+    ],
+    [
+      "w-richtext",
+      58
+    ],
+    [
+      "u-justify-content-between",
+      54
+    ],
+    [
+      "u-rich-text",
+      53
+    ],
+    [
+      "u-flex-horizontal-nowrap",
+      51
+    ],
+    [
+      "u-weight-semibold",
+      50
+    ],
+    [
+      "u-gap-1",
+      50
+    ],
+    [
+      "u-foreground-tertiary",
+      49
+    ],
+    [
+      "u-text-wrap-pretty",
+      49
+    ],
+    [
+      "tokens_main_wrap",
+      45
+    ],
+    [
+      "tokens_main_label",
+      45
+    ],
+    [
+      "u-align-items-stretch",
+      44
+    ],
+    [
+      "c-paragraph",
+      43
+    ],
+    [
+      "u-text-style-body-1",
+      42
+    ],
+    [
+      "is-desktop",
+      41
+    ],
+    [
+      "u-gap-row-1-5",
+      39
+    ],
+    [
+      "tokens_main_val",
+      36
+    ],
+    [
+      "tokens_main_val_number",
+      36
+    ],
+    [
+      "u-margin-trim",
+      34
+    ],
+    [
+      "u-theme-white",
+      33
+    ],
+    [
+      "nav_dropdown_list_wrap",
+      29
+    ],
+    [
+      "nav_dropdown_list",
+      29
+    ],
+    [
+      "tokens_l1_wrap",
+      27
+    ],
+    [
+      "nav_dropdown_label",
+      26
+    ],
+    [
+      "pricing-grid-tooltip_button",
+      25
+    ],
+    [
+      "pricing-card-tooltip_icon",
+      25
+    ],
+    [
+      "u-mb-text",
+      24
+    ],
+    [
+      "u-gap-row-inherit",
+      23
+    ],
+    [
+      "nav_links_svg",
+      22
+    ],
+    [
+      "nav_links_svg_line",
+      22
+    ],
+    [
+      "button_main_wrap",
+      22
+    ],
+    [
+      "button_small_wrap",
+      21
+    ],
+    [
+      "button_small_text",
+      21
+    ],
+    [
+      "button_main_text",
+      21
+    ],
+    [
+      "beta_tag_wrap",
+      21
+    ],
+    [
+      "w-variant-642007be-6175-013a-1afa-d2afe26f6796",
+      21
+    ],
+    [
+      "w-variant-4099173f-f581-635c-a5fe-cf4a89c62029",
+      19
+    ],
+    [
+      "is-mobile",
+      18
+    ],
+    [
+      "nav_dropdown_divider_wrap",
+      18
+    ],
+    [
+      "nav_dropdown_divider_fill",
+      18
+    ],
+    [
+      "u-alignment-center",
+      18
+    ],
+    [
+      "pricing-accordion_icon-line",
+      18
+    ],
+    [
+      "tokens_breakdown_wrap",
+      18
+    ],
+    [
+      "tokens_l3_wrap",
+      18
+    ],
+    [
+      "u-mb-1",
+      17
+    ],
+    [
+      "u-mb-2",
+      15
+    ],
+    [
+      "form_native_radio_item",
+      15
+    ],
+    [
+      "is-pricing-calculator",
+      15
+    ],
+    [
+      "w-radio",
+      15
+    ],
+    [
+      "w-form-formradioinput",
+      15
+    ],
+    [
+      "w-form-formradioinput--inputType-custom",
+      15
+    ],
+    [
+      "form_native_radio_input",
+      15
+    ],
+    [
+      "w-radio-input",
+      15
+    ],
+    [
+      "pricing-calculator_radio-label",
+      15
+    ],
+    [
+      "w-form-label",
+      15
+    ],
+    [
+      "pricing-calculator_radio-subtitle",
+      15
+    ],
+    [
+      "u-button-group",
+      14
+    ],
+    [
+      "w-variant-92fe68b6-7437-d0c6-3fc0-cc8114f8d03d",
+      14
+    ],
+    [
+      "card_pricing_title_wrap",
+      14
+    ],
+    [
+      "card_pricing_title_text",
+      14
+    ],
+    [
+      "u-text-style-h4",
+      14
+    ],
+    [
+      "u-gap-row-1",
+      14
+    ],
+    [
+      "card_pricing_body",
+      14
+    ],
+    [
+      "w-variant-61d538b2-709c-eb7a-4258-8c0890dc07fc",
+      14
+    ],
+    [
+      "u-embed-js",
+      13
+    ],
+    [
+      "w-script",
+      13
+    ],
+    [
+      "nav_links_link",
+      13
+    ]
+  ],
+  "css_links": [
+    "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/css/claude-brand.shared.51d250c9a.min.css",
+    "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+  ],
+  "inline_css_candidates": {
+    "colors": [
+      [
+        "#df6666",
+        3
+      ],
+      [
+        "#c46849",
+        3
+      ],
+      [
+        "#333",
+        2
+      ],
+      [
+        "rgba(0,0,0,.05)",
+        2
+      ],
+      [
+        "#fff",
+        1
+      ],
+      [
+        "#87867f",
+        1
+      ],
+      [
+        "#d97757",
+        1
+      ]
+    ],
+    "border_radius": [
+      [
+        "4px",
+        1
+      ],
+      [
+        "1rem",
+        1
+      ],
+      [
+        "var(--radius--large)",
+        1
+      ],
+      [
+        "999px",
+        1
+      ],
+      [
+        "24px",
+        1
+      ],
+      [
+        "50%",
+        1
+      ]
+    ],
+    "font_family": [
+      [
+        "inherit",
+        1
+      ],
+      [
+        "var(--_typography---font--mono-family)",
+        1
+      ],
+      [
+        "var(--_typography---font--secondary-family)",
+        1
+      ]
+    ],
+    "box_shadow": [
+      [
+        "0 4px 24px rgba(0,0,0,.05)",
+        2
+      ]
+    ],
+    "css_custom_values": [
+      [
+        "var(--swatch--gray-050)",
+        12
+      ],
+      [
+        "var(--_theme---background-primary)",
+        9
+      ],
+      [
+        "1",
+        6
+      ],
+      [
+        "var(--_theme---button-primary--text)",
+        6
+      ],
+      [
+        "var(--_theme---border-secondary)",
+        6
+      ],
+      [
+        "var(--_theme---button-secondary--text)",
+        6
+      ],
+      [
+        "var(--_theme---button-secondary--background)",
+        6
+      ],
+      [
+        "var(--_theme---button-tertiary--text)",
+        6
+      ],
+      [
+        "0",
+        5
+      ],
+      [
+        "var(--swatch--gray-700)",
+        5
+      ],
+      [
+        "var(--swatch--gray-750)",
+        5
+      ],
+      [
+        "var(--swatch--gray-950)",
+        4
+      ],
+      [
+        "var(--swatch--gray-650)",
+        4
+      ],
+      [
+        "start",
+        3
+      ],
+      [
+        "var(--swatch--transparent)",
+        3
+      ],
+      [
+        "var(--_theme---button-primary--background)",
+        3
+      ],
+      [
+        "var(--_theme---button-primary--border)",
+        3
+      ],
+      [
+        "var(--_theme---foreground-secondary)",
+        3
+      ],
+      [
+        "var(--_theme---button-tertiary--background)",
+        3
+      ],
+      [
+        "var(--_theme---button-tertiary--border)",
+        3
+      ],
+      [
+        "var(--_theme---foreground-primary)",
+        3
+      ],
+      [
+        "#df6666",
+        3
+      ],
+      [
+        "#c46849",
+        3
+      ],
+      [
+        "var(--swatch--gray-850)",
+        2
+      ],
+      [
+        "var(--swatch--gray-600)",
+        2
+      ],
+      [
+        "var(--swatch--gray-400)",
+        2
+      ],
+      [
+        "var(--swatch--gray-500)",
+        2
+      ],
+      [
+        "var(--swatch--gray-800)",
+        2
+      ],
+      [
+        "var(--swatch--sky)",
+        2
+      ],
+      [
+        "[full-start] minmax(0, 1fr) [content-start] repeat(var(--_grid---column-count), minmax(0, var(--_grid---column-width))) [content-end] minmax(0, 1fr) [full-end]",
+        1
+      ],
+      [
+        "[full-start] minmax(0, 1fr) [content-start] minmax(0, calc(100% - var(--site--margin) * 2)) [content-end] minmax(0, 1fr) [full-end]",
+        1
+      ],
+      [
+        "1 !important",
+        1
+      ],
+      [
+        "0 !important",
+        1
+      ],
+      [
+        "var(--swatch--gray-900)",
+        1
+      ],
+      [
+        "var(--swatch--gray-550)",
+        1
+      ],
+      [
+        "var(--swatch--gray-350)",
+        1
+      ],
+      [
+        "var(--swatch--gray-450)",
+        1
+      ],
+      [
+        "var(--swatch--gray-300)",
+        1
+      ],
+      [
+        "var(--_typography---font--mono-text-trim-top)",
+        1
+      ],
+      [
+        "var(--_typography---font--mono-text-trim-bottom)",
+        1
+      ],
+      [
+        "2",
+        1
+      ],
+      [
+        "var(--border-width--main)",
+        1
+      ],
+      [
+        "var(--nav--icon-thickness)",
+        1
+      ],
+      [
+        "var(--_spacing---space--0-25rem)",
+        1
+      ],
+      [
+        "45",
+        1
+      ],
+      [
+        "300ms",
+        1
+      ],
+      [
+        "600ms",
+        1
+      ],
+      [
+        "0ms",
+        1
+      ],
+      [
+        "cubic-bezier(0.16, 1, 0.3, 1)",
+        1
+      ],
+      [
+        "var(--nav--dropdown-open-duration)",
+        1
+      ]
+    ]
+  },
+  "text_terms": [
+    [
+      "claude",
+      150
+    ],
+    [
+      "you",
+      91
+    ],
+    [
+      "and",
+      80
+    ],
+    [
+      "for",
+      79
+    ],
+    [
+      "try",
+      40
+    ],
+    [
+      "the",
+      40
+    ],
+    [
+      "help",
+      36
+    ],
+    [
+      "more",
+      36
+    ],
+    [
+      "mtok",
+      36
+    ],
+    [
+      "contact",
+      33
+    ],
+    [
+      "sales",
+      33
+    ],
+    [
+      "use",
+      32
+    ],
+    [
+      "your",
+      31
+    ],
+    [
+      "enterprise",
+      30
+    ],
+    [
+      "artifact",
+      30
+    ],
+    [
+      "code",
+      27
+    ],
+    [
+      "pricing",
+      25
+    ],
+    [
+      "can",
+      25
+    ],
+    [
+      "access",
+      24
+    ],
+    [
+      "plan",
+      24
+    ],
+    [
+      "learn",
+      23
+    ],
+    [
+      "this",
+      23
+    ],
+    [
+      "security",
+      22
+    ],
+    [
+      "etc.",
+      22
+    ],
+    [
+      "usage",
+      22
+    ],
+    [
+      "with",
+      21
+    ],
+    [
+      "search",
+      21
+    ],
+    [
+      "task.",
+      21
+    ],
+    [
+      "better",
+      21
+    ],
+    [
+      "get",
+      20
+    ],
+    [
+      "would",
+      20
+    ],
+    [
+      "please",
+      20
+    ],
+    [
+      "web",
+      19
+    ],
+    [
+      "policy",
+      19
+    ],
+    [
+      "anthropic",
+      18
+    ],
+    [
+      "next",
+      17
+    ],
+    [
+      "features",
+      16
+    ],
+    [
+      "write",
+      16
+    ],
+    [
+      "microsoft",
+      15
+    ],
+    [
+      "team",
+      15
+    ],
+    [
+      "need",
+      14
+    ],
+    [
+      "google",
+      14
+    ],
+    [
+      "opus",
+      13
+    ],
+    [
+      "from",
+      13
+    ],
+    [
+      "most",
+      13
+    ],
+    [
+      "prompt",
+      13
+    ],
+    [
+      "caching",
+      13
+    ],
+    [
+      "questions",
+      12
+    ],
+    [
+      "back",
+      12
+    ],
+    [
+      "what",
+      12
+    ],
+    [
+      "start",
+      12
+    ],
+    [
+      "output",
+      12
+    ],
+    [
+      "that",
+      12
+    ],
+    [
+      "connectors",
+      11
+    ],
+    [
+      "customer",
+      11
+    ],
+    [
+      "ask",
+      11
+    ],
+    [
+      "kind",
+      11
+    ],
+    [
+      "terms",
+      11
+    ],
+    [
+      "over",
+      11
+    ],
+    [
+      "execute",
+      11
+    ],
+    [
+      "any",
+      11
+    ],
+    [
+      "documents",
+      11
+    ],
+    [
+      "using",
+      11
+    ],
+    [
+      "input",
+      11
+    ],
+    [
+      "information",
+      11
+    ],
+    [
+      "compliance",
+      10
+    ],
+    [
+      "create",
+      10
+    ],
+    [
+      "read",
+      10
+    ],
+    [
+      "service",
+      10
+    ],
+    [
+      "could",
+      10
+    ],
+    [
+      "key",
+      10
+    ],
+    [
+      "right",
+      10
+    ],
+    [
+      "away.",
+      10
+    ],
+    [
+      "think",
+      10
+    ],
+    [
+      "should",
+      10
+    ],
+    [
+      "upload",
+      10
+    ],
+    [
+      "job",
+      10
+    ],
+    [
+      "let",
+      10
+    ],
+    [
+      "know.",
+      10
+    ],
+    [
+      "tools",
+      10
+    ],
+    [
+      "have",
+      10
+    ],
+    [
+      "like",
+      10
+    ],
+    [
+      "drive",
+      10
+    ],
+    [
+      "they",
+      10
+    ],
+    [
+      "accomplish",
+      10
+    ],
+    [
+      "not",
+      10
+    ],
+    [
+      "analysis",
+      10
+    ],
+    [
+      "tool.",
+      10
+    ],
+    [
+      "keep",
+      10
+    ],
+    [
+      "responses",
+      10
+    ],
+    [
+      "friendly",
+      10
+    ],
+    [
+      "brief",
+      10
+    ],
+    [
+      "conversational.",
+      10
+    ],
+    [
+      "task",
+      10
+    ],
+    [
+      "soon",
+      10
+    ],
+    [
+      "great",
+      10
+    ],
+    [
+      "makes",
+      10
+    ],
+    [
+      "sense.",
+      10
+    ],
+    [
+      "consider",
+      10
+    ],
+    [
+      "interactive",
+      10
+    ]
+  ],
+  "html_bytes": 1362953,
+  "body_text_chars": 24389,
+  "downloaded_css": {
+    "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/css/claude-brand.shared.51d250c9a.min.css": "evidence/web/css/6889473510b50328dbb70ae6-css-claude-brand.shared.51d250c9a.min.css",
+    "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css": "evidence/web/css/npm-swiper-11-swiper-bundle.min.css"
+  }
+}

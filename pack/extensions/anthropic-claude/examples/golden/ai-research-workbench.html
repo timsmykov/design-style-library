@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Golden Example — Anthropic-style AI Research Workbench</title>
+<style>
+:root{--canvas:#F7F5EF;--surface:#FFFDF8;--muted:#EEE8DC;--ink:#1F1F1F;--secondary:#66615A;--border:#DED7CC;--clay:#D97757;--clay-dark:#B85C38;--inverse:#221B17;--inverseText:#F7F5EF;--r-card:18px;--r-soft:12px;--shadow:0 18px 60px rgba(40,32,22,.08),0 1px 2px rgba(40,32,22,.08)}
+*{box-sizing:border-box} body{margin:0;background:var(--canvas);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif} .app{min-height:100vh;display:grid;grid-template-columns:290px 1fr}.sidebar{background:#F0EADF;border-right:1px solid var(--border);padding:18px 14px;display:flex;flex-direction:column;gap:18px}.brand{display:flex;align-items:center;gap:10px;font-family:Georgia,serif;font-size:20px}.spark{width:22px;height:22px;background:var(--clay);clip-path:polygon(50% 0,60% 35%,100% 18%,70% 50%,100% 82%,60% 65%,50% 100%,40% 65%,0 82%,30% 50%,0 18%,40% 35%)}.pill{font-size:11px;color:var(--secondary);border:1px solid var(--border);border-radius:999px;padding:4px 8px}.navgroup{display:grid;gap:6px}.label{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:#897f72;margin:8px 8px}.item{display:flex;justify-content:space-between;gap:8px;padding:9px 10px;border-radius:10px;color:#423b34;font-size:13px}.item.active{background:#E5DED2;color:var(--ink)}.main{position:relative;padding:28px 34px 160px}.topbar{display:flex;justify-content:space-between;align-items:center}.title h1{font-family:Georgia,serif;font-size:40px;line-height:1.04;margin:0 0 8px}.title p{margin:0;color:var(--secondary);max-width:620px}.actions{display:flex;gap:10px}.btn{border:1px solid var(--border);border-radius:999px;padding:10px 14px;background:transparent;color:var(--ink);font-size:13px}.btn.primary{background:var(--ink);color:var(--inverseText);border-color:var(--ink)}.grid{margin-top:34px;display:grid;grid-template-columns:1.1fr .9fr;gap:22px}.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-card);box-shadow:var(--shadow);padding:24px}.card h2{font-family:Georgia,serif;font-size:26px;margin:0 0 8px}.card p{color:var(--secondary);line-height:1.55}.source{display:flex;align-items:center;gap:10px;background:#F3EEE5;border:1px solid var(--border);border-radius:12px;padding:12px;margin-top:14px}.dot{width:9px;height:9px;border-radius:999px;background:var(--clay)}.artifact{background:var(--inverse);color:var(--inverseText);border-radius:18px;padding:20px}.artifact .mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#CFC7BC}.artifact h3{font-family:Georgia,serif;margin:12px 0 8px;font-size:24px}.composer{position:fixed;left:calc(290px + 50%);bottom:28px;transform:translateX(-50%);width:min(650px,calc(100vw - 360px));background:var(--surface);border:1px solid var(--border);border-radius:18px;box-shadow:0 18px 70px rgba(35,25,10,.16);padding:14px}.input{font-size:15px;color:#4a433b;padding:8px 6px 14px;border-bottom:1px solid #E9E1D5}.composer-bottom{display:flex;align-items:center;justify-content:space-between;padding-top:10px}.chips{display:flex;gap:8px;flex-wrap:wrap}.chip{font-size:12px;color:var(--secondary);background:#F3EEE5;border:1px solid var(--border);border-radius:999px;padding:6px 9px}.send{width:36px;height:36px;border:0;border-radius:10px;background:var(--clay);color:#fff;font-weight:700}@media(max-width:900px){.app{grid-template-columns:1fr}.sidebar{display:none}.main{padding:22px 18px 150px}.grid{grid-template-columns:1fr}.composer{left:18px;right:18px;width:auto;transform:none}}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar">
+    <div class="brand"><span class="spark"></span><span>Research Claude</span></div>
+    <span class="pill">Editorial workbench</span>
+    <div class="navgroup"><div class="label">Today</div><div class="item active"><span>Market map synthesis</span><span>•</span></div><div class="item"><span>Source review</span><span>3</span></div><div class="item"><span>Draft artifact</span><span></span></div></div>
+    <div class="navgroup"><div class="label">Sources</div><div class="item"><span>PDF notes</span><span>12</span></div><div class="item"><span>Interview clips</span><span>8</span></div></div>
+  </aside>
+  <main class="main">
+    <div class="topbar"><div class="title"><h1>Market memory, distilled.</h1><p>A calm research workspace that turns noisy sources into a reviewed artifact with visible context and recovery paths.</p></div><div class="actions"><button class="btn">Share</button><button class="btn primary">Publish brief</button></div></div>
+    <section class="grid">
+      <article class="card"><h2>What changed this week</h2><p>Three customer interviews point to the same blocker: teams trust AI summaries only when the source trail stays visible beside the answer.</p><div class="source"><span class="dot"></span><span>Evidence: 8 interviews · 14 notes · confidence medium-high</span></div></article>
+      <article class="artifact"><div class="mono">artifact.md · verified draft</div><h3>Decision brief</h3><p>Prioritize source-backed answer cards over generic dashboards. The interface should show the answer, the evidence, and the next action in one quiet surface.</p><div class="mono">status: ready for review · model: Sonnet · sources: pinned</div></article>
+    </section>
+    <div class="composer"><div class="input">Compare the interview notes and update the decision brief. Keep source citations visible.</div><div class="composer-bottom"><div class="chips"><span class="chip">Sonnet 4.0</span><span class="chip">/research</span><span class="chip">sources pinned</span><span class="chip">review mode</span></div><button class="send">↵</button></div></div>
+  </main>
+</div>
+</body>
+</html>

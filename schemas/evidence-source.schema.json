@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Design evidence source record",
+  "type": "object",
+  "required": ["id", "source_type", "local_path", "captured_at", "confidence", "scope_note"],
+  "properties": {
+    "id": {"type": "string"},
+    "source_type": {"enum": ["mobbin_screen", "mobbin_flow", "mobbin_section", "public_web", "browser_probe", "computed_style", "css_parse", "manual_note", "generated_eval"]},
+    "original_url": {"type": "string"},
+    "local_path": {"type": "string"},
+    "captured_at": {"type": "string"},
+    "platform": {"enum": ["web", "ios", "android", "desktop", "unknown"]},
+    "moment": {"type": "string"},
+    "observed_patterns": {"type": "array", "items": {"type": "string"}},
+    "confidence": {"enum": ["observed", "extracted", "inferred", "adapted", "experimental"]},
+    "scope_note": {"type": "string"},
+    "rights_note": {"type": "string"}
+  }
+}

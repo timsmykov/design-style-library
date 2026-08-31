@@ -1,0 +1,21 @@
+observations:
+  - id: style-formula
+    claim: "dark precision workspace; quiet purple-blue semantic accents; dense keyboard-native issue/project operations; glassy black marketing gradients; sparse high-signal status metadata"
+    confidence: medium
+    evidence: STYLE.md plus local visual corpus
+  - id: local-corpus
+    claim: "Local visual corpus contains 30 screens, 30 sections, 29 flow previews, 2 public web captures, and 1 authenticated screenshots."
+    confidence: high
+    evidence: evidence/ directories and source-map files
+  - id: token-system
+    claim: "Token system exposes color, typography, spacing, and radius roles for implementation. Color anchors: `canvas`=#08090d; `surface`=#111217; `panel`=#191a22; `text`=#f7f8ff; `muted`=#9ca3b7; `border`=#2a2d39; `accent`=#5e6ad2; `accent2`=#8b5cf6. Type anchors: `ui`=Inter/system sans-serif; `mono`=ui-monospace/SFMono-Regular. Structural anchors: spacing scale present, radius scale present."
+    confidence: high
+    evidence: tokens/tokens.json and tokens/css-vars.css
+  - id: component-grammar
+    claim: "Component grammar is normalized into 10 capsules: command-menu, cycle-status-panel, integration-settings, issue-detail-pane, issue-list-table, onboarding-workspace, pricing-feature-grid, project-roadmap-board, status-priority-pill, workspace-sidebar."
+    confidence: high
+    evidence: components/component-index.jsonl and components/capsules/
+  - id: runtime-boundary
+    claim: "Runtime agents can use this style offline from pack files only; external tools are build-time enrichment lanes."
+    confidence: high
+    evidence: agent-contract.md and unified pack DESIGN.md

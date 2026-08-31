@@ -1,0 +1,14 @@
+{
+  "component_id": "pricing-table",
+  "evidence_count": 9,
+  "colors": {
+    "canvas": "#f6f9fc",
+    "surface": "#ffffff",
+    "panel": "#f0f4f8",
+    "text": "#0a2540",
+    "muted": "#425466",
+    "border": "#d9e2ec",
+    "accent": "#635bff",
+    "accent2": "#00d4ff"
+  }
+}

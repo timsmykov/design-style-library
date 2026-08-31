@@ -1,0 +1,14 @@
+{
+  "component_id": "analytics-chart",
+  "evidence_count": 6,
+  "colors": {
+    "canvas": "#000000",
+    "surface": "#0a0a0a",
+    "panel": "#111111",
+    "text": "#fafafa",
+    "muted": "#a1a1aa",
+    "border": "#27272a",
+    "accent": "#ffffff",
+    "accent2": "#0070f3"
+  }
+}

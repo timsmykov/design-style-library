@@ -1,0 +1,13 @@
+id: vercel-developer-control-plane
+name: Vercel Developer Control Plane
+version: 0.5.0
+status: draft
+offline_ready: false
+category: developer_control_plane
+local_mobbin_refs: 60
+source_map_rows: 60
+component_capsules: 10
+public_urls:
+  - https://vercel.com/
+  - https://vercel.com/pricing
+  - https://vercel.com/docs

@@ -1,0 +1,12 @@
+id: linear-operational-workspace
+name: Linear Operational Workspace
+version: 0.5.0
+status: draft
+offline_ready: false
+category: operational_workspace
+local_mobbin_refs: 89
+source_map_rows: 89
+component_capsules: 10
+public_urls:
+  - https://linear.app/
+  - https://linear.app/pricing

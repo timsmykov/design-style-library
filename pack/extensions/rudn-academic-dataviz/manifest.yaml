@@ -1,0 +1,44 @@
+id: rudn-academic-dataviz
+name: RUDN Academic Data Visualization
+version: 1.0.0
+status: draft
+category: academic_education
+summary: >
+  A rigorous, high-clarity academic teaching system built from white space,
+  black Inter typography, electric blue emphasis, lavender evidence bands,
+  thin rules, and worksheet-like structures for data literacy.
+
+best_for:
+  - university presentations
+  - data visualization teaching
+  - seminar worksheets
+  - evidence-based explainers
+  - charts, tables, and course handouts
+
+avoid_for:
+  - luxury branding
+  - entertainment-first content
+  - dense executive dashboards
+  - decorative social media graphics
+  - dark-mode-first products
+
+runtime_contract:
+  external_tools_allowed: false
+  canonical_prompts: false
+  agent_uses_repo_only: true
+
+evidence:
+  local_assets: 3
+  source_deck_pages: 24
+  evidence_level: partial
+  notes:
+    - The 24-page source deck is the primary evidence for layout, hierarchy, teaching patterns, and palette extraction.
+    - The palette screenshot explicitly contributes the #4950BC cross-medium action color and neutral text/background values.
+    - Inter Regular, Light, and Bold are embedded in the source PDF.
+
+offline_readiness:
+  offline_ready: true
+  fresh_agent_eval_passed: false
+  known_gaps:
+    - Official RUDN brand guidelines and logo rules were not supplied; this is a course visual system, not a claim of university-wide brand compliance.
+    - Fresh-agent blind generation eval remains to be run.

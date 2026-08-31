@@ -1,0 +1,146 @@
+{
+  "id": "hermes-unified-design-pack",
+  "generated_at": "2026-07-05T08:30:20.859282+00:00",
+  "role": "single runtime pack combining VoltAgent broad DESIGN.md baseline with Hermes deep extensions",
+  "source_baseline": {
+    "fork": "timsmykov/awesome-design-md",
+    "upstream": "VoltAgent/awesome-design-md",
+    "upstream_commit": "664b3e78fd1a298ba11973822da988483256d4b4",
+    "license": "MIT",
+    "design_md_count": 74
+  },
+  "runtime_entrypoints": {
+    "root_contract": "pack/DESIGN.md",
+    "registry": "pack/registry.json",
+    "broad_catalog": "pack/design-md/",
+    "unified_styles": "pack/styles/",
+    "deep_extensions": "pack/extensions/",
+    "component_slices": "pack/components/"
+  },
+  "authority_order": [
+    "pack/DESIGN.md",
+    "pack/styles/<style-id>/DESIGN.md",
+    "pack/extensions/<style-id> deep source files",
+    "pack/components/<style-id> semantic component slices"
+  ],
+  "styles": [
+    {
+      "id": "airbnb-marketplace-warm-consumer",
+      "name": "Airbnb Marketplace Warm Consumer",
+      "entry": "pack/styles/airbnb-marketplace-warm-consumer/DESIGN.md",
+      "extension": "pack/extensions/airbnb-marketplace-warm-consumer",
+      "components": "pack/components/airbnb-marketplace-warm-consumer",
+      "baseline_ids": [
+        "airbnb"
+      ]
+    },
+    {
+      "id": "anthropic-claude",
+      "name": "Anthropic / Claude Editorial Workbench",
+      "entry": "pack/styles/anthropic-claude/DESIGN.md",
+      "extension": "pack/extensions/anthropic-claude",
+      "components": "pack/components/anthropic-claude",
+      "baseline_ids": [
+        "claude"
+      ]
+    },
+    {
+      "id": "cursor-ai-ide",
+      "name": "Cursor AI IDE",
+      "entry": "pack/styles/cursor-ai-ide/DESIGN.md",
+      "extension": "pack/extensions/cursor-ai-ide",
+      "components": "pack/components/cursor-ai-ide",
+      "baseline_ids": [
+        "cursor"
+      ]
+    },
+    {
+      "id": "figma-collaborative-canvas",
+      "name": "Figma Collaborative Canvas",
+      "entry": "pack/styles/figma-collaborative-canvas/DESIGN.md",
+      "extension": "pack/extensions/figma-collaborative-canvas",
+      "components": "pack/components/figma-collaborative-canvas",
+      "baseline_ids": [
+        "figma"
+      ]
+    },
+    {
+      "id": "linear-operational-workspace",
+      "name": "Linear Operational Workspace",
+      "entry": "pack/styles/linear-operational-workspace/DESIGN.md",
+      "extension": "pack/extensions/linear-operational-workspace",
+      "components": "pack/components/linear-operational-workspace",
+      "baseline_ids": [
+        "linear.app"
+      ]
+    },
+    {
+      "id": "metamask-crypto-wallet-trust",
+      "name": "MetaMask / Crypto Wallet Trust",
+      "entry": "pack/styles/metamask-crypto-wallet-trust/DESIGN.md",
+      "extension": "pack/extensions/metamask-crypto-wallet-trust",
+      "components": "pack/components/metamask-crypto-wallet-trust",
+      "baseline_ids": [
+        "coinbase",
+        "binance",
+        "kraken"
+      ]
+    },
+    {
+      "id": "notion-document-os",
+      "name": "Notion Document OS",
+      "entry": "pack/styles/notion-document-os/DESIGN.md",
+      "extension": "pack/extensions/notion-document-os",
+      "components": "pack/components/notion-document-os",
+      "baseline_ids": [
+        "notion"
+      ]
+    },
+    {
+      "id": "perplexity-answer-engine",
+      "name": "Perplexity Answer Engine",
+      "entry": "pack/styles/perplexity-answer-engine/DESIGN.md",
+      "extension": "pack/extensions/perplexity-answer-engine",
+      "components": "pack/components/perplexity-answer-engine",
+      "baseline_ids": []
+    },
+    {
+      "id": "raycast-command-native",
+      "name": "Raycast Command Native",
+      "entry": "pack/styles/raycast-command-native/DESIGN.md",
+      "extension": "pack/extensions/raycast-command-native",
+      "components": "pack/components/raycast-command-native",
+      "baseline_ids": [
+        "raycast"
+      ]
+    },
+    {
+      "id": "rudn-academic-dataviz",
+      "name": "RUDN Academic Data Visualization",
+      "entry": "pack/styles/rudn-academic-dataviz/DESIGN.md",
+      "extension": "pack/extensions/rudn-academic-dataviz",
+      "components": "pack/components/rudn-academic-dataviz",
+      "baseline_ids": []
+    },
+    {
+      "id": "stripe-trust-commerce",
+      "name": "Stripe Trust Commerce",
+      "entry": "pack/styles/stripe-trust-commerce/DESIGN.md",
+      "extension": "pack/extensions/stripe-trust-commerce",
+      "components": "pack/components/stripe-trust-commerce",
+      "baseline_ids": [
+        "stripe"
+      ]
+    },
+    {
+      "id": "vercel-developer-control-plane",
+      "name": "Vercel Developer Control Plane",
+      "entry": "pack/styles/vercel-developer-control-plane/DESIGN.md",
+      "extension": "pack/extensions/vercel-developer-control-plane",
+      "components": "pack/components/vercel-developer-control-plane",
+      "baseline_ids": [
+        "vercel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": {
+    "markdown": "![Icon for claude.ai](https://claude.ai/favicon.ico)\n\nclaude.ai\n=========\n\nPerforming security verification\n--------------------------------\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nVerification successful. Waiting for claude.ai to respond\n---------------------------------------------------------\n\nRay ID: `a13e64e588d0d27d`\n\nPerformance and Security by [Cloudflare](https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m)\n[Privacy](https://www.cloudflare.com/privacypolicy/)",
+    "metadata": {
+      "robots": "noindex,nofollow",
+      "viewport": "width=device-width,initial-scale=1",
+      "title": "Just a moment...",
+      "language": "en-US",
+      "scrapeId": "019f1944-499c-76ae-bfb6-d65cda166964",
+      "sourceURL": "https://claude.ai/",
+      "url": "https://claude.ai/",
+      "statusCode": 403,
+      "error": "Forbidden",
+      "contentType": "text/html; charset=UTF-8",
+      "proxyUsed": "basic",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "html": "<!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><body><div class=\"main-wrapper tmlDI2\" role=\"main\"><div class=\"main-content\"><div class=\"bBhEL6\"><img src=\"https://claude.ai/favicon.ico\" class=\"KBSO2 eknop7\" alt=\"Icon for claude.ai\"><h1>claude.ai</h1></div><h2 id=\"RbxZS7\" class=\"JgHTL2 vbVah6\">Performing security verification</h2><p id=\"KzQIi9\" class=\"THFeN6 graoS5\">This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.</p><div id=\"KGOjX7\" style=\"display: grid;\"><div><div><input type=\"hidden\" name=\"cf-turnstile-response\" id=\"cf-chl-widget-0zz85_response\"></div></div></div><div id=\"wWye8\" style=\"display: none;\"><h2 id=\"TVfX5\" class=\"graoS5\">Verification successful. Waiting for claude.ai to respond</h2></div><div id=\"Thxa7\" class=\"suKt8 AyyeD3\" style=\"display: none; visibility: hidden;\"><div class=\"elqEB1\"><div></div><div></div><div></div><div></div></div></div></div></div><div class=\"footer\" role=\"contentinfo\"><div class=\"footer-inner\"><div class=\"footer-wrapper\"><div><div class=\"ray-id\">Ray ID: <code>a13e64e588d0d27d</code></div></div><div class=\"footer-link-wrapper\"><span class=\"footer-text\">Performance and Security by <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/?utm_source=challenge&amp;utm_campaign=m\" target=\"_blank\">Cloudflare</a></span><span class=\"footer-divider\"></span><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/privacypolicy/\" class=\"footer-text\">Privacy</a></div></div></div></div></body></html>",
+    "links": [
+      "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+      "https://www.cloudflare.com/privacypolicy/"
+    ]
+  }
+}

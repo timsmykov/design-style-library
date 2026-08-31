@@ -1,0 +1,116 @@
+id: no-login-batch-01
+name: Ten no-login style packs after Anthropic
+mode: no_login
+source_of_truth: git_repo
+semantic_index: gbrain
+status: planned
+shared_acceptance:
+  - local Mobbin refs saved under evidence/mobbin
+  - source map covers 100 percent of local refs
+  - screenshot facts grouped by component
+  - public DOM/CSS/CDP evidence captured where possible
+  - component capsules and component-index generated
+  - Gbrain slices synced from repo export
+  - stylepack verifier passes
+  - authenticated gaps recorded explicitly
+targets:
+  - id: perplexity-answer-engine
+    name: Perplexity Answer Engine
+    category: answer_search_engine
+    public_urls:
+      - https://www.perplexity.ai/
+      - https://www.perplexity.ai/pro
+    mobbin_queries:
+      screens: Perplexity answer search citations sources follow-up threads collections settings web app
+      sections: Perplexity AI search answer engine landing pricing product cards citations trust
+      flows: Perplexity onboarding signup upgrade pro search answer citation follow-up
+  - id: notion-document-os
+    name: Notion Document OS
+    category: document_os
+    public_urls:
+      - https://www.notion.com/
+      - https://www.notion.com/pricing
+    mobbin_queries:
+      screens: Notion web app document editor database sidebar blocks settings templates workspace
+      sections: Notion website product docs wiki projects pricing templates AI sections
+      flows: Notion onboarding create workspace invite team templates upgrade settings
+  - id: linear-operational-workspace
+    name: Linear Operational Workspace
+    category: operational_workspace
+    public_urls:
+      - https://linear.app/
+      - https://linear.app/pricing
+    mobbin_queries:
+      screens: Linear issues projects cycles roadmap command menu settings web app
+      sections: Linear website product features pricing customer stories changelog
+      flows: Linear onboarding create workspace invite team create issue upgrade settings
+  - id: stripe-trust-commerce
+    name: Stripe Trust Commerce
+    category: payments_trust
+    public_urls:
+      - https://stripe.com/
+      - https://stripe.com/pricing
+    mobbin_queries:
+      screens: Stripe dashboard payments checkout invoices balances pricing settings web app
+      sections: Stripe website pricing payments checkout cards trust compliance enterprise docs
+      flows: Stripe onboarding business verification checkout payment subscription invoice payout settings
+  - id: metamask-crypto-wallet-trust
+    name: MetaMask / Crypto Wallet Trust
+    category: crypto_wallet_trust
+    public_urls:
+      - https://metamask.io/
+      - https://metamask.io/swaps/
+    mobbin_queries:
+      screens: MetaMask wallet send receive swap tokens network gas risk warning portfolio browser extension
+      sections: MetaMask website wallet swap portfolio security developer product cards
+      flows: MetaMask onboarding create wallet import seed phrase send token swap connect dapp risk warning
+  - id: vercel-developer-control-plane
+    name: Vercel Developer Control Plane
+    category: developer_control_plane
+    public_urls:
+      - https://vercel.com/
+      - https://vercel.com/pricing
+      - https://vercel.com/docs
+    mobbin_queries:
+      screens: Vercel dashboard deployments projects logs environment variables domains analytics settings
+      sections: Vercel website developer platform pricing docs templates enterprise feature cards
+      flows: Vercel onboarding import project deploy configure domain environment variables upgrade
+  - id: raycast-command-native
+    name: Raycast Command Native
+    category: command_native_utility
+    public_urls:
+      - https://www.raycast.com/
+      - https://www.raycast.com/pricing
+    mobbin_queries:
+      screens: Raycast command palette extensions AI snippets settings preferences search actions
+      sections: Raycast website command palette AI extensions teams pricing feature cards
+      flows: Raycast onboarding install extension command palette AI setup preferences upgrade
+  - id: figma-collaborative-canvas
+    name: Figma Collaborative Canvas
+    category: collaborative_canvas
+    public_urls:
+      - https://www.figma.com/
+      - https://www.figma.com/pricing/
+    mobbin_queries:
+      screens: Figma editor canvas layers properties inspector comments multiplayer design file toolbar
+      sections: Figma website design collaboration FigJam pricing enterprise feature cards
+      flows: Figma onboarding create team file invite comment prototype upgrade settings
+  - id: airbnb-marketplace-warm-consumer
+    name: Airbnb Marketplace Warm Consumer
+    category: marketplace_consumer
+    public_urls:
+      - https://www.airbnb.com/
+    mobbin_queries:
+      screens: Airbnb search listing detail booking checkout filters map reviews host profile web app
+      sections: Airbnb website home booking listing cards travel categories trust host sections
+      flows: Airbnb search stay filter listing detail reserve checkout payment cancellation host onboarding
+  - id: cursor-ai-ide
+    name: Cursor AI IDE
+    category: developer_control_plane
+    public_urls:
+      - https://cursor.com/
+      - https://cursor.com/pricing
+    mobbin_queries:
+      screens: Cursor AI IDE code editor chat composer sidebar agents settings model selector terminal
+      sections: Cursor website AI code editor pricing features enterprise docs developer cards
+      flows: Cursor onboarding install import project chat with code upgrade settings model selection

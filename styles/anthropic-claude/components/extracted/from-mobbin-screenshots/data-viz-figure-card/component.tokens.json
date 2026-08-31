@@ -1,0 +1,104 @@
+{
+  "component_id": "data-viz-figure-card",
+  "evidence_count": 1,
+  "source_type_counts": {
+    "section": 1
+  },
+  "dominant_palettes": [
+    [
+      "#f5f5f3",
+      1
+    ],
+    [
+      "#30302f",
+      1
+    ],
+    [
+      "#a9a9a8",
+      1
+    ]
+  ],
+  "ocr_terms": [
+    [
+      "code",
+      1
+    ],
+    [
+      "generation",
+      1
+    ],
+    [
+      "complex",
+      1
+    ],
+    [
+      "capabilities",
+      1
+    ],
+    [
+      "advanced",
+      1
+    ],
+    [
+      "reasoning",
+      1
+    ],
+    [
+      "vision",
+      1
+    ],
+    [
+      "analysis",
+      1
+    ],
+    [
+      "multilingual",
+      1
+    ],
+    [
+      "claudecan",
+      1
+    ],
+    [
+      "perform",
+      1
+    ],
+    [
+      "transerieand",
+      1
+    ],
+    [
+      "analyze",
+      1
+    ],
+    [
+      "almost",
+      1
+    ],
+    [
+      "star",
+      1
+    ],
+    [
+      "creating",
+      1
+    ],
+    [
+      "webstesin",
+      1
+    ],
+    [
+      "processing",
+      1
+    ],
+    [
+      "cognitive",
+      1
+    ],
+    [
+      "tasks",
+      1
+    ]
+  ],
+  "confidence": "visual_extracted"
+}

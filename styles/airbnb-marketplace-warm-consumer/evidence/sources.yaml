@@ -1,0 +1,199 @@
+sources:
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-001-img_1c303f7bc8ae.webp
+    component: search-bar
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-002-img_2dcd602bcc2b.webp
+    component: category-tabs
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-003-img_3081a0644bc0.webp
+    component: listing-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-004-img_3dd3533e8bf5.webp
+    component: map-results-layout
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-005-img_43ee5a87d436.webp
+    component: filter-modal
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-006-img_46d5a1fdbdca.webp
+    component: listing-detail-gallery
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-007-img_47731b13a0cc.webp
+    component: booking-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-008-img_4c3be3952e3c.webp
+    component: reviews-section
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-009-img_4c8b5b2be33f.webp
+    component: host-profile-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-010-img_5da0acc6f43a.webp
+    component: checkout-reservation-flow
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-011-img_6133050e7cf1.webp
+    component: search-bar
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-012-img_6bf22d58884f.webp
+    component: category-tabs
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-013-img_83d6c8532b09.webp
+    component: listing-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-014-img_8843178e5b71.webp
+    component: map-results-layout
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-015-img_96a56d01afe9.webp
+    component: filter-modal
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-016-img_b8e7bc7af6fe.webp
+    component: listing-detail-gallery
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-017-img_bb09f85c1810.webp
+    component: booking-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-018-img_d2792358d70b.webp
+    component: reviews-section
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-019-img_e89423846455.webp
+    component: host-profile-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/screens/screen-020-img_eb268a58370f.webp
+    component: checkout-reservation-flow
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-001-img_1672435c7587.webp
+    component: search-bar
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-002-img_22eef93a502b.webp
+    component: category-tabs
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-003-img_26aefb9cefef.webp
+    component: listing-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-004-img_3c0814667491.webp
+    component: map-results-layout
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-005-img_467edabe402f.webp
+    component: filter-modal
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-006-img_86de9ad02092.webp
+    component: listing-detail-gallery
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-007-img_87b8e17c0de0.webp
+    component: booking-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-008-img_9eb8412a563b.webp
+    component: reviews-section
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-009-img_9f4e874c9c46.webp
+    component: host-profile-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-010-img_a1f35fd51873.webp
+    component: checkout-reservation-flow
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-011-img_a66ad1242040.webp
+    component: search-bar
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-012-img_a90a1749af1e.webp
+    component: category-tabs
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-013-img_abe01cdda5b7.webp
+    component: listing-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-014-img_ac12c403b1d1.webp
+    component: map-results-layout
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-015-img_b7b76036164d.webp
+    component: filter-modal
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-016-img_ccd2646c1c72.webp
+    component: listing-detail-gallery
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-017-img_e22c44e50660.webp
+    component: booking-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-018-img_e255a6e199e5.webp
+    component: reviews-section
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-019-img_ec8bf62ed564.webp
+    component: host-profile-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/sections/section-020-img_f2dd18a4c47b.webp
+    component: checkout-reservation-flow
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-001-img_087cafd43c5d.webp
+    component: search-bar
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-002-img_10224e038c9a.webp
+    component: category-tabs
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-003-img_16e4044a627f.webp
+    component: listing-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-004-img_24491eac8f77.webp
+    component: map-results-layout
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-005-img_32bb325ff565.webp
+    component: filter-modal
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-006-img_3aa3379bbeb4.webp
+    component: listing-detail-gallery
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-007-img_400b5476362c.webp
+    component: booking-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-008-img_4417f00c20d9.webp
+    component: reviews-section
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-009-img_56595e370da5.webp
+    component: host-profile-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-010-img_5a0bf24de16e.webp
+    component: checkout-reservation-flow
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-011-img_5c4591c8088c.webp
+    component: search-bar
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-012-img_752ebe256f84.webp
+    component: category-tabs
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-013-img_76773907b4c6.webp
+    component: listing-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-014-img_8e2126eb21a0.webp
+    component: map-results-layout
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-015-img_aa39c9e93e09.webp
+    component: filter-modal
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-016-img_ab9704d9f0f2.webp
+    component: listing-detail-gallery
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-017-img_b7a22061d07e.webp
+    component: booking-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-018-img_c3e72e9bb807.webp
+    component: reviews-section
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-019-img_d043e01b8cbd.webp
+    component: host-profile-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-020-img_d705cd08cd5a.webp
+    component: checkout-reservation-flow
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-021-img_e5af4586de02.webp
+    component: search-bar
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-022-img_ec25175a6c91.webp
+    component: category-tabs
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-023-img_ee59ab14b8e6.webp
+    component: listing-card
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-024-img_ee8ee57553c9.webp
+    component: map-results-layout
+  - type: mobbin_cache
+    local_path: styles/airbnb-marketplace-warm-consumer/evidence/mobbin/flows/flow-preview-025-img_fb916d796397.webp
+    component: filter-modal
+  - type: public_web
+    url: https://www.airbnb.com/
+    local_path: evidence/web/pages/www-airbnb-com.html

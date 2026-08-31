@@ -1,0 +1,63 @@
+style_id: anthropic-claude
+offline_rule: Use local repo files only; do not call Mobbin, web, Firecrawl, Browser, or Playwright during runtime evaluation.
+checks:
+  - id: AC-MUST-001
+    name: Warm editorial surface
+    kind: must
+    pass_condition: >
+      The artifact uses warm ivory/off-white canvas and avoids sterile generic SaaS whiteness.
+    evidence: STYLE.md + tokens/tokens.json + evidence/observations.yaml
+  - id: AC-MUST-002
+    name: Workbench over chat toy
+    kind: must
+    pass_condition: >
+      AI output is organized as document/workbench/artifact surfaces, not only chat bubbles.
+    evidence: STYLE.md + patterns/ai-workbench.md
+  - id: AC-MUST-003
+    name: Sparse clay accent
+    kind: must
+    pass_condition: >
+      Clay/terracotta accent is sparse and semantic, not a full theme wash.
+    evidence: tokens/tokens.json + dna/principles.md
+  - id: AC-MUST-004
+    name: Clear action hierarchy
+    kind: must
+    pass_condition: >
+      Each decision zone has one dominant action; secondary actions are quiet.
+    evidence: dna/hierarchy.md + dna/interaction.md
+  - id: AC-MUST-005
+    name: Evidence/proof near claim
+    kind: should
+    pass_condition: >
+      Product claims are paired with a preview, artifact, source, code, or document proof when the medium allows it.
+    evidence: patterns/cards.md
+  - id: AC-MUST-006
+    name: Editorial typography rhythm
+    kind: should
+    pass_condition: >
+      Brand/concept moments use editorial display rhythm; utility controls use compact sans.
+    evidence: STYLE.md + tokens/tokens.json
+  - id: AC-ANTI-001
+    name: No neon/glossy AI clichés
+    kind: anti_pattern
+    pass_condition: >
+      No neon gradients, robots, glowing brains, glossy cards, or cyber effects.
+    evidence: dna/anti-patterns.md
+  - id: AC-ANTI-002
+    name: No brand imitation
+    kind: anti_pattern
+    pass_condition: >
+      Does not use Anthropic/Claude logos, wordmarks, exact branded pages, or pixel-perfect clones.
+    evidence: agent-contract.md + dna/anti-patterns.md
+  - id: AC-MEDIUM-001
+    name: Medium adapter loaded
+    kind: medium_specific
+    pass_condition: >
+      The generated artifact follows the relevant pattern file: ai-workbench, cards, forms, presentations, data-viz, or states.
+    evidence: patterns/index.md
+  - id: AC-COMP-001
+    name: Component atlas applied
+    kind: should
+    pass_condition: >
+      Concrete components such as composer, app shell, artifact panel, settings, pricing, or feature tiles follow components/component-atlas.md rather than only the high-level mood.
+    evidence: components/component-atlas.md

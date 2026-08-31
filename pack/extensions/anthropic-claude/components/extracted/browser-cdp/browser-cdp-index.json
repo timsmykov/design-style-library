@@ -1,0 +1,123 @@
+{
+  "targets": [
+    {
+      "slug": "claude-login",
+      "requested_url": "https://claude.ai/login?from=logout",
+      "captured_url": "https://claude.ai/login?from=logout",
+      "title": "Sign in - Claude",
+      "auth_required": false,
+      "auth_blocked": false,
+      "expected_components": [
+        "auth-onboarding"
+      ],
+      "component_counts": {
+        "auth-onboarding": 30,
+        "pricing-plan-cards": 30,
+        "settings-preferences": 30,
+        "app-shell-sidebar": 1,
+        "composer-command-card": 29,
+        "editorial-hero-section": 30,
+        "feature-tile-grid": 30,
+        "data-viz-figure-card": 30
+      },
+      "path": "components/extracted/browser-cdp/claude-login"
+    },
+    {
+      "slug": "claude-new-auth-check",
+      "requested_url": "https://claude.ai/new",
+      "captured_url": "https://claude.ai/login?from=logout&reauth=1&returnTo=%2Fnew",
+      "title": "Sign in - Claude",
+      "auth_required": true,
+      "auth_blocked": true,
+      "expected_components": [
+        "app-shell-sidebar",
+        "composer-command-card",
+        "artifact-workbench-panel"
+      ],
+      "component_counts": {
+        "auth-onboarding": 30,
+        "pricing-plan-cards": 30,
+        "settings-preferences": 30,
+        "app-shell-sidebar": 1,
+        "composer-command-card": 29,
+        "editorial-hero-section": 30,
+        "feature-tile-grid": 30,
+        "data-viz-figure-card": 30
+      },
+      "path": "components/extracted/browser-cdp/claude-new-auth-check"
+    },
+    {
+      "slug": "claude-settings-auth-check",
+      "requested_url": "https://claude.ai/settings/profile",
+      "captured_url": "https://claude.ai/login?from=logout",
+      "title": "Sign in - Claude",
+      "auth_required": true,
+      "auth_blocked": true,
+      "expected_components": [
+        "settings-preferences"
+      ],
+      "component_counts": {
+        "auth-onboarding": 30,
+        "pricing-plan-cards": 30,
+        "settings-preferences": 30,
+        "app-shell-sidebar": 1,
+        "composer-command-card": 29,
+        "editorial-hero-section": 30,
+        "feature-tile-grid": 30,
+        "data-viz-figure-card": 30
+      },
+      "path": "components/extracted/browser-cdp/claude-settings-auth-check"
+    },
+    {
+      "slug": "anthropic-claude-public",
+      "requested_url": "https://www.anthropic.com/claude",
+      "captured_url": "https://claude.com/product/overview",
+      "title": "The AI for Problem Solvers | Claude by Anthropic",
+      "auth_required": false,
+      "auth_blocked": false,
+      "expected_components": [
+        "editorial-hero-section",
+        "feature-tile-grid",
+        "model-comparison-figure"
+      ],
+      "component_counts": {
+        "auth-onboarding": 30,
+        "pricing-plan-cards": 30,
+        "settings-preferences": 30,
+        "app-shell-sidebar": 15,
+        "composer-command-card": 30,
+        "artifact-workbench-panel": 30,
+        "editorial-hero-section": 30,
+        "feature-tile-grid": 30,
+        "model-comparison-figure": 10,
+        "data-viz-figure-card": 30
+      },
+      "path": "components/extracted/browser-cdp/anthropic-claude-public"
+    },
+    {
+      "slug": "anthropic-pricing-public",
+      "requested_url": "https://www.anthropic.com/pricing?subjects=claude&type=product",
+      "captured_url": "https://claude.com/pricing",
+      "title": "Plans & Pricing | Claude by Anthropic",
+      "auth_required": false,
+      "auth_blocked": false,
+      "expected_components": [
+        "pricing-plan-cards",
+        "model-comparison-figure"
+      ],
+      "component_counts": {
+        "auth-onboarding": 30,
+        "pricing-plan-cards": 30,
+        "settings-preferences": 30,
+        "app-shell-sidebar": 15,
+        "composer-command-card": 30,
+        "artifact-workbench-panel": 3,
+        "editorial-hero-section": 30,
+        "feature-tile-grid": 30,
+        "model-comparison-figure": 2,
+        "data-viz-figure-card": 30
+      },
+      "path": "components/extracted/browser-cdp/anthropic-pricing-public"
+    }
+  ]
+}
