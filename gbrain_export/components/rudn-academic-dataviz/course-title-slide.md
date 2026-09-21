@@ -1,12 +1,19 @@
 ---
-title: Design Style Component — rudn-academic-dataviz / course-title-slide
 type: design-style-component
+title: Design Style Component — rudn-academic-dataviz / course-title-slide
 style_id: rudn-academic-dataviz
-component_id: course-title-slide
-component_type: presentation_title
-confidence: observed
 repo_path: styles/rudn-academic-dataviz/components/capsules/course-title-slide.md
-tags: rudn, education, presentation, title
+confidence: observed
+ingested_at: '2026-09-17T11:50:50.744Z'
+source_kind: put_page
+component_id: course-title-slide
+ingested_via: put_page
+component_type: presentation_title
+tags:
+  - education
+  - presentation
+  - rudn
+  - title
 ---
 
 # Course title slide

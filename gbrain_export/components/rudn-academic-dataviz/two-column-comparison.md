@@ -1,12 +1,18 @@
 ---
-title: Design Style Component — rudn-academic-dataviz / two-column-comparison
 type: design-style-component
+title: Design Style Component — rudn-academic-dataviz / two-column-comparison
 style_id: rudn-academic-dataviz
-component_id: two-column-comparison
-component_type: comparison
-confidence: observed
 repo_path: styles/rudn-academic-dataviz/components/capsules/two-column-comparison.md
-tags: rudn, comparison, evidence
+confidence: observed
+ingested_at: '2026-09-17T11:50:59.941Z'
+source_kind: put_page
+component_id: two-column-comparison
+ingested_via: put_page
+component_type: comparison
+tags:
+  - comparison
+  - evidence
+  - rudn
 ---
 
 # Two-column comparison

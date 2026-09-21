@@ -1,12 +1,19 @@
 ---
-title: Design Style Component — rudn-academic-dataviz / numbered-method-strip
 type: design-style-component
+title: Design Style Component — rudn-academic-dataviz / numbered-method-strip
 style_id: rudn-academic-dataviz
-component_id: numbered-method-strip
-component_type: instructional_process
-confidence: observed
 repo_path: styles/rudn-academic-dataviz/components/capsules/numbered-method-strip.md
-tags: rudn, method, process, education
+confidence: observed
+ingested_at: '2026-09-17T11:50:57.530Z'
+source_kind: put_page
+component_id: numbered-method-strip
+ingested_via: put_page
+component_type: instructional_process
+tags:
+  - education
+  - method
+  - process
+  - rudn
 ---
 
 # Numbered method strip

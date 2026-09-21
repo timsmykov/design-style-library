@@ -1,12 +1,19 @@
 ---
-title: Design Style Component — rudn-academic-dataviz / evidence-band
 type: design-style-component
+title: Design Style Component — rudn-academic-dataviz / evidence-band
 style_id: rudn-academic-dataviz
-component_id: evidence-band
-component_type: support_band
-confidence: observed
 repo_path: styles/rudn-academic-dataviz/components/capsules/evidence-band.md
-tags: rudn, evidence, caveat, source
+confidence: observed
+ingested_at: '2026-09-17T11:50:52.927Z'
+source_kind: put_page
+component_id: evidence-band
+ingested_via: put_page
+component_type: support_band
+tags:
+  - caveat
+  - evidence
+  - rudn
+  - source
 ---
 
 # Evidence and caveat band

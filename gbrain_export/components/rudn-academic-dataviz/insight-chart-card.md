@@ -1,12 +1,19 @@
 ---
-title: Design Style Component — rudn-academic-dataviz / insight-chart-card
 type: design-style-component
+title: Design Style Component — rudn-academic-dataviz / insight-chart-card
 style_id: rudn-academic-dataviz
-component_id: insight-chart-card
-component_type: data_viz
-confidence: adapted
 repo_path: styles/rudn-academic-dataviz/components/capsules/insight-chart-card.md
-tags: rudn, data-viz, chart, evidence
+confidence: adapted
+ingested_at: '2026-09-17T11:50:55.264Z'
+source_kind: put_page
+component_id: insight-chart-card
+ingested_via: put_page
+component_type: data_viz
+tags:
+  - chart
+  - data-viz
+  - evidence
+  - rudn
 ---
 
 # Insight-first chart card

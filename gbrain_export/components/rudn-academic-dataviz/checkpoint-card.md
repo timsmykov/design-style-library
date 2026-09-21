@@ -1,12 +1,19 @@
 ---
-title: Design Style Component — rudn-academic-dataviz / checkpoint-card
 type: design-style-component
+title: Design Style Component — rudn-academic-dataviz / checkpoint-card
 style_id: rudn-academic-dataviz
-component_id: checkpoint-card
-component_type: instructional_state
-confidence: observed
 repo_path: styles/rudn-academic-dataviz/components/capsules/checkpoint-card.md
-tags: rudn, checkpoint, task, education
+confidence: observed
+ingested_at: '2026-09-17T11:50:48.301Z'
+source_kind: put_page
+component_id: checkpoint-card
+ingested_via: put_page
+component_type: instructional_state
+tags:
+  - checkpoint
+  - education
+  - rudn
+  - task
 ---
 
 # Checkpoint and recovery card
